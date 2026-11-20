@@ -1,0 +1,107 @@
+{
+ "data": {
+  "search": {
+   "findMoreCarouselType": null,
+   "positionToSlotFindMoreCarousel": null,
+   "facets": null,
+   "banners": null,
+   "quickFilters": null,
+   "showCarFitFacet": false,
+   "requestInfo": {
+    "appliedFacets": [
+     {
+      "values": [
+       "1 to 2"
+      ],
+      "id": "currentprice_facet",
+      "autoFacet": "false"
+     }
+    ],
+    "categoryFacet": null,
+    "sort": {
+     "value": "Best-Match",
+     "displayName": "Best Match"
+    }
+   },
+   "sortOptions": null,
+   "numFound": 0,
+   "showDeliveryFacet": false,
+   "customerFilterContext": [],
+   "track": {
+    "searchTag": "89e6220c-12b6-4ed1-ba23-7c2449ea44a3",
+    "decisions": [
+     {
+      "experience": "QualityRankingRuleExists",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "searchMetricRulePresent",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "aws-east-1",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "autoFacetFallbackToBBFullText",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "variationNotPresent",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "bestSellingSortNotApplied",
+      "name": "SearchSegment",
+      "type": "Segment"
+     }
+    ],
+    "release": "26.44.15",
+    "relevancyVersion": "1.0",
+    "analyticsData": {
+     "isAutoFilterApplied": false,
+     "isAutofacetApplied": false,
+     "isQueryTaggingApplied": false,
+     "isSpellCheck": false,
+     "recallStrategy": "dvsOnly",
+     "requestHandler": "bbfulltext"
+    }
+   },
+   "suggestQueryInfo": {
+    "correctedQuery": null,
+    "correctlySpelled": true
+   },
+   "redirect": null,
+   "relatedSearchTerms": [
+    {
+     "searchTerm": "macbook",
+     "displayName": "macbook"
+    },
+    {
+     "searchTerm": "ipad",
+     "displayName": "ipad"
+    },
+    {
+     "searchTerm": "tablet",
+     "displayName": "tablet"
+    },
+    {
+     "searchTerm": "macbook air",
+     "displayName": "macbook air"
+    },
+    {
+     "searchTerm": "tv",
+     "displayName": "tv"
+    }
+   ],
+   "primaryDocument": null,
+   "documents": []
+  }
+ },
+ "errors": []
+}

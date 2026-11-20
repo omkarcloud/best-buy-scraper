@@ -1,0 +1,98 @@
+{
+ "data": {
+  "marketplaceSeller": {
+   "id": 6562,
+   "name": "Velztorm",
+   "description": "Velztorm is your one-stop-shop for tech! Come to us for HP, Lenovo, Dell, Samsung and other top brands, plus our famous Quality, Customization, Speed, and Service.",
+   "status": "OPEN",
+   "sellerReviewStats": {
+    "stats": {
+     "averageRating": 4.282398452611218,
+     "totalReviewCount": 517,
+     "ratingDistribution": {
+      "one": 64,
+      "two": 11,
+      "three": 23,
+      "four": 36,
+      "five": 383
+     }
+    }
+   },
+   "reviews": {
+    "results": [
+     {
+      "reviewId": "aa578317-ec86-42cb-a616-0a3f08e42d9c",
+      "rating": 5,
+      "reviewTitle": "Great Product and Excellent Service",
+      "reviewText": "Very good service and excellent product. The product was exactly as described. I am very happy with my purchase.",
+      "submittedAt": "2026-11-18T15:40:50.338-06:00"
+     },
+     {
+      "reviewId": "dfd4cd35-83ba-4a6c-994e-85b25fd35bb0",
+      "rating": 4,
+      "reviewTitle": "Dell PC",
+      "reviewText": "PC arrived as advertised. It did rain the day it arrived and the box was all wet which made me nervous. Upon opening the wet cardboard box, the cardboard supports holding the PC were okay. They weren't wet and the PC was dry.",
+      "submittedAt": "2026-11-18T05:23:35.564-06:00"
+     },
+     {
+      "reviewId": "89381bd8-216a-4831-858b-f6e8862ef695",
+      "rating": 5,
+      "reviewTitle": "HP Smart Tank 6001",
+      "reviewText": "Had a bit of trouble getting it hooked up to my wifi (the OmniFiber people had to \"split\" the 5G network to accommodate the 2.4Ghz printer). But it is working so well now, and I am noticing that the print quality is far superior to the previous (non HP) tank inkjet printer that I had before. I do really love HP products! The printer came on time (actually a few days before the original estimate that it would be here).",
+      "submittedAt": "2026-11-17T15:37:46.570-06:00"
+     },
+     {
+      "reviewId": "2dc7ef53-8d1d-4b94-85ed-9ee5cab18dd3",
+      "rating": 4,
+      "reviewTitle": "I love it",
+      "reviewText": "It was delayed one day but that’s okay surely it will be worth the wait",
+      "submittedAt": "2026-11-17T14:43:37.949-06:00"
+     },
+     {
+      "reviewId": "8992440a-ee6e-48a9-9fa0-dbfa85c24244",
+      "rating": 5,
+      "reviewTitle": "Great product",
+      "reviewText": "Product as described, arrived on time and easy set up",
+      "submittedAt": "2026-11-17T12:25:23.818-06:00"
+     },
+     {
+      "reviewId": "5d7a7638-2fdb-41e1-bf41-35eef7018cae",
+      "rating": 5,
+      "reviewTitle": "On Point!",
+      "reviewText": "Delivery was expedient, faster than prime. Computer just as expected, at a great deal. Will be back for more when needed!",
+      "submittedAt": "2026-11-17T10:59:38.754-06:00"
+     },
+     {
+      "reviewId": "22e3c5b4-4916-4202-ad1c-257da3be9403",
+      "rating": 5,
+      "reviewTitle": null,
+      "reviewText": null,
+      "submittedAt": "2026-11-16T22:02:57.495-06:00"
+     },
+     {
+      "reviewId": "5a682d5a-2145-412d-800d-5e9cb402d214",
+      "rating": 5,
+      "reviewTitle": null,
+      "reviewText": null,
+      "submittedAt": "2026-11-15T17:09:59.638-06:00"
+     },
+     {
+      "reviewId": "e2910f66-3af9-4cdc-9262-791f2172f0d6",
+      "rating": 5,
+      "reviewTitle": "Purchaser",
+      "reviewText": "Best buy provided top notch product, with super easy ordering and excellent delivery.",
+      "submittedAt": "2026-11-15T16:26:39.383-06:00"
+     },
+     {
+      "reviewId": "301691a2-e472-4961-a964-47c8bb6eca75",
+      "rating": 5,
+      "reviewTitle": "Timely and In Good Condition",
+      "reviewText": "I ordered a ASUS G14 Zepharus and it arrived in perfect shape and within a week",
+      "submittedAt": "2026-11-15T09:07:50.751-06:00"
+     }
+    ]
+   }
+  }
+ },
+ "errors": []
+}

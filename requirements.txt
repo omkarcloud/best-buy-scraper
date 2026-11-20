@@ -1,0 +1,8 @@
+requests
+bottle
+cheroot
+# 0.17.0 (Oct 2026) has its connections reset by some home ISPs (Best Buy's
+# GraphQL calls among them); 0.16.x connects everywhere.
+curl_cffi>=0.16,<0.17
+marshmallow
+pytest

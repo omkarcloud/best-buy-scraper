@@ -1,0 +1,415 @@
+{
+ "data": {
+  "productBySkuId": {
+   "skuId": "6668952",
+   "bsin": "J3K4L6QW5C",
+   "openBoxCondition": null,
+   "name": {
+    "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+   },
+   "url": {
+    "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+    "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952"
+   },
+   "condition": {
+    "type": "new"
+   },
+   "buyingOptions": [
+    {
+     "type": "New",
+     "pdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952"
+    },
+    {
+     "type": "Excellent",
+     "pdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952/openbox?condition=excellent"
+    },
+    {
+     "type": "Good",
+     "pdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952/openbox?condition=good"
+    },
+    {
+     "type": "Fair",
+     "pdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952/openbox?condition=fair"
+    }
+   ],
+   "seller": {
+    "classification": "1P",
+    "id": "bby",
+    "marketplaceSeller": null
+   },
+   "bsinProduct": {
+    "bsin": "J3K4L6QW5C",
+    "seoPdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+    "products": [
+     {
+      "skuId": "6668952",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952"
+      },
+      "seller": {
+       "classification": "1P",
+       "id": "bby",
+       "marketplaceSeller": null
+      }
+     },
+     {
+      "skuId": "12575317",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/12575317"
+      },
+      "seller": {
+       "classification": "3P",
+       "id": "2695",
+       "marketplaceSeller": {
+        "id": 2695,
+        "name": "RYTEK",
+        "sellerReviewStats": {
+         "stats": {
+          "averageRating": 4.3405172413793105,
+          "totalReviewCount": 232
+         }
+        }
+       }
+      }
+     },
+     {
+      "skuId": "12750857",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/12750857"
+      },
+      "seller": {
+       "classification": "3P",
+       "id": "2228",
+       "marketplaceSeller": {
+        "id": 2228,
+        "name": "PC Heaven",
+        "sellerReviewStats": {
+         "stats": {
+          "averageRating": 4.473337722185648,
+          "totalReviewCount": 1519
+         }
+        }
+       }
+      }
+     },
+     {
+      "skuId": "12723428",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/12723428"
+      },
+      "seller": {
+       "classification": "3P",
+       "id": "7090",
+       "marketplaceSeller": {
+        "id": 7090,
+        "name": "Michael Electronics 2",
+        "sellerReviewStats": {
+         "stats": {
+          "averageRating": 4.5,
+          "totalReviewCount": 218
+         }
+        }
+       }
+      }
+     },
+     {
+      "skuId": "12605032",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/12605032"
+      },
+      "seller": {
+       "classification": "3P",
+       "id": "2837",
+       "marketplaceSeller": {
+        "id": 2837,
+        "name": "EZ Tech",
+        "sellerReviewStats": {
+         "stats": {
+          "averageRating": 4.317757009345795,
+          "totalReviewCount": 107
+         }
+        }
+       }
+      }
+     },
+     {
+      "skuId": "13025298",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/13025298"
+      },
+      "seller": {
+       "classification": "3P",
+       "id": "2163",
+       "marketplaceSeller": {
+        "id": 2163,
+        "name": "Back in the Box",
+        "sellerReviewStats": {
+         "stats": {
+          "averageRating": 4.413793103448276,
+          "totalReviewCount": 145
+         }
+        }
+       }
+      }
+     },
+     {
+      "skuId": "12601023",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/12601023"
+      },
+      "seller": {
+       "classification": "3P",
+       "id": "2465",
+       "marketplaceSeller": {
+        "id": 2465,
+        "name": "JW Tech LLC",
+        "sellerReviewStats": {
+         "stats": {
+          "averageRating": 4.271929824561403,
+          "totalReviewCount": 114
+         }
+        }
+       }
+      }
+     },
+     {
+      "skuId": "12693339",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/12693339"
+      },
+      "seller": {
+       "classification": "3P",
+       "id": "2157",
+       "marketplaceSeller": {
+        "id": 2157,
+        "name": "YEAHER, Inc",
+        "sellerReviewStats": {
+         "stats": {
+          "averageRating": 4.196078431372549,
+          "totalReviewCount": 255
+         }
+        }
+       }
+      }
+     },
+     {
+      "skuId": "13276613",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "refurbished excellent"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/13276613"
+      },
+      "seller": {
+       "classification": "3P",
+       "id": "6562",
+       "marketplaceSeller": {
+        "id": 6562,
+        "name": "Velztorm",
+        "sellerReviewStats": {
+         "stats": {
+          "averageRating": 4.282398452611218,
+          "totalReviewCount": 517
+         }
+        }
+       }
+      }
+     },
+     {
+      "skuId": "12860179",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "refurbished excellent"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/12860179"
+      },
+      "seller": {
+       "classification": "3P",
+       "id": "7616",
+       "marketplaceSeller": {
+        "id": 7616,
+        "name": "Piety Tech LLC",
+        "sellerReviewStats": {
+         "stats": {
+          "averageRating": 4.333333333333333,
+          "totalReviewCount": 33
+         }
+        }
+       }
+      }
+     },
+     {
+      "skuId": "12706180",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/12706180"
+      },
+      "seller": {
+       "classification": "3P",
+       "id": "2124",
+       "marketplaceSeller": {
+        "id": 2124,
+        "name": "BWWI",
+        "sellerReviewStats": {
+         "stats": {
+          "averageRating": 4,
+          "totalReviewCount": 57
+         }
+        }
+       }
+      }
+     },
+     {
+      "skuId": "12618853",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/12618853"
+      },
+      "seller": {
+       "classification": "3P",
+       "id": "7032",
+       "marketplaceSeller": {
+        "id": 7032,
+        "name": "Smartisan Tech",
+        "sellerReviewStats": {
+         "stats": {
+          "averageRating": 4.4,
+          "totalReviewCount": 15
+         }
+        }
+       }
+      }
+     },
+     {
+      "skuId": "13168165",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "refurbished excellent"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/13168165"
+      },
+      "seller": {
+       "classification": "3P",
+       "id": "2465",
+       "marketplaceSeller": {
+        "id": 2465,
+        "name": "JW Tech LLC",
+        "sellerReviewStats": {
+         "stats": {
+          "averageRating": 4.271929824561403,
+          "totalReviewCount": 114
+         }
+        }
+       }
+      }
+     },
+     {
+      "skuId": "12581926",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/12581926"
+      },
+      "seller": {
+       "classification": "3P",
+       "id": "2934",
+       "marketplaceSeller": {
+        "id": 2934,
+        "name": "UNITED TECHNOLOGY",
+        "sellerReviewStats": {
+         "stats": {
+          "averageRating": 4.495744680851064,
+          "totalReviewCount": 470
+         }
+        }
+       }
+      }
+     },
+     {
+      "skuId": "12618856",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "refurbished excellent"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/12618856"
+      },
+      "seller": {
+       "classification": "3P",
+       "id": "7032",
+       "marketplaceSeller": {
+        "id": 7032,
+        "name": "Smartisan Tech",
+        "sellerReviewStats": {
+         "stats": {
+          "averageRating": 4.4,
+          "totalReviewCount": 15
+         }
+        }
+       }
+      }
+     }
+    ]
+   }
+  }
+ },
+ "errors": []
+}

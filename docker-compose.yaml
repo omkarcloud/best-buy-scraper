@@ -1,0 +1,10 @@
+services:
+  best-buy-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Run it on your own computer: Best Buy blocks cloud servers and
+      # datacenter proxies, so leave BEST_BUY_PROXY unset.

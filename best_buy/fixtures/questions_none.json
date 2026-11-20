@@ -1,0 +1,43 @@
+[
+ {
+  "data": {
+   "productBySkuId": {
+    "skuId": "13300403",
+    "questionInfo": {
+     "aiQuestionCount": 0,
+     "aiAnswerCount": 0,
+     "answeredQuestionCount": 0,
+     "askAQuestionPage": "/site/questions/submission/13300403?campaignId=QA_&return=",
+     "isQnaEnabled": true,
+     "qnaStandalonePage": "/site/questions/bundle-upgraded-asus-zenbook-a14-laptop-snapdragon-x-x1-26-100-32gb-1tb-ssd-win-11-pro-with-gaming-mouse-and-power-adapter-iceland-gray/13300403",
+     "totalAnswerCount": 0,
+     "totalQuestionCount": 0,
+     "aiSummary": null
+    },
+    "questions": {
+     "results": []
+    }
+   }
+  },
+  "errors": []
+ },
+ {
+  "data": {
+   "productBySkuId": {
+    "skuId": "13300403",
+    "orderCode": "4",
+    "reviewInfo": {
+     "displayableStats": null
+    },
+    "url": {
+     "relativePdp": "/product/asus-zenbook-a14-laptop-snapdragon-x-x1-26-100-32gb-1tb-ssd-win-11-pro-with-gaming-mouse-and-power-adapter-iceland-gray/JJGHT525X2",
+     "skuSpecificUrl": "https://www.bestbuy.com/product/asus-zenbook-a14-laptop-snapdragon-x-x1-26-100-32gb-1tb-ssd-win-11-pro-with-gaming-mouse-and-power-adapter-iceland-gray/JJGHT525X2/sku/13300403"
+    },
+    "name": {
+     "short": "Bundle - Upgraded - ASUS - Zenbook A14 Laptop (Snapdragon X X1-26-100, 32GB, 1TB SSD, Win 11 Pro) with Gaming Mouse and Power Adapter - Iceland Gray"
+    }
+   }
+  },
+  "errors": []
+ }
+]

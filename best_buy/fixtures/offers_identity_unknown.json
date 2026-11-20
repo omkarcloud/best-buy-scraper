@@ -1,0 +1,108 @@
+{
+ "data": {
+  "productBySkuId": null
+ },
+ "errors": [
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "buyingOptions"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "skuId"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "condition"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "url",
+    "skuSpecificUrl"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "name"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "url",
+    "pdp"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "seller"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "bsinProduct"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "bsin"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "data": {
+  "storeById": null
+ },
+ "errors": [
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "locationId"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "hours"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "openDate"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "closeDate"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "physicalLocation"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "locationSubType"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "storeType"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "timeZone"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "name"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "locationType"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "displayName"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "status"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "phone"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "services"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "territory"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "district"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "marketId"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "openBoxShipFromStoreEligible"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "storeById",
+    "hasPickup"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  }
+ ]
+}

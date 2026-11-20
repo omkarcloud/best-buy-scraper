@@ -1,0 +1,27 @@
+{
+ "data": {
+  "marketplaceSeller": {
+   "id": null,
+   "name": null,
+   "description": null,
+   "status": null,
+   "sellerReviewStats": {
+    "stats": {
+     "averageRating": 0,
+     "totalReviewCount": 0,
+     "ratingDistribution": {
+      "one": null,
+      "two": null,
+      "three": null,
+      "four": null,
+      "five": null
+     }
+    }
+   },
+   "reviews": {
+    "results": []
+   }
+  }
+ },
+ "errors": []
+}

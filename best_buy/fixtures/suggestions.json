@@ -1,0 +1,614 @@
+{
+ "suggestionResponse": {
+  "spellCheck": {
+   "correctedQuery": "",
+   "correctlySpelled": true,
+   "originalQuery": "laptop"
+  },
+  "count": 10,
+  "queryResponseTime": 15,
+  "suggestions": [
+   {
+    "isLLMSourced": "true",
+    "isLLMGenerated": "false",
+    "isAppended": "false",
+    "term": "laptop",
+    "category": [
+     {
+      "name": "Windows Laptops",
+      "id": "pcmcat247400050000"
+     }
+    ],
+    "products": [
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6668952"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6679316"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6679358"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6667498"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6667486"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6667483"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "11142993"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "13289136"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6679354"
+     }
+    ]
+   },
+   {
+    "isLLMSourced": "true",
+    "isLLMGenerated": "false",
+    "isAppended": "false",
+    "term": "laptop gaming",
+    "category": [
+     {
+      "name": "Gaming Laptops",
+      "id": "pcmcat287600050003"
+     },
+     {
+      "name": "Windows Laptops",
+      "id": "pcmcat247400050000"
+     }
+    ],
+    "products": [
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6675841"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6672942"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6613956"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6623881"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6677630"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6673585"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6632144"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6632143"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6675842"
+     }
+    ]
+   },
+   {
+    "isLLMSourced": "true",
+    "isLLMGenerated": "false",
+    "isAppended": "false",
+    "term": "laptop hp",
+    "category": [
+     {
+      "name": "Windows Laptops",
+      "id": "pcmcat247400050000"
+     }
+    ],
+    "products": [
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "13178784"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6667498"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6667486"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6667483"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "11142993"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "13289136"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12900140"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12742253"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6667807"
+     }
+    ]
+   },
+   {
+    "isLLMSourced": "true",
+    "isLLMGenerated": "false",
+    "isAppended": "false",
+    "term": "laptop touchscreen",
+    "category": [
+     {
+      "name": "Windows Laptops",
+      "id": "pcmcat247400050000"
+     }
+    ],
+    "products": [
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6668952"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6672900"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "13271687"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "13271681"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12906575"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6667807"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6679316"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12900140"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12742253"
+     }
+    ]
+   },
+   {
+    "isLLMSourced": "true",
+    "isLLMGenerated": "false",
+    "isAppended": "false",
+    "term": "laptop apple",
+    "category": [
+     {
+      "name": "MacBooks",
+      "id": "pcmcat247400050001"
+     }
+    ],
+    "products": [
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6615874"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6615873"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6615878"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6615877"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12930792"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12930796"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6615876"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6615880"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6615875"
+     }
+    ]
+   },
+   {
+    "isLLMSourced": "true",
+    "isLLMGenerated": "false",
+    "isAppended": "false",
+    "term": "laptop lenovo",
+    "category": [
+     {
+      "name": "Windows Laptops",
+      "id": "pcmcat247400050000"
+     }
+    ],
+    "products": [
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6668410"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6668413"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6668412"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12906575"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12949047"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12766972"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12915894"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6668409"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12849446"
+     }
+    ]
+   },
+   {
+    "isLLMSourced": "true",
+    "isLLMGenerated": "false",
+    "isAppended": "false",
+    "term": "laptop dell",
+    "category": [
+     {
+      "name": "Windows Laptops",
+      "id": "pcmcat247400050000"
+     }
+    ],
+    "products": [
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6668952"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "13087324"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6683772"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "13100479"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6678019"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12222576"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6690171"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6679155"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6618657"
+     }
+    ]
+   },
+   {
+    "isLLMSourced": "true",
+    "isLLMGenerated": "false",
+    "isAppended": "false",
+    "term": "laptop stand",
+    "category": [
+     {
+      "name": "Laptop Stands",
+      "id": "pcmcat1728580713730"
+     }
+    ],
+    "products": [
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6604298"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "5902015"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6516127"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12683707"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12502131"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "13091448"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "13091468"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6664945"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12884421"
+     }
+    ]
+   },
+   {
+    "isLLMSourced": "true",
+    "isLLMGenerated": "false",
+    "isAppended": "false",
+    "term": "laptop charger",
+    "category": [
+     {
+      "name": "Laptop Chargers & Adapters",
+      "id": "pcmcat183800050007"
+     }
+    ],
+    "products": [
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6629403"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6406928"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6406930"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6629402"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6642167"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6632938"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6628896"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "6534855"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12547011"
+     }
+    ]
+   },
+   {
+    "isLLMSourced": "true",
+    "isLLMGenerated": "false",
+    "isAppended": "false",
+    "term": "laptop sleeve",
+    "category": [
+     {
+      "name": "Laptop Sleeves",
+      "id": "pcmcat1511903547940"
+     }
+    ],
+    "products": [
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12595768"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12595782"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12595780"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12595760"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12595785"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12595815"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12595786"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12595791"
+     },
+     {
+      "source": "ORGANIC",
+      "type": "searchSuggestion",
+      "skuId": "12595767"
+     }
+    ]
+   }
+  ],
+  "track": {
+   "variant": "B",
+   "location": {
+    "requested": "",
+    "applied": ""
+   }
+  }
+ }
+}

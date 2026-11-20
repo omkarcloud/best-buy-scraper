@@ -1,0 +1,71 @@
+{
+ "data": {
+  "productBySkuId": {
+   "skuId": "13300403",
+   "bsin": "JJGHT525X2",
+   "openBoxCondition": null,
+   "name": {
+    "short": "Bundle - Upgraded - ASUS - Zenbook A14 Laptop (Snapdragon X X1-26-100, 32GB, 1TB SSD, Win 11 Pro) with Gaming Mouse and Power Adapter - Iceland Gray"
+   },
+   "url": {
+    "pdp": "https://www.bestbuy.com/product/asus-zenbook-a14-laptop-snapdragon-x-x1-26-100-32gb-1tb-ssd-win-11-pro-with-gaming-mouse-and-power-adapter-iceland-gray/JJGHT525X2",
+    "skuSpecificUrl": "https://www.bestbuy.com/product/asus-zenbook-a14-laptop-snapdragon-x-x1-26-100-32gb-1tb-ssd-win-11-pro-with-gaming-mouse-and-power-adapter-iceland-gray/JJGHT525X2/sku/13300403"
+   },
+   "condition": {
+    "type": "new"
+   },
+   "buyingOptions": [
+    {
+     "type": "New",
+     "pdpUrl": "https://www.bestbuy.com/product/bundle-upgraded-asus-zenbook-a14-laptop-snapdragon-x-x1-26-100-32gb-1tb-ssd-win-11-pro-with-gaming-mouse-and-power-adapter-iceland-gray/JJGHT525X2/sku/13300403"
+    }
+   ],
+   "seller": {
+    "classification": "3P",
+    "id": "6562",
+    "marketplaceSeller": {
+     "id": 6562,
+     "name": "Velztorm",
+     "sellerReviewStats": {
+      "stats": {
+       "averageRating": 4.282398452611218,
+       "totalReviewCount": 517
+      }
+     }
+    }
+   },
+   "bsinProduct": {
+    "bsin": "JJGHT525X2",
+    "seoPdpUrl": "https://www.bestbuy.com/product/asus-zenbook-a14-laptop-snapdragon-x-x1-26-100-32gb-1tb-ssd-win-11-pro-with-gaming-mouse-and-power-adapter-iceland-gray/JJGHT525X2",
+    "products": [
+     {
+      "skuId": "13300403",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/asus-zenbook-a14-laptop-snapdragon-x-x1-26-100-32gb-1tb-ssd-win-11-pro-with-gaming-mouse-and-power-adapter-iceland-gray/JJGHT525X2",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/asus-zenbook-a14-laptop-snapdragon-x-x1-26-100-32gb-1tb-ssd-win-11-pro-with-gaming-mouse-and-power-adapter-iceland-gray/JJGHT525X2/sku/13300403"
+      },
+      "seller": {
+       "classification": "3P",
+       "id": "6562",
+       "marketplaceSeller": {
+        "id": 6562,
+        "name": "Velztorm",
+        "sellerReviewStats": {
+         "stats": {
+          "averageRating": 4.282398452611218,
+          "totalReviewCount": 517
+         }
+        }
+       }
+      }
+     }
+    ]
+   }
+  }
+ },
+ "errors": []
+}

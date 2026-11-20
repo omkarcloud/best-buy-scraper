@@ -1,0 +1,821 @@
+[
+ {
+  "data": {
+   "productBySkuId": {
+    "skuId": "6668952",
+    "reviewImages": {
+     "images": [
+      {
+       "id": "cdea0275-0abe-3dd1-823b-8b929dcb1ed9",
+       "reviewId": "d1197e05-2f36-3739-9276-3c6684a6f0c4",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/ec1541086eb3edf6a8868e47b1109e85.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/a144c0b4-5fca-5a27-8d76-34de2aac5822",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/d6a59b76-5c15-5ce5-b186-cefca8fd5f6f",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "6b8b99ac-22ad-3023-8b27-9714e07ca788",
+       "reviewId": "4bc6f8fc-35c8-3d7d-9080-18d9314629f2",
+       "url": null,
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/50888755-6ca8-5e3e-89f8-843ad8d74791",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/3395a888-453a-5394-ac0b-680ee825eb0f",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "b3b965e0-c5f2-3a2c-b740-ed7f6bd38213",
+       "reviewId": "8b3a9513-4dc0-39ec-b820-8e931e3529aa",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/3068c257c35059bfc5fa7f1ef69c17eb.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/385309bf-0f22-549a-8ed2-a1102f57c481",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/dad56a43-f36e-58ee-826a-9206badbfa71",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "63404931-7fdd-30e3-a2c2-c1a5301e4ef9",
+       "reviewId": "a5c1a177-4aa1-3188-b17b-9ac191d5cab7",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/4fb09ae1ee2959f0118ec14c67ec68d0.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/f258296b-a1a1-5016-a518-8e7d620cd726",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/a04d3c22-5480-500c-9710-451bd3703d1a",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "cc69e41f-8d64-3585-b172-25abe4e229bb",
+       "reviewId": "247d57bb-1908-3489-b453-74ad7e4eca45",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/fd9916e8afd94dbf860aecc9b245bae1.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/65bf3520-c6af-5ed4-ac40-fbb4ff900e23",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/0ba47b95-1399-56f0-8fe3-64e1139053e7",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "e073346a-a422-3d6a-bb9c-f9992d457bb2",
+       "reviewId": "7f05481f-c341-3f1c-be57-00b3cced7d65",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/fb2150079ab1736a01e7384e3e64dcca.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/6cc0b764-7820-5dd6-9320-1d905cbc9e3c",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/1401efb9-9a4c-598f-be71-58c9bd5186c0",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "9cf4c086-83f3-3093-9fff-62920b8ca13c",
+       "reviewId": "a27d8ef8-ba7a-35eb-bba1-acf12a8a598e",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/46a928a9c704b2424289b72dfbdfe58f.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/1d730d49-029f-5a1c-ba2b-a744d2bc61a3",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/d1003031-f2b1-5abe-9fb6-ce87f0e815f1",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "9f7143e1-faf7-3036-8824-acf5764162cc",
+       "reviewId": "d67fd0cd-2a8c-3c5e-a626-8b66cc34cd4d",
+       "url": null,
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/8402530b-df34-5737-b7e7-df0b321c50c7",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/46f54f95-6eb5-54e6-992a-c4774e3976d9",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "2a6778c3-91bf-3e65-a955-1261b79ec827",
+       "reviewId": "2afd0f96-f482-3262-8746-c67d318e21ff",
+       "url": null,
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/42869bfe-c746-5d92-85f7-8e801c2ec552",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/a677ed8b-29b1-5a45-9edf-f019926c73d5",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "8751f179-4e64-36d8-bb05-91931f0ca953",
+       "reviewId": "2afd0f96-f482-3262-8746-c67d318e21ff",
+       "url": null,
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/6dd864ea-75ac-5a80-8a70-de2f09ea4419",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/657f2d5b-4149-5a32-ac66-5bcee062d77d",
+       "__typename": "ProductReviewImageInfo"
+      }
+     ],
+     "__typename": "ProductReviewImagesConnection"
+    },
+    "reviews": {
+     "results": [
+      {
+       "id": "4106806b-36db-3499-887e-efc2db0aec93",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "448284738",
+       "daysOfOwnership": 32,
+       "submissionTime": "2026-11-06T17:04:26.000-06:00",
+       "text": "So far working perfectly. Battery life is not as long as suggested.  The keyboard is a bit tight, hitting wrong keys-getting used to it.",
+       "title": "Working perfectly.",
+       "userNickname": "KATHD",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/448284738",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "60bb9eed-1e1e-3944-a000-c5eaa9209d97",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "448221633",
+       "daysOfOwnership": 17,
+       "submissionTime": "2026-11-06T11:24:39.000-06:00",
+       "text": "I like performance of this lztop as it has 16G of memory.  I thought the keyboard had back lights, but it did not.  I prefer backlit keyboards on laptops.",
+       "title": "Dell laptop intel 13th generation",
+       "userNickname": "Mary",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/448221633",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "611c27d4-3ff1-31cc-877d-94a2a7daf865",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "448220509",
+       "daysOfOwnership": 21,
+       "submissionTime": "2026-11-06T11:19:26.000-06:00",
+       "text": "with only 2 USB ports that means only 1 USB port with mouse",
+       "title": "2 USB ports",
+       "userNickname": "fredy",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/448220509",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "5c12b45c-f938-39b7-89ea-0b35cd6e8a26",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "448215447",
+       "daysOfOwnership": 21,
+       "submissionTime": "2026-11-06T10:56:02.000-06:00",
+       "text": "great value for our office staff!  Checks off our boxes!",
+       "title": "Good size laptop",
+       "userNickname": "CHRISTOPHERW",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/448215447",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "861b74a9-abaa-3285-8eae-ed7bf0a438b9",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "448209606",
+       "daysOfOwnership": 31,
+       "submissionTime": "2026-11-06T10:29:27.000-06:00",
+       "text": "Works well. Software and backed up data loaded okay.",
+       "title": "Works well for my home use.",
+       "userNickname": "Jden",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/448209606",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "7f05481f-c341-3f1c-be57-00b3cced7d65",
+       "images": [
+        {
+         "id": "e073346a-a422-3d6a-bb9c-f9992d457bb2",
+         "piscesUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/fb2150079ab1736a01e7384e3e64dcca.jpg",
+         "__typename": "ProductReviewImage"
+        }
+       ],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "448206020",
+       "daysOfOwnership": 21,
+       "submissionTime": "2026-11-06T10:15:38.000-06:00",
+       "text": "I love it because it's super lightweight and it holds all my files",
+       "title": "Dell laptop",
+       "userNickname": "CAROLF",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/448206020",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "ac1d4e45-8966-3ddb-8f42-e53467c35980",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "446875120",
+       "daysOfOwnership": 23,
+       "submissionTime": "2026-11-02T10:34:43.000-06:00",
+       "text": "Very happy with this laptop so far.  Set up was easy, very lightweight, keypad feels good, and it's fast.",
+       "title": "Love this Laptop",
+       "userNickname": "DEBBIEM",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/446875120",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "6fde0908-8926-30cc-8153-860e2f8c5806",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "446627620",
+       "daysOfOwnership": 33,
+       "submissionTime": "2026-10-31T15:58:10.000-05:00",
+       "text": "My experience with this Dell Laptop has been very good. I like its 15.6' touchscreen and its configuration with an Intel Core 7 processor,with 16GB of memory and 512GB of storage. I also find its carbon black design very attractive. Overall,I'm very satisfied with my purchase and hope to continue enjoying its performance in my daily activitiesI recommend this Laptop to those who are looking for equipment with these features.",
+       "title": "Una Laptop Dell que cumple mis espectativas",
+       "userNickname": null,
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/446627620",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "4d909da4-bb63-39f2-9e9b-b0da9c4ebf2f",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "446473920",
+       "daysOfOwnership": 19,
+       "submissionTime": "2026-10-30T15:16:27.000-05:00",
+       "text": "Home office and works great and wood recommend this computer.",
+       "title": "Computer",
+       "userNickname": "RICHARDV",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/446473920",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "7e7b9a1a-87ad-3e76-b9b0-bb3ce94711a2",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "446469928",
+       "daysOfOwnership": 18,
+       "submissionTime": "2026-10-30T14:50:44.000-05:00",
+       "text": "Works grea, touch screen doesn't glitch, not many things added onto it",
+       "title": "Works FANTASTIC",
+       "userNickname": "ZACKD",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/446469928",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "a27d8ef8-ba7a-35eb-bba1-acf12a8a598e",
+       "images": [
+        {
+         "id": "9cf4c086-83f3-3093-9fff-62920b8ca13c",
+         "piscesUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/46a928a9c704b2424289b72dfbdfe58f.jpg",
+         "__typename": "ProductReviewImage"
+        }
+       ],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "446433769",
+       "daysOfOwnership": 20,
+       "submissionTime": "2026-10-30T11:23:57.000-05:00",
+       "text": "I already had a Dell laptop that I was very happy with, but the motherboard got fried with a power surge when I took it to the beach on vacation.  After I cried for 2 days, I went looking for a new one and came across this laptop at Best Buy. Delivered to my door the next day, I shed one more tear for the one I had and loved and opened this new one.  DIdn't take long, fickle person that I am, I was in love with this one!  The black carbon finish feels really nice, not slippery like most.  It has twice the GB of my older one and is an i7 instead of an i5.  Easy to set up and get all my stuff back on, this baby loads like lightning and opening several tabs at once does nothing to slow it down. The only thing it does not have that my older one did have is a backlit keyboard, but I can live without that. I am VERY HAPPY with this product.  If I could choose any one I wanted, would I buy this one again?  Yes.",
+       "title": "Love this laptop!",
+       "userNickname": "DEBIY",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/446433769",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "5a1a9717-457e-36a8-a735-ae6163f42caa",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "446431782",
+       "daysOfOwnership": 70,
+       "submissionTime": "2026-10-30T11:12:49.000-05:00",
+       "text": "For such a light weight laptop, it comes with a punch. It handles Excel, and other applications with ease.",
+       "title": "Fast and light",
+       "userNickname": "rosaljr",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/446431782",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "85093c00-9062-3e9b-aa0a-0a894f39fcc7",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "446431048",
+       "daysOfOwnership": 19,
+       "submissionTime": "2026-10-30T11:08:39.000-05:00",
+       "text": "Bought for my grandson and he loves it. He uses it for gaming and says it works great for the games he plays. He will also use for college next year.",
+       "title": "great laptop, bought for grandson.",
+       "userNickname": "Mels",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/446431048",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "f103857b-30ec-37c7-9a33-6bff0bf2bf98",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "446428529",
+       "daysOfOwnership": 22,
+       "submissionTime": "2026-10-30T10:55:36.000-05:00",
+       "text": "I like the size, how light it is, durable and the touch screen!",
+       "title": "Love it!",
+       "userNickname": "Thornja",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/446428529",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "4ede21d1-b5af-3e2c-95c0-fd140852978e",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "446425235",
+       "daysOfOwnership": 19,
+       "submissionTime": "2026-10-30T10:38:09.000-05:00",
+       "text": "I am a college student and this is exactly what I needed for my studies and classes.",
+       "title": "Best computer - Student",
+       "userNickname": "TAMARAM",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/446425235",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "891af27f-6742-3e9f-a1ba-12cb0d2f0a5f",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "446422793",
+       "daysOfOwnership": 38,
+       "submissionTime": "2026-10-30T10:26:12.000-05:00",
+       "text": "Fast processor.\nTouch screen\nI love it recommend to anyone wanting a laptop",
+       "title": "Was everything I expected",
+       "userNickname": "RICHARD",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/446422793",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "801ef12e-2834-3e64-9445-4a028fcf9552",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "446420150",
+       "daysOfOwnership": 17,
+       "submissionTime": "2026-10-30T10:15:04.000-05:00",
+       "text": "I would definitely buy another one it's definitely worth it I haven't had any issues at all with my laptop that I bought everything's been great I would definitely put A+ on this laptop it's been great",
+       "title": "Laptop",
+       "userNickname": "JoeyA",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/446420150",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "b7163069-4d82-3c1e-98dd-57d34ad7c0c1",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "446092140",
+       "daysOfOwnership": 127,
+       "submissionTime": "2026-10-28T08:40:17.000-05:00",
+       "text": "I love the touch screen but other than that is just another laptop. But cool product.",
+       "title": "Laptop",
+       "userNickname": "BENNIEW",
+       "rating": 4,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/446092140",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "ae153dd2-7068-3ff9-92b4-ba2adcff90c7",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "445926757",
+       "daysOfOwnership": 66,
+       "submissionTime": "2026-10-27T10:19:20.000-05:00",
+       "text": "Excellent laptop for everyday use! The Dell 15.6\" 2K touchscreen offers a beautiful display, fast performance, and plenty of storage. The Intel Core i7 processor and 16GB of RAM make multitasking smooth and efficient. I love the touchscreen feature, and the 512GB SSD provides plenty of space for my files and applications. Overall, a great combination of performance, features, and value. Highly recommended!",
+       "title": "Super fast laptop",
+       "userNickname": "Lumo",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/445926757",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "3dbe42df-f2bf-3ab6-a9f4-ff0323f81784",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "445802968",
+       "daysOfOwnership": 2,
+       "submissionTime": "2026-10-26T13:15:02.000-05:00",
+       "text": "Great and affordable laptop for home use.  The battery life seems great as well.  I would recommend this for any one!",
+       "title": "Love it!",
+       "userNickname": "ROBBIEF",
+       "rating": 5,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/445802968",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      }
+     ],
+     "totalResults": 434,
+     "__typename": "ProductReviewConnection"
+    },
+    "__typename": "Product",
+    "openBoxCondition": null
+   },
+   "__typename": "Query"
+  },
+  "errors": []
+ },
+ {
+  "data": {
+   "productBySkuId": {
+    "skuId": "6668952",
+    "orderCode": "4",
+    "reviewInfo": {
+     "displayableStats": {
+      "reviewCount": 434,
+      "rating": 4.7,
+      "displayName": null,
+      "syndicated": false,
+      "displayLink": null
+     }
+    },
+    "url": {
+     "relativePdp": "/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+     "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952"
+    },
+    "name": {
+     "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+    }
+   }
+  },
+  "errors": []
+ }
+]

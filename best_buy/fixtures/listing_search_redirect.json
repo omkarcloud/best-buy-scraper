@@ -1,0 +1,36 @@
+{
+ "data": {
+  "search": {
+   "findMoreCarouselType": null,
+   "positionToSlotFindMoreCarousel": null,
+   "facets": null,
+   "banners": null,
+   "quickFilters": null,
+   "showCarFitFacet": null,
+   "requestInfo": {
+    "appliedFacets": [],
+    "categoryFacet": null,
+    "sort": null
+   },
+   "sortOptions": null,
+   "numFound": null,
+   "showDeliveryFacet": null,
+   "customerFilterContext": null,
+   "track": {
+    "searchTag": "8e735687-7a26-4cde-8537-f31ec847df7b",
+    "decisions": null,
+    "release": null,
+    "relevancyVersion": null,
+    "analyticsData": null
+   },
+   "suggestQueryInfo": null,
+   "redirect": [
+    "/site/Electronics/Gift-Cards/cat09000.c?id=cat09000"
+   ],
+   "relatedSearchTerms": null,
+   "primaryDocument": null,
+   "documents": null
+  }
+ },
+ "errors": []
+}

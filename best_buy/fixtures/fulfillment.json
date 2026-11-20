@@ -1,0 +1,1152 @@
+{
+ "data": {
+  "fulfillmentOptions": {
+   "__typename": "FulfillmentOptionsList",
+   "buttonStates": [
+    {
+     "__typename": "ButtonState",
+     "buttonState": "ADD_TO_CART",
+     "condition": "NEW",
+     "displayText": "Add to Cart",
+     "fulfillmentOption": null,
+     "hyperlinkUrl": null,
+     "planButtonState": null,
+     "planDisplayText": null,
+     "secondaryButtonState": null,
+     "secondaryDisplayText": null,
+     "skuId": "6668952"
+    }
+   ],
+   "deliveryDetails": [
+    {
+     "__typename": "FulfillmentDeliveryDetail",
+     "deliveryAvailability": [
+      {
+       "__typename": "FulfillmentDeliveryAvailability",
+       "condition": "NEW",
+       "backordered": null,
+       "deliverable": null,
+       "deliveryEligible": false,
+       "deliveryServices": null,
+       "deliverySlots": null,
+       "forceSkipScheduling": null,
+       "forceSkipSchedulingReasonCode": null,
+       "homeDeliveryDisplayDateType": null,
+       "inStoreOnly": false,
+       "installationEligible": false,
+       "installationSlots": null,
+       "productAppointmentType": null,
+       "installationAppointmentType": null,
+       "dropoffAppointmentType": null,
+       "salLocationId": null,
+       "restrictions": null
+      }
+     ],
+     "destinationZipCode": "10001",
+     "sku": "6668952"
+    }
+   ],
+   "ispuDetails": [
+    {
+     "__typename": "InStorePickupDetail",
+     "installationEligible": null,
+     "ispuAvailability": [
+      {
+       "__typename": "InStorePickupAvailability",
+       "whenAvailableFlag": null,
+       "restrictions": null,
+       "quantity": "9999",
+       "promiseByStreetDate": null,
+       "preorderable": null,
+       "pickupEligible": true,
+       "minPickupInHours": null,
+       "minDate": "2026-11-19",
+       "maxDate": "2026-11-19",
+       "instoreInventoryAvailable": true,
+       "inStoreServices": null,
+       "inStoreOnly": false,
+       "fulfillmentType": "PICKUP",
+       "fulfillDate": null,
+       "emailEligible": null,
+       "downloadEligible": null,
+       "displayDateType": "IN_HAND",
+       "condition": "NEW",
+       "backordered": null
+      }
+     ],
+     "maximumDistanceChecked": 68.9,
+     "nearbyLocation": null,
+     "numberOfStoresChecked": 27,
+     "sku": "6668952",
+     "nearbyLocations": [
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 0.5,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "New York",
+        "name": "Union Square",
+        "storeId": "1531",
+        "zip": "10003"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 1.1,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "New York",
+        "name": "Midtown Manhattan (44th and 5th)",
+        "storeId": "1028",
+        "zip": "10017"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 3,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Jersey City",
+        "name": "Jersey City",
+        "storeId": "1535",
+        "zip": "07310"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 3.2,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "New York",
+        "name": "86th and Lexington",
+        "storeId": "835",
+        "zip": "10028"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 3.8,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Long Island City",
+        "name": "Long Island City",
+        "storeId": "478",
+        "zip": "11101"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 3.8,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Brooklyn",
+        "name": "Atlantic Center",
+        "storeId": "2518",
+        "zip": "11217"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 5.2,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Secaucus",
+        "name": "Secaucus",
+        "storeId": "474",
+        "zip": "07094"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 6.2,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Rego Park",
+        "name": "Rego Park",
+        "storeId": "483",
+        "zip": "11374"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 6.3,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Bronx",
+        "name": "Bronx Terminal Market",
+        "storeId": "1172",
+        "zip": "10451"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 6.6,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "East Rutherford",
+        "name": "American Dream",
+        "storeId": "1217",
+        "zip": "07073"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 8.3,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Brooklyn",
+        "name": "Gateway Brooklyn",
+        "storeId": "1886",
+        "zip": "11239"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 10.1,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Brooklyn",
+        "name": "Bay Parkway Brooklyn",
+        "storeId": "599",
+        "zip": "11214"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "SHIP_TO_LOCATION",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-27",
+         "minDate": "2026-11-27",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": null,
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 10.4,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Bronx",
+        "name": "Bronx Riverdale",
+        "storeId": "1261",
+        "zip": "10463"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 12.7,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Paramus",
+        "name": "Bergen Town Center",
+        "storeId": "887",
+        "zip": "07652"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 14.1,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Mount Vernon",
+        "name": "Mount Vernon",
+        "storeId": "471",
+        "zip": "10550"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 14.5,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Valley Stream",
+        "name": "Valley Stream",
+        "storeId": "950",
+        "zip": "11581"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 14.8,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Staten Island",
+        "name": "Staten Island",
+        "storeId": "469",
+        "zip": "10314"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 15.9,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Woodland Park",
+        "name": "West Paterson",
+        "storeId": "468",
+        "zip": "07424"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "2",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 16.5,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Paramus",
+        "name": "Paramus - Fashion Center",
+        "storeId": "344",
+        "zip": "07652"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 16.8,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Union",
+        "name": "Union",
+        "storeId": "472",
+        "zip": "07083"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 18.6,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Yonkers",
+        "name": "Yonkers",
+        "storeId": "374",
+        "zip": "10710"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 19.9,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Westbury",
+        "name": "Westbury",
+        "storeId": "454",
+        "zip": "11590"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 20.2,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Baldwin",
+        "name": "Baldwin",
+        "storeId": "1467",
+        "zip": "11510"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": "IN_HAND",
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": "PICKUP",
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": "2026-11-19",
+         "minDate": "2026-11-19",
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": "9999",
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 20.3,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "East Hanover",
+        "name": "East Hanover",
+        "storeId": "473",
+        "zip": "07936"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": null,
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": null,
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": null,
+         "minDate": null,
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": null,
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 30.5,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "Piscataway",
+        "name": "Piscataway Warehouse",
+        "storeId": "9040",
+        "zip": "08854"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": null,
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": null,
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": null,
+         "minDate": null,
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": null,
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 41.7,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "ISLANDIA",
+        "name": "Islandia Warehouse",
+        "storeId": "9155",
+        "zip": "11749"
+       }
+      },
+      {
+       "__typename": "FulfillmentPickUpNearbyLocation",
+       "availability": [
+        {
+         "__typename": "InStorePickupAvailability",
+         "backordered": null,
+         "condition": "NEW",
+         "displayDateType": null,
+         "downloadEligible": null,
+         "emailEligible": null,
+         "fulfillDate": null,
+         "fulfillmentType": null,
+         "inStoreOnly": false,
+         "inStoreServices": null,
+         "instoreInventoryAvailable": true,
+         "maxDate": null,
+         "minDate": null,
+         "minPickupInHours": null,
+         "pickupEligible": true,
+         "preorderable": null,
+         "promiseByStreetDate": null,
+         "quantity": null,
+         "restrictions": null,
+         "whenAvailableFlag": null
+        }
+       ],
+       "distance": 68.9,
+       "installationEligible": null,
+       "store": {
+        "__typename": "FulfillmentPickUpStore",
+        "city": "LOGAN TOWNSHIP",
+        "name": "Logan Township Warehouse",
+        "storeId": "9136",
+        "zip": "08085"
+       }
+      }
+     ],
+     "store": {
+      "__typename": "FulfillmentPickUpStore",
+      "city": "New York",
+      "name": "Chelsea (23rd and 6th)",
+      "storeId": "482",
+      "zip": "10010"
+     }
+    }
+   ],
+   "shippingDetails": [
+    {
+     "__typename": "FulfillmentShippingDetail",
+     "destinationZipCode": "10001",
+     "sku": "6668952",
+     "abTestMetadata": null,
+     "shippingAvailability": [
+      {
+       "__typename": "FulfillmentShippingAvailability",
+       "backordered": null,
+       "condition": "NEW",
+       "customerLOSGroup": [
+        {
+         "__typename": "FulfillmentCustomerLOSGroup",
+         "customerLosGroupId": 4,
+         "displayDateType": "IN_HAND",
+         "maxLineItemMaxDate": "2026-11-19",
+         "name": "Same Day",
+         "minLineItemMaxDate": "2026-11-19",
+         "price": 9.99
+        },
+        {
+         "__typename": "FulfillmentCustomerLOSGroup",
+         "customerLosGroupId": 1,
+         "displayDateType": "IN_HAND",
+         "maxLineItemMaxDate": "2026-11-20",
+         "name": "Gig Next Day",
+         "minLineItemMaxDate": "2026-11-20",
+         "price": 0
+        },
+        {
+         "__typename": "FulfillmentCustomerLOSGroup",
+         "customerLosGroupId": 5,
+         "displayDateType": "IN_HAND",
+         "maxLineItemMaxDate": "2026-11-26",
+         "name": "Scheduled Parcel Delivery (SPD)",
+         "minLineItemMaxDate": "2026-11-26",
+         "price": 9.99
+        }
+       ],
+       "defaultCustomerLosGroupId": 1,
+       "directToBoxEligible": false,
+       "downloadEligible": false,
+       "emailEligible": false,
+       "fulfillByVendor": false,
+       "inStoreOnly": false,
+       "installationEligible": false,
+       "levelOfServices": [
+        {
+         "__typename": "FulfillmentShippingLevelOfService",
+         "code": "SAME_DAY",
+         "id": 2001,
+         "isLessThanTruckload": false,
+         "isScheduleParcelDelivery": false,
+         "customerLosGroupId": 4,
+         "cutOffTime": "2026-11-19T16:00 CST"
+        },
+        {
+         "__typename": "FulfillmentShippingLevelOfService",
+         "code": "GIG_NEXT_DAY",
+         "id": 2002,
+         "isLessThanTruckload": false,
+         "isScheduleParcelDelivery": false,
+         "customerLosGroupId": 1,
+         "cutOffTime": "2026-11-19T18:00 CST"
+        },
+        {
+         "__typename": "FulfillmentShippingLevelOfService",
+         "code": "SPD",
+         "id": 2003,
+         "isLessThanTruckload": false,
+         "isScheduleParcelDelivery": true,
+         "customerLosGroupId": 5,
+         "cutOffTime": "2026-11-19T18:00 CST"
+        }
+       ],
+       "preorderable": null,
+       "promiseByStreetDate": null,
+       "restrictions": null,
+       "shippingEligible": true,
+       "whenAvailableFlag": null
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "errors": []
+}

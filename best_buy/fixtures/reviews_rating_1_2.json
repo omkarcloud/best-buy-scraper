@@ -1,0 +1,571 @@
+[
+ {
+  "data": {
+   "productBySkuId": {
+    "skuId": "6668952",
+    "reviewImages": {
+     "images": [
+      {
+       "id": "cdea0275-0abe-3dd1-823b-8b929dcb1ed9",
+       "reviewId": "d1197e05-2f36-3739-9276-3c6684a6f0c4",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/ec1541086eb3edf6a8868e47b1109e85.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/a144c0b4-5fca-5a27-8d76-34de2aac5822",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/d6a59b76-5c15-5ce5-b186-cefca8fd5f6f",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "6b8b99ac-22ad-3023-8b27-9714e07ca788",
+       "reviewId": "4bc6f8fc-35c8-3d7d-9080-18d9314629f2",
+       "url": null,
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/50888755-6ca8-5e3e-89f8-843ad8d74791",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/3395a888-453a-5394-ac0b-680ee825eb0f",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "b3b965e0-c5f2-3a2c-b740-ed7f6bd38213",
+       "reviewId": "8b3a9513-4dc0-39ec-b820-8e931e3529aa",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/3068c257c35059bfc5fa7f1ef69c17eb.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/385309bf-0f22-549a-8ed2-a1102f57c481",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/dad56a43-f36e-58ee-826a-9206badbfa71",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "63404931-7fdd-30e3-a2c2-c1a5301e4ef9",
+       "reviewId": "a5c1a177-4aa1-3188-b17b-9ac191d5cab7",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/4fb09ae1ee2959f0118ec14c67ec68d0.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/f258296b-a1a1-5016-a518-8e7d620cd726",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/a04d3c22-5480-500c-9710-451bd3703d1a",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "cc69e41f-8d64-3585-b172-25abe4e229bb",
+       "reviewId": "247d57bb-1908-3489-b453-74ad7e4eca45",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/fd9916e8afd94dbf860aecc9b245bae1.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/65bf3520-c6af-5ed4-ac40-fbb4ff900e23",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/0ba47b95-1399-56f0-8fe3-64e1139053e7",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "e073346a-a422-3d6a-bb9c-f9992d457bb2",
+       "reviewId": "7f05481f-c341-3f1c-be57-00b3cced7d65",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/fb2150079ab1736a01e7384e3e64dcca.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/6cc0b764-7820-5dd6-9320-1d905cbc9e3c",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/1401efb9-9a4c-598f-be71-58c9bd5186c0",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "9cf4c086-83f3-3093-9fff-62920b8ca13c",
+       "reviewId": "a27d8ef8-ba7a-35eb-bba1-acf12a8a598e",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/46a928a9c704b2424289b72dfbdfe58f.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/1d730d49-029f-5a1c-ba2b-a744d2bc61a3",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/d1003031-f2b1-5abe-9fb6-ce87f0e815f1",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "9f7143e1-faf7-3036-8824-acf5764162cc",
+       "reviewId": "d67fd0cd-2a8c-3c5e-a626-8b66cc34cd4d",
+       "url": null,
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/8402530b-df34-5737-b7e7-df0b321c50c7",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/46f54f95-6eb5-54e6-992a-c4774e3976d9",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "2a6778c3-91bf-3e65-a955-1261b79ec827",
+       "reviewId": "2afd0f96-f482-3262-8746-c67d318e21ff",
+       "url": null,
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/42869bfe-c746-5d92-85f7-8e801c2ec552",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/a677ed8b-29b1-5a45-9edf-f019926c73d5",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "8751f179-4e64-36d8-bb05-91931f0ca953",
+       "reviewId": "2afd0f96-f482-3262-8746-c67d318e21ff",
+       "url": null,
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/6dd864ea-75ac-5a80-8a70-de2f09ea4419",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/657f2d5b-4149-5a32-ac66-5bcee062d77d",
+       "__typename": "ProductReviewImageInfo"
+      }
+     ],
+     "__typename": "ProductReviewImagesConnection"
+    },
+    "reviews": {
+     "results": [
+      {
+       "id": "20fc5bcc-d61c-3b65-83f5-d33606b99710",
+       "images": [],
+       "isRecommended": false,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "449430960",
+       "daysOfOwnership": 33,
+       "submissionTime": "2026-11-13T13:14:03.000-06:00",
+       "text": "Had to return due to short battery life about 1 hour.",
+       "title": "No Battery Life",
+       "userNickname": "Moviefan",
+       "rating": 1,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/449430960",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "78246912-fbcf-3910-b6bd-b5f43cc6ab30",
+       "images": [],
+       "isRecommended": false,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "444323335",
+       "daysOfOwnership": 28,
+       "submissionTime": "2026-10-15T13:53:37.000-05:00",
+       "text": "Everything was great and what we wanted except it would update every night and stuck on the updating screen. From the week 1 be bought. Sounds like it's ongoing issue with this model so we had to return it..",
+       "title": "We wish it worked out",
+       "userNickname": "SooJ",
+       "rating": 2,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 1,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/444323335",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "bf69030c-a3ce-329b-b8c5-a5f568634c02",
+       "images": [],
+       "isRecommended": false,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "443556290",
+       "daysOfOwnership": 23,
+       "submissionTime": "2026-10-09T10:27:21.000-05:00",
+       "text": "Slow and ugly. It gets dirty easily and the keyboard has no backlight. The Intel Core i7 processor is slow. It doesn't accept connecting Bose speakers or other brands. The computer isn't worth the high price I paid for it.",
+       "title": "Isn't worth the high price I paid for it",
+       "userNickname": "IVAN",
+       "rating": 2,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 1,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/443556290",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "479af822-77b8-39c0-b112-e597b1bbd7da",
+       "images": [],
+       "isRecommended": false,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "442425547",
+       "daysOfOwnership": 65,
+       "submissionTime": "2026-09-30T16:11:06.000-05:00",
+       "text": "This computer is god-awful noise-wise and overheats way too easily. Even when I’m just streaming a normal baseball, basketball, or football game, it gets extremely hot and the fans get ridiculously loud.",
+       "title": "Too loud and Low performance",
+       "userNickname": "Luis",
+       "rating": 1,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 2,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/442425547",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "111ab4ce-0e00-35aa-ab37-f92d178f9009",
+       "images": [],
+       "isRecommended": false,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "440585569",
+       "daysOfOwnership": 22,
+       "submissionTime": "2026-09-14T15:45:33.000-05:00",
+       "text": "This device has no thunderbolt and Best Buy does not understand what that does. I had other equipment to connect to it and it cannot. The only thing Best Buy said is they could refund me money on a discounted price I would never buy this product ever nor use Best Buy.",
+       "title": "Dell an Best Buy",
+       "userNickname": "WILLIAMH",
+       "rating": 1,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 2,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/440585569",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "4667bfa5-5e46-3a72-b407-ba39146c6bb8",
+       "images": [],
+       "isRecommended": true,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "440522534",
+       "daysOfOwnership": 9,
+       "submissionTime": "2026-09-14T05:01:57.000-05:00",
+       "text": "This is a great laptop, fast speed, beautiful picture, and fast. I’m very happy with my purchase. I would highly recommend.",
+       "title": "Del 15.6” laptop",
+       "userNickname": "Deirdre",
+       "rating": 2,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/440522534",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "f454f8ee-c841-3cff-b1ee-79c4702f8d5d",
+       "images": [],
+       "isRecommended": false,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "439431598",
+       "daysOfOwnership": 11,
+       "submissionTime": "2026-09-04T20:42:00.000-05:00",
+       "text": "Was able to return this, as the screen would not turn on when I unboxed it at home.",
+       "title": "did not turn on",
+       "userNickname": "Mom23",
+       "rating": 1,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 2,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/439431598",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "e4de4f70-b282-3cd2-a496-c6a2d54d9531",
+       "images": [],
+       "isRecommended": false,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "437004744",
+       "daysOfOwnership": 73,
+       "submissionTime": "2026-08-15T16:14:28.000-05:00",
+       "text": "The battery life on this thing is awful. You get 2-3 hours at best, you will always need to carry a charger on you with this thing.",
+       "title": "Battery Life is horrible",
+       "userNickname": "ANON",
+       "rating": 2,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 1,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/437004744",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "b2e3a1af-22f8-35dd-a771-59560b3442b8",
+       "images": [],
+       "isRecommended": false,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "435185357",
+       "daysOfOwnership": 36,
+       "submissionTime": "2026-08-04T20:27:57.000-05:00",
+       "text": "Ordered as NEW, SKU 12750857 sold by PC Heaven. What I received was a Best Buy refurbished unit SKU 6668952 with warehouse label \"COMPUTE BURST / PREMIUM 2 / BEST BUY CO 482\" on a damaged recycled brown box, not the original Dell sealed retail box.\nThe outer box was torn open on arrival, labeled UN3481. This is clearly an open-box / Geek Squad Certified Refurbished item being resold as new. Bait and switch.\nI opened to verify because I was planning to ship internationally. Do not buy from this marketplace seller if you expect a new product. Requesting full refund under Best Buy Marketplace Guarantee",
+       "title": "Received Refurbished in Box Instead of New",
+       "userNickname": "PABLOG",
+       "rating": 1,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 3,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/435185357",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "aa375b1f-df0d-316f-a8a6-aec75eda0190",
+       "images": [],
+       "isRecommended": false,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "433526675",
+       "daysOfOwnership": 37,
+       "submissionTime": "2026-07-22T19:25:37.000-05:00",
+       "text": "Won't turn on when needed.  Ran hot when not in use",
+       "title": "Not reliable",
+       "userNickname": "Trice",
+       "rating": 1,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 5,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/433526675",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "c808888a-2187-3b70-9419-14e04e11d225",
+       "images": [],
+       "isRecommended": false,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "429165013",
+       "daysOfOwnership": 21,
+       "submissionTime": "2026-06-19T10:08:54.000-05:00",
+       "text": "how in the year 2026 you can't get a display over usb c 3.2 is okay",
+       "title": "no display usb c",
+       "userNickname": "ME67",
+       "rating": 1,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 1,
+       "positiveFeedbackCount": 4,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/429165013",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "606ffd1c-05be-38ad-83a2-5c0c479ee9f7",
+       "images": [],
+       "isRecommended": false,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "428439368",
+       "daysOfOwnership": 11,
+       "submissionTime": "2026-06-12T17:03:55.000-05:00",
+       "text": "The laptop delivers on its promises, but there are very strong negative points that even made me change models. 1) The matte finish highlights fingerprints. 2) Under basic use, it overheats and the fan makes a lot of noise.",
+       "title": "Disappointed with heat and finish",
+       "userNickname": "Nathalia",
+       "rating": 2,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 6,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/428439368",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      },
+      {
+       "id": "e87cbc48-48e2-3a0d-b11a-311a586ea65e",
+       "images": [],
+       "isRecommended": false,
+       "badges": [
+        {
+         "description": "This reviewer received promo considerations or sweepstakes entry for writing a review.",
+         "name": "Incentivized",
+         "__typename": "ProductReviewBadge"
+        },
+        {
+         "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+         "name": "Verified Purchaser",
+         "__typename": "ProductReviewBadge"
+        }
+       ],
+       "bazaarvoiceId": "428062165",
+       "daysOfOwnership": 16,
+       "submissionTime": "2026-06-09T08:52:31.000-05:00",
+       "text": "I can get about an hour usage from the battery. It also seems like it’s cheaply made",
+       "title": "Always Dead battery",
+       "userNickname": "STANew",
+       "rating": 1,
+       "reviewedProduct": null,
+       "clientResponses": [],
+       "syndicationSource": null,
+       "isIncentivized": false,
+       "isVerifiedPurchaser": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 4,
+       "writeCommentUrl": "/site/reviews/submission/6668952/review/428062165",
+       "commentCount": null,
+       "__typename": "ProductReview"
+      }
+     ],
+     "totalResults": 13,
+     "__typename": "ProductReviewConnection"
+    },
+    "__typename": "Product",
+    "openBoxCondition": null
+   },
+   "__typename": "Query"
+  },
+  "errors": []
+ },
+ {
+  "data": {
+   "productBySkuId": {
+    "skuId": "6668952",
+    "orderCode": "4",
+    "reviewInfo": {
+     "displayableStats": {
+      "reviewCount": 434,
+      "rating": 4.7,
+      "displayName": null,
+      "syndicated": false,
+      "displayLink": null
+     }
+    },
+    "url": {
+     "relativePdp": "/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+     "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952"
+    },
+    "name": {
+     "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+    }
+   }
+  },
+  "errors": []
+ }
+]

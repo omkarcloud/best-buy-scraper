@@ -1,0 +1,339 @@
+{
+ "data": {
+  "productCategory": {
+   "id": "cat00000",
+   "name": "Best Buy",
+   "seoUrl": "https://www.bestbuy.com/",
+   "hierarchyId": "bbypres",
+   "startDate": "2013-12-18T06:00Z",
+   "template": null,
+   "meta": {
+    "description": "Shop Best Buy for electronics, computers, appliances, cell phones, video games & more new tech. Store pickup & free 2-day shipping on thousands of items.",
+    "keywords": [
+     "computers",
+     "laptops",
+     "video games",
+     "televisions",
+     "digital cameras",
+     "mp3 players",
+     "mobile phones",
+     "cell phones",
+     "appliances"
+    ],
+    "title": "Best Buy | Official Online Store | Shop Now & Save"
+   },
+   "broaderTerms": null,
+   "narrowerTerms": [
+    {
+     "id": "pcmcat1681994652511",
+     "name": "The Music Shop",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/vinyl-shop/pcmcat1681994652511.c?id=pcmcat1681994652511",
+     "startDate": "2023-05-12T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat1529524080138",
+     "name": "Premium Audio & Video",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/premium-audio-video/pcmcat1529524080138.c?id=pcmcat1529524080138",
+     "startDate": "2018-08-05T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "abcat0900000",
+     "name": "Appliances",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/home-appliances/abcat0900000.c?id=abcat0900000",
+     "startDate": "2007-08-09T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "abcat0204000",
+     "name": "Headphones",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/headphones/abcat0204000.c?id=abcat0204000",
+     "startDate": "2007-08-09T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "abcat0100000",
+     "name": "TV & Home Theater",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/tv-home-theater/abcat0100000.c?id=abcat0100000",
+     "startDate": "2014-01-22T06:00Z",
+     "endDate": null
+    },
+    {
+     "id": "abcat0700000",
+     "name": "Video Games",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/video-games/abcat0700000.c?id=abcat0700000",
+     "startDate": "2007-08-09T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat1614183089372",
+     "name": "Subscriptions",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/subscriptions/pcmcat1614183089372.c?id=pcmcat1614183089372",
+     "startDate": "2021-03-30T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "abcat0600000",
+     "name": "Music, Movies & TV Shows",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/movies-music/abcat0600000.c?id=abcat0600000",
+     "startDate": "2025-08-18T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "abcat0500000",
+     "name": "Computers & Tablets",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/computers-pcs/abcat0500000.c?id=abcat0500000",
+     "startDate": "2007-08-09T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "abcat0300000",
+     "name": "Automotive",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/car-audio-gps/abcat0300000.c?id=abcat0300000",
+     "startDate": "2007-08-09T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "abcat0400000",
+     "name": "Cameras, Camcorders & Drones",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/cameras-camcorders/abcat0400000.c?id=abcat0400000",
+     "startDate": "2007-08-09T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "abcat0800000",
+     "name": "Cell Phones",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/mobile-cell-phones/abcat0800000.c?id=abcat0800000",
+     "startDate": "2007-08-07T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat332000050000",
+     "name": "Wearable Technology",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/wearable-technology/pcmcat332000050000.c?id=pcmcat332000050000",
+     "startDate": "2014-06-01T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "abcat0200000",
+     "name": "Home Audio & Speakers",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/audio/abcat0200000.c?id=abcat0200000",
+     "startDate": "2007-08-09T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat242800050021",
+     "name": "Health, Wellness & Personal Care",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/health-wellness/pcmcat242800050021.c?id=pcmcat242800050021",
+     "startDate": "2011-07-12T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat312300050015",
+     "name": "Home, Furniture & Office",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/home/pcmcat312300050015.c?id=pcmcat312300050015",
+     "startDate": "2013-09-27T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "sv_display_ad_marquee",
+     "name": "sv_display_ad_marquee",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/sv-display-ad/sv_display_ad_marquee.c?id=sv_display_ad_marquee",
+     "startDate": "2025-09-05T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat254000050002",
+     "name": "Smart Home",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/home-security-safety/pcmcat254000050002.c?id=pcmcat254000050002",
+     "startDate": "2011-10-11T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat249300050012",
+     "name": "Pacific Sales Kitchen & Home",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/pacific-sales/pcmcat249300050012.c?id=pcmcat249300050012",
+     "startDate": "2011-08-28T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat252700050006",
+     "name": "Toys, Games & Crafts",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/toys-games-crafts/pcmcat252700050006.c?id=pcmcat252700050006",
+     "startDate": "2011-09-27T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat142300050026",
+     "name": "Best Buy Outlet",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/outlet-refurbished-clearance/pcmcat142300050026.c?id=pcmcat142300050026",
+     "startDate": "2008-01-27T06:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat1490381538942",
+     "name": "Baby",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/baby-care/pcmcat1490381538942.c?id=pcmcat1490381538942",
+     "startDate": "2017-04-11T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat179100050006",
+     "name": "Outdoor Living",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/outdoor-living/pcmcat179100050006.c?id=pcmcat179100050006",
+     "startDate": "2009-05-15T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat273800050017",
+     "name": "Fitness, Sports & Outdoors",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/fitness-sports-outdoors/pcmcat273800050017.c?id=pcmcat273800050017",
+     "startDate": "2025-08-18T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat250300050003",
+     "name": "Electric Transportation",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/electric-transportation/pcmcat250300050003.c?id=pcmcat250300050003",
+     "startDate": "2012-10-31T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat144600050035",
+     "name": "Electronics",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/misc/pcmcat144600050035.c?id=pcmcat144600050035",
+     "startDate": "2007-02-01T06:00Z",
+     "endDate": null
+    },
+    {
+     "id": "abcat0207000",
+     "name": "Pro Audio & Musical Instruments",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/musical-instruments/abcat0207000.c?id=abcat0207000",
+     "startDate": "2007-08-09T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat1528819595254",
+     "name": "Services",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/services/pcmcat1528819595254.c?id=pcmcat1528819595254",
+     "startDate": "2018-07-27T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "abcat0010000",
+     "name": "Gift Ideas",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/gift-ideas/abcat0010000.c?id=abcat0010000",
+     "startDate": "2007-11-01T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat1679668833285",
+     "name": "My Best Buy Memberships",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/best-buy-membership/pcmcat1679668833285.c?id=pcmcat1679668833285",
+     "startDate": "2023-07-27T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "cat09000",
+     "name": "Gift Cards",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/gift-cards/cat09000.c?id=cat09000",
+     "startDate": "2003-10-01T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat248200050007",
+     "name": "Best Buy Marketplace",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/marketplace/pcmcat248200050007.c?id=pcmcat248200050007",
+     "startDate": "2011-08-10T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat128500050004",
+     "name": "Name Brands",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/brands/pcmcat128500050004.c?id=pcmcat128500050004",
+     "startDate": "2007-08-09T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat230900050001",
+     "name": "Best Buy Business",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/bestbuy-business/pcmcat230900050001.c?id=pcmcat230900050001",
+     "startDate": "2011-01-16T06:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat748302046864",
+     "name": "Tech Help",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/tech-help/pcmcat748302046864.c?id=pcmcat748302046864",
+     "startDate": "2016-08-31T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat203400050001",
+     "name": "Best Buy Support",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/help-topics/pcmcat203400050001.c?id=pcmcat203400050001",
+     "startDate": "2010-01-28T06:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat225600050002",
+     "name": "Black Friday",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/black-friday/pcmcat225600050002.c?id=pcmcat225600050002",
+     "startDate": "2010-11-24T06:00Z",
+     "endDate": null
+    },
+    {
+     "id": "sc_digital_platform",
+     "name": "Digital Platform",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/digital-platform/sc_digital_platform.c?id=sc_digital_platform",
+     "startDate": "2016-11-29T22:46Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat1720730285046",
+     "name": "Best Buy Top Deals",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/top-deals/pcmcat1720730285046.c?id=pcmcat1720730285046",
+     "startDate": "2024-08-27T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "homepage-pushdown",
+     "name": "homepage-pushdown",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/homepage-pushdown/homepage-pushdown.c?id=homepage-pushdown",
+     "startDate": "2025-04-16T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat1743021185190",
+     "name": "Marketplace Seller",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/marketplace-seller/pcmcat1743021185190.c?id=pcmcat1743021185190",
+     "startDate": "2025-05-28T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat1753987256163",
+     "name": "Collectibles & Memorabilia",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/collectibles-memorabilia/pcmcat1753987256163.c?id=pcmcat1753987256163",
+     "startDate": "2025-08-18T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "leaderboardfooter",
+     "name": "leaderboardfooter",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/leaderboard-footer/leaderboardfooter.c?id=leaderboardfooter",
+     "startDate": "2025-04-16T05:00Z",
+     "endDate": null
+    },
+    {
+     "id": "pcmcat230600050006",
+     "name": "Sports Fan Shop",
+     "seoUrl": "https://www.bestbuy.com/site/electronics/sports-fan-shop/pcmcat230600050006.c?id=pcmcat230600050006",
+     "startDate": "2025-08-20T05:00Z",
+     "endDate": null
+    }
+   ]
+  }
+ },
+ "errors": []
+}

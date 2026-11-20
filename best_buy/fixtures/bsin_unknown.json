@@ -1,0 +1,45 @@
+{
+ "data": {
+  "bsinProduct": {
+   "bsin": "ZZZZZZZZZ9",
+   "brand": null,
+   "seoPdpUrl": null,
+   "products": null
+  }
+ },
+ "errors": [
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "bsinProduct",
+    "brand"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "bsinProduct",
+    "seoPdpUrl"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "bsinProduct",
+    "products"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  }
+ ]
+}

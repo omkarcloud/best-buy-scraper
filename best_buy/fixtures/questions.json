@@ -1,0 +1,423 @@
+[
+ {
+  "data": {
+   "productBySkuId": {
+    "skuId": "6668952",
+    "questionInfo": {
+     "aiQuestionCount": 7,
+     "aiAnswerCount": 7,
+     "answeredQuestionCount": 107,
+     "askAQuestionPage": "/site/questions/submission/6668952?campaignId=QA_&return=",
+     "isQnaEnabled": true,
+     "qnaStandalonePage": "/site/questions/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/6668952",
+     "totalAnswerCount": 142,
+     "totalQuestionCount": 137,
+     "aiSummary": "This laptop features a 15.6 inch touchscreen and 16 gigabytes of system memory. It includes 512 GB of SSD storage, which can be upgraded up to 1 TB. The processor has a base speed of 1.7 GHz and a max turbo boost of up to 5.0 GHz. The device includes Wi-Fi 6, Bluetooth, a front facing camera, and a numeric keypad. Connectivity options include three USB ports, an HDMI 1.4 port, and an SD card reader. This unit includes a 1 year Mail In Service warranty."
+    },
+    "questions": {
+     "results": [
+      {
+       "answerCount": 1,
+       "bazaarvoiceId": null,
+       "id": "ce186659-cee0-3b88-aac8-9acda11ddd1d",
+       "isAiGenerated": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": null,
+       "text": null,
+       "title": "Does this laptop have a headphone jack?",
+       "userNickname": null,
+       "answers": [
+        {
+         "brandImageUrl": null,
+         "id": "f67b2bcd-8ca0-38e7-ba85-bc6d6b9f9026",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 0,
+         "submissionTime": null,
+         "text": "Yes, this laptop has a headphone jack.",
+         "userNickname": null,
+         "badges": [],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 1,
+       "bazaarvoiceId": null,
+       "id": "d8357123-035d-37de-81a1-5182b72cea1e",
+       "isAiGenerated": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": null,
+       "text": null,
+       "title": "What kind of wireless connectivity does this laptop support?",
+       "userNickname": null,
+       "answers": [
+        {
+         "brandImageUrl": null,
+         "id": "8ee47b28-b7a9-3008-8be1-550270aab76a",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 0,
+         "submissionTime": null,
+         "text": "This laptop supports Wi-Fi 6 wireless connectivity.",
+         "userNickname": null,
+         "badges": [],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 1,
+       "bazaarvoiceId": null,
+       "id": "000a6503-fd8a-35ef-a469-39a5a026d424",
+       "isAiGenerated": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": null,
+       "text": null,
+       "title": "Does this laptop have a numeric keypad?",
+       "userNickname": null,
+       "answers": [
+        {
+         "brandImageUrl": null,
+         "id": "a9e9b38f-d9f5-3b4c-8c7e-b48a95ba3eae",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 0,
+         "submissionTime": null,
+         "text": "Yes, this laptop has a separate numeric keypad.",
+         "userNickname": null,
+         "badges": [],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 1,
+       "bazaarvoiceId": null,
+       "id": "aa156e15-f47f-3d20-9633-426e140a7823",
+       "isAiGenerated": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": null,
+       "text": null,
+       "title": "How much system memory does the laptop have?",
+       "userNickname": null,
+       "answers": [
+        {
+         "brandImageUrl": null,
+         "id": "aab172a8-baa9-38c1-bc63-1a4c35754cd8",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 0,
+         "submissionTime": null,
+         "text": "The laptop has 16 gigabytes of system memory.",
+         "userNickname": null,
+         "badges": [],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 1,
+       "bazaarvoiceId": null,
+       "id": "b0416bf7-540a-399b-80ea-881dedd9925f",
+       "isAiGenerated": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": null,
+       "text": null,
+       "title": "Are there any USB ports on this laptop?",
+       "userNickname": null,
+       "answers": [
+        {
+         "brandImageUrl": null,
+         "id": "b6e43717-0b45-3d59-b4fc-e8a58443a641",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 0,
+         "submissionTime": null,
+         "text": "Yes, this laptop has three USB ports in total.",
+         "userNickname": null,
+         "badges": [],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 1,
+       "bazaarvoiceId": null,
+       "id": "282b5928-ecfc-3e64-af75-f07e035e4793",
+       "isAiGenerated": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": null,
+       "text": null,
+       "title": "Is the laptop screen a touchscreen?",
+       "userNickname": null,
+       "answers": [
+        {
+         "brandImageUrl": null,
+         "id": "c77eba0f-32c9-3b81-94a6-71ddcc4e5ad0",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 0,
+         "submissionTime": null,
+         "text": "Yes, this laptop has a touchscreen.",
+         "userNickname": null,
+         "badges": [],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 1,
+       "bazaarvoiceId": null,
+       "id": "e93a1a94-47c0-3785-b620-6ac55ef17d58",
+       "isAiGenerated": true,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": null,
+       "text": null,
+       "title": "Does this laptop have a built-in microphone?",
+       "userNickname": null,
+       "answers": [
+        {
+         "brandImageUrl": null,
+         "id": "5a0ee133-8620-3182-a2d9-4b16c0f59b6e",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 0,
+         "submissionTime": null,
+         "text": "Yes, this laptop has a built-in microphone.",
+         "userNickname": null,
+         "badges": [],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 3,
+       "bazaarvoiceId": "11410141",
+       "id": "059e0688-ee64-33af-a773-db3dbc96ab7c",
+       "isAiGenerated": false,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": "2026-04-18T21:53:57.000-05:00",
+       "text": null,
+       "title": "Does laptop have a backlit keyboard?",
+       "userNickname": "Marty",
+       "answers": [
+        {
+         "brandImageUrl": null,
+         "id": "17edcf12-c2a5-303e-be64-346f951e3657",
+         "negativeFeedbackCount": 1,
+         "positiveFeedbackCount": 8,
+         "submissionTime": "2026-05-08T13:03:58.000-05:00",
+         "text": "The keyboard is not backlit.",
+         "userNickname": "KD4BestBuy",
+         "badges": [
+          {
+           "code": "VerifiedPurchaser",
+           "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+           "name": "Verified Purchaser"
+          },
+          {
+           "code": "rewardZoneNumberV3",
+           "description": "My Best Buy members receive promotional considerations or entries into drawings for writing reviews.",
+           "name": "My Best Buy\\u00ae Member"
+          }
+         ],
+         "images": []
+        },
+        {
+         "brandImageUrl": "https://photos-us.bazaarvoice.com/photo/2/YnJhbmRhbnN3ZXJzOmJhZGdlb3ZlcnJpZGVpbWFnZQ/28a274b3-411f-50f4-aa77-478c9a1c02b0",
+         "id": "ec27d94b-07ac-3e12-a28d-ce52445f5077",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 4,
+         "submissionTime": "2026-04-28T02:18:01.000-05:00",
+         "text": "No, the keyboard does not feature backlit option.",
+         "userNickname": "YourDellTeam",
+         "badges": [
+          {
+           "code": "BRAND_ANSWERS_CUSTOM_AFFILIATION_Dell",
+           "description": "Dell Representative",
+           "name": "Dell Representative"
+          }
+         ],
+         "images": []
+        },
+        {
+         "brandImageUrl": null,
+         "id": "fc97f209-ca43-3809-b686-8a6d3c84caa3",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 3,
+         "submissionTime": "2026-05-29T19:33:04.000-05:00",
+         "text": "If it did, it would say so in the large, bold type heading. Which it doesn't.\nBut if you are looking for a budget laptop with decent specs and pretty lights, I recommend the Nimo (SKU: 10972393) a refurbished model which BB has on sale for $383.99 RIGHT NOW (not as good a CPU, unfortunately).",
+         "userNickname": "luislast",
+         "badges": [
+          {
+           "code": "top1000Contributor",
+           "description": "Top contributors earn their status based on the number of reviews they provide and the number of helpful votes they receive from fellow shoppers.",
+           "name": "Top 1000 Contributor"
+          }
+         ],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 3,
+       "bazaarvoiceId": "11421983",
+       "id": "3bcd5184-e864-3bf4-bfd9-711e65a3f74a",
+       "isAiGenerated": false,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": "2026-04-27T08:36:49.000-05:00",
+       "text": null,
+       "title": "Are the keys backlit",
+       "userNickname": "Brian",
+       "answers": [
+        {
+         "brandImageUrl": null,
+         "id": "68a7fafb-029b-3c25-ba15-75df6ca13fac",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 4,
+         "submissionTime": "2026-05-08T13:03:12.000-05:00",
+         "text": "No the keys are not backlit.",
+         "userNickname": "KD4BestBuy",
+         "badges": [
+          {
+           "code": "VerifiedPurchaser",
+           "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+           "name": "Verified Purchaser"
+          },
+          {
+           "code": "rewardZoneNumberV3",
+           "description": "My Best Buy members receive promotional considerations or entries into drawings for writing reviews.",
+           "name": "My Best Buy\\u00ae Member"
+          }
+         ],
+         "images": []
+        },
+        {
+         "brandImageUrl": "https://photos-us.bazaarvoice.com/photo/2/YnJhbmRhbnN3ZXJzOmJhZGdlb3ZlcnJpZGVpbWFnZQ/28a274b3-411f-50f4-aa77-478c9a1c02b0",
+         "id": "abcf99e9-9b34-3bb7-a5f9-ff3b96f6643b",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 3,
+         "submissionTime": "2026-04-27T09:37:01.000-05:00",
+         "text": "No, the keyboard is not backlit.",
+         "userNickname": "YourDellTeam",
+         "badges": [
+          {
+           "code": "BRAND_ANSWERS_CUSTOM_AFFILIATION_Dell",
+           "description": "Dell Representative",
+           "name": "Dell Representative"
+          }
+         ],
+         "images": []
+        },
+        {
+         "brandImageUrl": null,
+         "id": "2e525c73-e4ad-3146-a909-0520997f813e",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 2,
+         "submissionTime": "2026-05-29T20:08:53.000-05:00",
+         "text": "No, but for those out there who like pretty lights, I recommend the NIMO (SKU: 10972393) which BB has on sale right now for $383.99$. Not as fast, however, but who cares about that!",
+         "userNickname": "luislast",
+         "badges": [
+          {
+           "code": "top1000Contributor",
+           "description": "Top contributors earn their status based on the number of reviews they provide and the number of helpful votes they receive from fellow shoppers.",
+           "name": "Top 1000 Contributor"
+          }
+         ],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 2,
+       "bazaarvoiceId": "11461892",
+       "id": "168554e2-f3a2-3aab-a16c-f21341a3baee",
+       "isAiGenerated": false,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": "2026-05-25T06:23:12.000-05:00",
+       "text": null,
+       "title": "Can you connect another monitor to this laptop",
+       "userNickname": null,
+       "answers": [
+        {
+         "brandImageUrl": "https://photos-us.bazaarvoice.com/photo/2/YnJhbmRhbnN3ZXJzOmJhZGdlb3ZlcnJpZGVpbWFnZQ/28a274b3-411f-50f4-aa77-478c9a1c02b0",
+         "id": "65acf6af-f84c-3cd0-a4c7-9c596d0f2d1c",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 6,
+         "submissionTime": "2026-05-26T10:12:01.000-05:00",
+         "text": "Yes, you can connect up to 3 External monitors with laptop display turned off and two external displays with laptop display on.",
+         "userNickname": "YourDellTeam",
+         "badges": [
+          {
+           "code": "BRAND_ANSWERS_CUSTOM_AFFILIATION_Dell",
+           "description": "Dell Representative",
+           "name": "Dell Representative"
+          }
+         ],
+         "images": []
+        },
+        {
+         "brandImageUrl": null,
+         "id": "e100d980-b302-33c1-8704-22b7320e1cef",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 2,
+         "submissionTime": "2026-05-29T20:07:22.000-05:00",
+         "text": "Sadly, you are limited to 3.",
+         "userNickname": "luislast",
+         "badges": [
+          {
+           "code": "top1000Contributor",
+           "description": "Top contributors earn their status based on the number of reviews they provide and the number of helpful votes they receive from fellow shoppers.",
+           "name": "Top 1000 Contributor"
+          }
+         ],
+         "images": []
+        }
+       ],
+       "images": []
+      }
+     ]
+    }
+   }
+  },
+  "errors": []
+ },
+ {
+  "data": {
+   "productBySkuId": {
+    "skuId": "6668952",
+    "orderCode": "4",
+    "reviewInfo": {
+     "displayableStats": {
+      "reviewCount": 434,
+      "rating": 4.7,
+      "displayName": null,
+      "syndicated": false,
+      "displayLink": null
+     }
+    },
+    "url": {
+     "relativePdp": "/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+     "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952"
+    },
+    "name": {
+     "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+    }
+   }
+  },
+  "errors": []
+ }
+]

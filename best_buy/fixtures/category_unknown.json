@@ -1,0 +1,116 @@
+{
+ "data": {
+  "productCategory": {
+   "id": null,
+   "name": null,
+   "seoUrl": null,
+   "hierarchyId": null,
+   "startDate": null,
+   "template": null,
+   "meta": null,
+   "broaderTerms": null,
+   "narrowerTerms": null
+  }
+ },
+ "errors": [
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productCategory",
+    "seoUrl"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productCategory",
+    "startDate"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productCategory",
+    "id"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productCategory",
+    "broaderTerms"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productCategory",
+    "meta"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productCategory",
+    "hierarchyId"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productCategory",
+    "template"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productCategory",
+    "narrowerTerms"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productCategory",
+    "name"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  }
+ ]
+}

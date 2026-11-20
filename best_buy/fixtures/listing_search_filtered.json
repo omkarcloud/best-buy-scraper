@@ -1,0 +1,5265 @@
+{
+ "data": {
+  "search": {
+   "findMoreCarouselType": null,
+   "positionToSlotFindMoreCarousel": null,
+   "facets": [
+    {
+     "parentFacetField": null,
+     "displayName": "GIF-Same Day Shipping",
+     "facetDisplay": "true",
+     "facetField": "samedayshippingallcondition_facet",
+     "maxValue": 10,
+     "values": [
+      {
+       "count": 17,
+       "value": "55423",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Category",
+     "facetDisplay": "Yes",
+     "facetField": "category_facet",
+     "maxValue": 6,
+     "values": [
+      {
+       "count": null,
+       "value": "All Laptops",
+       "categoryPath": "pcmcat138500050001",
+       "nestedValues": [
+        {
+         "categoryPath": "pcmcat247400050000",
+         "value": "Windows Laptops"
+        }
+       ]
+      },
+      {
+       "count": null,
+       "value": "Gaming Laptops",
+       "categoryPath": "pcmcat287600050003",
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Brand",
+     "facetDisplay": "Yes",
+     "facetField": "brand_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 258,
+       "value": "HP",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 103,
+       "value": "Dell",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 150,
+       "value": "Lenovo",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 43,
+       "value": "ASUS",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 35,
+       "value": "Acer",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 23,
+       "value": "Samsung",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 6,
+       "value": "Microsoft",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 22,
+       "value": "Apple",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 33,
+       "value": "NIMO",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 11,
+       "value": "LG",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "GEEKOM",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Anker",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Condition",
+     "facetDisplay": "Yes",
+     "facetField": "condition_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 361,
+       "value": "New",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 22,
+       "value": "Open-Box",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12,
+       "value": "Refurbished",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Price",
+     "facetDisplay": "Yes",
+     "facetField": "currentprice_facet",
+     "maxValue": 15,
+     "values": [
+      {
+       "count": 220,
+       "value": "$500 - $749.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 141,
+       "value": "$750 - $999.99",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Customer Rating",
+     "facetDisplay": "Yes",
+     "facetField": "customerreviews_facet",
+     "maxValue": 6,
+     "values": [
+      {
+       "count": 361,
+       "value": "4 & Up",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 240,
+       "value": "Top-Rated",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 58,
+       "value": "5",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 372,
+       "value": "3 & Up",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 375,
+       "value": "2 & Up",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 383,
+       "value": "1 & Up",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": "parent_processormodelsv_facet",
+     "displayName": "Processor Model",
+     "facetDisplay": "Yes",
+     "facetField": "processormodelsv_facet",
+     "maxValue": 12,
+     "values": [
+      {
+       "count": 114,
+       "value": "AMD",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 3 7000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 4000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 5000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 7000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 5000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 7000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 100 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 200 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI 5 300 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI 5 400 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI 300 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI 400 Series"
+        }
+       ]
+      },
+      {
+       "count": 226,
+       "value": "Intel",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Intel 10th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 11th Generation Core i3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 11th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 12th Generation Core i3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 12th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 12th Generation Core i7"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 13th Generation Core i3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 13th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 13th Generation Core i7"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 3 Series 3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 5 Series 1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 5 Series 3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 7 Series 1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 7 Series 3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core i3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Processor N Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 5 Series 1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 5 Series 2"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 7 Series 2"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Processor N200"
+        }
+       ]
+      },
+      {
+       "count": 21,
+       "value": "Snapdragon",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Snapdragon X"
+        },
+        {
+         "categoryPath": null,
+         "value": "Snapdragon X Plus"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Current Deals",
+     "facetDisplay": "Yes",
+     "facetField": "currentoffers_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 9,
+       "value": "Black Friday Deal",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 147,
+       "value": "On Sale",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 4,
+       "value": "Package Deals",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 8,
+       "value": "Clearance",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": "parent_gpusv_facet",
+     "displayName": "Graphics Processing Unit (GPU)",
+     "facetDisplay": "Yes",
+     "facetField": "gpusv_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 215,
+       "value": "Intel",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Intel Arc"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Arc 130V"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Arc 140V"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Graphics"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Iris Xe Graphics"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel UHD Graphics"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel UHD Graphics 770"
+        }
+       ]
+      },
+      {
+       "count": 112,
+       "value": "AMD",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 610M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 660M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 740M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 820M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 840M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon RX 6550M"
+        }
+       ]
+      },
+      {
+       "count": 9,
+       "value": "NVIDIA",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 3050"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Total Storage Capacity",
+     "facetDisplay": "Yes",
+     "facetField": "totalstoragecapacityrange_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 2,
+       "value": "Less than 120GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7,
+       "value": "120 GB - 149 GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 95,
+       "value": "250 GB - 499 GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 214,
+       "value": "500 GB - 999 GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 39,
+       "value": "1 TB - 1.9 TB",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "System Memory (RAM)",
+     "facetDisplay": "Yes",
+     "facetField": "systemmemoryrange_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 3,
+       "value": "32GB - 48GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 162,
+       "value": "16GB - 24GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 192,
+       "value": "12GB and Under",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Screen Size",
+     "facetDisplay": "Yes",
+     "facetField": "laptopscreensizerange_facet",
+     "maxValue": 10,
+     "values": [
+      {
+       "count": 12,
+       "value": "13.9\" and Under",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 43,
+       "value": "14\" - 14.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 178,
+       "value": "15\"- 15.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 54,
+       "value": "16\"- 16.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 74,
+       "value": "17\" and Up",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Features",
+     "facetDisplay": "Yes",
+     "facetField": "features_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 250,
+       "value": "Touch Screen",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 228,
+       "value": "Numeric Keypad",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 44,
+       "value": "2-in-1 Design",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 357,
+       "value": "Front-Facing Camera",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 312,
+       "value": "Bluetooth",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 107,
+       "value": "Non-Touch Screen",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 306,
+       "value": "Built-In Microphone",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 53,
+       "value": "Windows Copilot+ PC",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 328,
+       "value": "ENERGY STAR Certified",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 303,
+       "value": "Headphone Jack",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 277,
+       "value": "Microphone Input",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 93,
+       "value": "Media Card Reader",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Color",
+     "facetDisplay": "Yes",
+     "facetField": "colorcat_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 85,
+       "value": "Black",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 213,
+       "value": "Silver",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 14,
+       "value": "Gray",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 21,
+       "value": "Blue",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 9,
+       "value": "Brown",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "Gold",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Model Family",
+     "facetDisplay": "Yes",
+     "facetField": "modelfamily_facet",
+     "maxValue": 10,
+     "values": [
+      {
+       "count": 109,
+       "value": "HP OmniBook",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 25,
+       "value": "Dell Inspiron",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12,
+       "value": "HP Essential",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12,
+       "value": "HP Victus",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7,
+       "value": "Dell XPS",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "HP Chromebook",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "Dell Latitude",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Dell Plus",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Dell Premium",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "HP ENVY",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": "parent_operatingsystem_facet",
+     "displayName": "Operating System",
+     "facetDisplay": "Yes",
+     "facetField": "operatingsystem_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 354,
+       "value": "Windows",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Windows 11 Home"
+        },
+        {
+         "categoryPath": null,
+         "value": "Windows 11 Home in S Mode"
+        },
+        {
+         "categoryPath": null,
+         "value": "Windows 11 Pro"
+        }
+       ]
+      },
+      {
+       "count": 3,
+       "value": "Chrome",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Chrome OS"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Inputs Outputs",
+     "facetDisplay": "Yes",
+     "facetField": "inputsoutputs_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 326,
+       "value": "USB Port(s)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 307,
+       "value": "Headphone Jack",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12,
+       "value": "Thunderbolt Input(s)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 14,
+       "value": "Ethernet Ports Input(s)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "DisplayPort Output(s)",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Display Type",
+     "facetDisplay": "Yes",
+     "facetField": "displaytype_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 28,
+       "value": "OLED",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 248,
+       "value": "LED",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 32,
+       "value": "LCD",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Storage Type",
+     "facetDisplay": "Yes",
+     "facetField": "storagetype_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 348,
+       "value": "SSD",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "eMMC",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Wireless Networking Standard",
+     "facetDisplay": "Yes",
+     "facetField": "wirelessnetworkstandard_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 52,
+       "value": "Wi-Fi 7",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 150,
+       "value": "Wi-Fi 6",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 59,
+       "value": "Wi-Fi 6E",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 44,
+       "value": "Wi-Fi 5",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Screen Resolution",
+     "facetDisplay": "Yes",
+     "facetField": "screenresolutionsv_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1,
+       "value": "3200 x 2000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7,
+       "value": "2560 x 1600",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 41,
+       "value": "1920 x 1200 (WUXGA)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 57,
+       "value": "1920 x 1200 (Full HD+)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 207,
+       "value": "1920 x 1080 (Full HD)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 14,
+       "value": "1600 x 900 (HD+)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 34,
+       "value": "1366 x 768 (HD)",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Graphics Type",
+     "facetDisplay": "Yes",
+     "facetField": "graphicstype_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 18,
+       "value": "Dedicated",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 339,
+       "value": "Integrated",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Sold & shipped by",
+     "facetDisplay": "Yes",
+     "facetField": "bbyonly_facet",
+     "maxValue": 10,
+     "values": [
+      {
+       "count": 30,
+       "value": "Best Buy",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Screen Size",
+     "facetDisplay": "No",
+     "facetField": "laptopscreensizesv_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 12,
+       "value": "12\" - 13.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 217,
+       "value": "14\" - 15.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 128,
+       "value": "16\" or More",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Processor Brand",
+     "facetDisplay": "No",
+     "facetField": "processorbrand_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 224,
+       "value": "Intel",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 112,
+       "value": "AMD",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 21,
+       "value": "Snapdragon",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Processor Model",
+     "facetDisplay": "No",
+     "facetField": "sqbprocessormodel_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 78,
+       "value": "Intel Core i5",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 55,
+       "value": "AMD Ryzen 5",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 49,
+       "value": "Intel Core i3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 32,
+       "value": "Intel Core i7",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 28,
+       "value": "AMD Ryzen 7",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 18,
+       "value": "Intel Core Ultra 7 Series 2",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 15,
+       "value": "AMD Ryzen AI 400 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 14,
+       "value": "Snapdragon X",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 13,
+       "value": "Intel Core Ultra 5 Series 2",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12,
+       "value": "Intel Core 5 Series 3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 8,
+       "value": "Intel Core 3 Series 3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7,
+       "value": "Snapdragon X Plus",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 6,
+       "value": "AMD Ryzen AI 300 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 5,
+       "value": "Intel Core 5 Series 1",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "Intel Core 7 Series 3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "AMD Ryzen 100 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "AMD Ryzen 200 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "AMD Ryzen 3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "Intel Core 7 Series 1",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "Intel Processor N200",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "AMD Ryzen AI 5 300 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "AMD Ryzen AI 5 400 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Intel Core Processor N Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Intel Core Ultra 5 Series 1",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "SQB Total Storage Capacity",
+     "facetDisplay": "No",
+     "facetField": "sqbtotalstoragecapacity_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 96,
+       "value": "Medium (256GB - 512GB)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 39,
+       "value": "Large (More than 512GB)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 9,
+       "value": "Small (Less than 256GB)",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "GPU Brand",
+     "facetDisplay": "No",
+     "facetField": "gpubrand_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 215,
+       "value": "Intel",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 112,
+       "value": "AMD Radeon",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 21,
+       "value": "Snapdragon",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 9,
+       "value": "NVIDIA",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Product Categories",
+     "facetDisplay": "No",
+     "facetField": "productcategories_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 361,
+       "value": "abcat0500000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 361,
+       "value": "abcat0502000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 361,
+       "value": "cat00000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 361,
+       "value": "pcmcat138500050001",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 355,
+       "value": "pcmcat247400050000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 26,
+       "value": "root",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 13,
+       "value": "abcat0712000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 13,
+       "value": "pcmcat287600050003",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "pcmcat244900050010",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "pcmcat1706896136677",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    }
+   ],
+   "banners": [],
+   "quickFilters": [
+    {
+     "facetName": "currentoffers_facet",
+     "facetValue": "Black Friday Deal"
+    },
+    {
+     "facetName": "condition_facet",
+     "facetValue": "Open-Box"
+    },
+    {
+     "facetName": "condition_facet",
+     "facetValue": "Refurbished"
+    },
+    {
+     "facetName": "currentoffers_facet",
+     "facetValue": "On Sale"
+    },
+    {
+     "facetName": "currentoffers_facet",
+     "facetValue": "Clearance"
+    },
+    {
+     "facetName": "brand_facet",
+     "facetValue": "HP"
+    },
+    {
+     "facetName": "brand_facet",
+     "facetValue": "Lenovo"
+    },
+    {
+     "facetName": "brand_facet",
+     "facetValue": "Dell"
+    },
+    {
+     "facetName": "processormodelsv_facet",
+     "facetValue": "Intel"
+    },
+    {
+     "facetName": "bbyonly_facet",
+     "facetValue": "Best Buy"
+    }
+   ],
+   "showCarFitFacet": false,
+   "requestInfo": {
+    "appliedFacets": [
+     {
+      "values": [
+       "HP",
+       "Dell"
+      ],
+      "id": "brand_facet",
+      "autoFacet": "false"
+     },
+     {
+      "values": [
+       "abcat0502000"
+      ],
+      "id": "category_facet",
+      "autoFacet": "true"
+     },
+     {
+      "values": [
+       "4 & Up"
+      ],
+      "id": "customerreviews_facet",
+      "autoFacet": "false"
+     },
+     {
+      "values": [
+       "New"
+      ],
+      "id": "condition_facet",
+      "autoFacet": "false"
+     },
+     {
+      "values": [
+       "500 to 900"
+      ],
+      "id": "currentprice_facet",
+      "autoFacet": "false"
+     }
+    ],
+    "categoryFacet": {
+     "categoryName": "Laptops",
+     "categoryPath": "abcat0502000"
+    },
+    "sort": {
+     "value": "Price-Low-To-High",
+     "displayName": "Price Low to High"
+    }
+   },
+   "sortOptions": [
+    {
+     "value": "Best-Match",
+     "displayName": "Best Match"
+    },
+    {
+     "value": "Best-Selling",
+     "displayName": "Best Selling"
+    },
+    {
+     "value": "Best-Discount",
+     "displayName": "Best Discount"
+    },
+    {
+     "value": "Price-Low-To-High",
+     "displayName": "Price Low to High"
+    },
+    {
+     "value": "Price-High-To-Low",
+     "displayName": "Price High to Low"
+    },
+    {
+     "value": "Customer-Rating",
+     "displayName": "Customer Rating"
+    }
+   ],
+   "numFound": 131,
+   "showDeliveryFacet": false,
+   "customerFilterContext": [],
+   "track": {
+    "searchTag": "e2023d44-1f9f-46ca-bcd9-b3ee99385148",
+    "decisions": [
+     {
+      "experience": "QualityRankingRuleExists",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "searchMetricRuleAbsent",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "aws-east-1",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "autoFacetApplied",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "variationPresent",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "bestSellingSortNotApplied",
+      "name": "SearchSegment",
+      "type": "Segment"
+     }
+    ],
+    "release": "26.44.15",
+    "relevancyVersion": "1.0",
+    "analyticsData": {
+     "isAutoFilterApplied": false,
+     "isAutofacetApplied": true,
+     "isQueryTaggingApplied": true,
+     "isSpellCheck": false,
+     "recallStrategy": "dvsTextMatchHybrid",
+     "requestHandler": "bbselect"
+    }
+   },
+   "suggestQueryInfo": {
+    "correctedQuery": null,
+    "correctlySpelled": true
+   },
+   "redirect": null,
+   "relatedSearchTerms": [
+    {
+     "searchTerm": "macbook",
+     "displayName": "macbook"
+    },
+    {
+     "searchTerm": "ipad",
+     "displayName": "ipad"
+    },
+    {
+     "searchTerm": "tablet",
+     "displayName": "tablet"
+    },
+    {
+     "searchTerm": "macbook air",
+     "displayName": "macbook air"
+    },
+    {
+     "searchTerm": "tv",
+     "displayName": "tv"
+    }
+   ],
+   "primaryDocument": {
+    "isTermMatch": true,
+    "isBrMatch": false,
+    "skuId": "12657345",
+    "product": {
+     "skuId": "12657345",
+     "hierarchy": {
+      "bbypres": [
+       {
+        "id": "pcmcat247400050000",
+        "primary": true,
+        "href": "https://data.bestbuy.com/v2/hierarchy/bbypres/id/pcmcat247400050000",
+        "categoryDetail": {
+         "name": "Windows Laptops",
+         "id": "pcmcat247400050000",
+         "hierarchyId": "bbypres",
+         "seoUrl": "https://www.bestbuy.com/site/all-laptops/pc-laptops/pcmcat247400050000.c?id=pcmcat247400050000",
+         "broaderTerms": {
+          "primaryLineage": [
+           {
+            "name": "All Laptops",
+            "seoUrl": "https://www.bestbuy.com/site/laptop-computers/all-laptops/pcmcat138500050001.c?id=pcmcat138500050001",
+            "id": "pcmcat138500050001",
+            "sequence": 0
+           },
+           {
+            "name": "Laptops",
+            "seoUrl": "https://www.bestbuy.com/site/computers-pcs/laptop-computers/abcat0502000.c?id=abcat0502000",
+            "id": "abcat0502000",
+            "sequence": 1
+           },
+           {
+            "name": "Computers & Tablets",
+            "seoUrl": "https://www.bestbuy.com/site/electronics/computers-pcs/abcat0500000.c?id=abcat0500000",
+            "id": "abcat0500000",
+            "sequence": 2
+           },
+           {
+            "name": "Best Buy",
+            "seoUrl": "https://www.bestbuy.com/",
+            "id": "cat00000",
+            "sequence": 3
+           }
+          ]
+         }
+        }
+       },
+       {
+        "id": "pcmcat138500050001",
+        "primary": false,
+        "href": "https://data.bestbuy.com/v2/hierarchy/bbypres/id/pcmcat138500050001",
+        "categoryDetail": {
+         "name": "All Laptops",
+         "id": "pcmcat138500050001",
+         "hierarchyId": "bbypres",
+         "seoUrl": "https://www.bestbuy.com/site/laptop-computers/all-laptops/pcmcat138500050001.c?id=pcmcat138500050001",
+         "broaderTerms": {
+          "primaryLineage": [
+           {
+            "name": "Laptops",
+            "seoUrl": "https://www.bestbuy.com/site/computers-pcs/laptop-computers/abcat0502000.c?id=abcat0502000",
+            "id": "abcat0502000",
+            "sequence": 0
+           },
+           {
+            "name": "Computers & Tablets",
+            "seoUrl": "https://www.bestbuy.com/site/electronics/computers-pcs/abcat0500000.c?id=abcat0500000",
+            "id": "abcat0500000",
+            "sequence": 1
+           },
+           {
+            "name": "Best Buy",
+            "seoUrl": "https://www.bestbuy.com/",
+            "id": "cat00000",
+            "sequence": 2
+           }
+          ]
+         }
+        }
+       }
+      ]
+     },
+     "price": {
+      "currentPrice": 503.46
+     },
+     "openBoxCondition": null
+    }
+   },
+   "documents": [
+    {
+     "variationId": null,
+     "product": {
+      "badges": null,
+      "operationalAttributes": [
+       {
+        "values": [
+         "LAPTOP;CHARGER"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "12657345",
+      "bsin": "JJGRPC76XH",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/hp-15-fd0133wm-15-6-fhd-i3-n305-1-8ghz-intel-uhd-graphics-8gb-ram-256gb-ssd-win-11-silver/JJGRPC76XH",
+       "relativePdp": "/product/hp-15-fd0133wm-15-6-fhd-i3-n305-1-8ghz-intel-uhd-graphics-8gb-ram-256gb-ssd-win-11-silver/JJGRPC76XH",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/hp-15-fd0133wm-15-6-fhd-i3-n305-1-8ghz-intel-uhd-graphics-8gb-ram-256gb-ssd-win-11-silver/JJGRPC76XH/sku/12657345"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/hp-15-fd0133wm-15-6-fhd-i3-n305-1-8ghz-intel-uhd-graphics-8gb-ram-256gb-ssd-win-11-silver/JJGRPC76XH",
+       "bsin": "JJGRPC76XH",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11787044"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12657345"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12601040"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11571510"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12834036"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13221933"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12374010"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12684129"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11987471"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13282869"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13030539"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12341981"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12366196"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11812786"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11571512"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12906424"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12146109"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12098715"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12723510"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12705353"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12099960"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12066983"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 5,
+       "reviewCount": 2,
+       "syndicatedReviewSummary": [
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 3.490566,
+         "totalReviewCount": 53,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/12657345/syndicatedreviews.htm?sourcename=hp"
+        },
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 3.5714285,
+         "totalReviewCount": 7,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/12657345/syndicatedreviews.htm?sourcename=hp-en"
+        }
+       ],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "HP - 15-fd0133wm 15.6\" FHD i3-N305 1.8GHz Intel UHD Graphics 8GB RAM 256GB SSD Win 11 - Silver",
+       "title": "15-fd0133wm 15.6\" FHD i3-N305 1.8GHz Intel UHD Graphics 8GB RAM 256GB SSD Win 11"
+      },
+      "notifyMeEligible": false,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "HP",
+      "brandId": "184",
+      "classification": {
+       "class": {
+        "id": "768"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "12657345",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": null,
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/cb51e587-4ff4-4cff-ae77-249157a78bfd.png"
+         },
+         "name": {
+          "short": "HP - 15-fd0133wm 15.6\" FHD i3-N305 1.8GHz Intel UHD Graphics 8GB RAM 256GB SSD Win 11 - Silver"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-15-fd0133wm-15-6-fhd-i3-n305-1-8ghz-intel-uhd-graphics-8gb-ram-256gb-ssd-win-11-silver/JJGRPC76XH/sku/12657345"
+       }
+      ],
+      "price": {
+       "customerPrice": 503.46,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "12657345",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": null,
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 18,
+        "monthlyPayment": 27.97,
+        "offerId": "887456",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 503.46,
+        "totalCostIncludingTax": 503.46
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 503.46,
+       "showTotalSavings": true,
+       "totalSavings": 0,
+       "totalSavingsPercent": 0,
+       "openBoxSavings": null,
+       "preferredBadging": null,
+       "puckDisplayMessage": null,
+       "puckMessageURL": null,
+       "totalNonPaidMemberSavings": 0,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 503.46,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "3P",
+       "id": "7090"
+      },
+      "plpFeaturedSku": {
+       "rank": 2,
+       "rankingId": "0001cUDAv0vIXkk_sczI5pklBEqTAX1U"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/cb51e587-4ff4-4cff-ae77-249157a78bfd.png",
+       "mediaType": "image/png",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/cb51e587-4ff4-4cff-ae77-249157a78bfd.png",
+       "height": "595",
+       "altText": "1 - U - - .. .- - . - -  2 - . - . - . - - - - intel CORE i3"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": null
+      },
+      "publisher": null,
+      "dotComStreetDate": "2026-05-19T05:00Z",
+      "primaryArtists": null,
+      "isNew": null,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "887456",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "384913",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": null,
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://ws.cs.1worldsync.com/afe75039/page/e3af23b796?mf=HP&pn=D7NF2UA#ABA&lang=EN&market=US&host=www.bestbuy.com&nld=2"
+        ]
+       },
+       {
+        "values": [
+         "OmniBook 3 16\""
+        ]
+       },
+       {
+        "values": [
+         "HP OmniBook 3 16\" Laptop PC",
+         "45 W USB Type-C GaN power adapter",
+         "Setup instructions"
+        ]
+       },
+       {
+        "values": [
+         "HP OmniBook"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "12873951",
+      "bsin": "J3YH84S23V",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/hp-omnibook-3-16-2k-touchscreen-laptop-amd-ryzen-5-40-2025-8gb-memory-256gb-ssd-glacier-silver/J3YH84S23V",
+       "relativePdp": "/product/hp-omnibook-3-16-2k-touchscreen-laptop-amd-ryzen-5-40-2025-8gb-memory-256gb-ssd-glacier-silver/J3YH84S23V",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/hp-omnibook-3-16-2k-touchscreen-laptop-amd-ryzen-5-40-2025-8gb-memory-256gb-ssd-glacier-silver/J3YH84S23V/sku/12873951"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/hp-omnibook-3-16-2k-touchscreen-laptop-amd-ryzen-5-40-2025-8gb-memory-256gb-ssd-glacier-silver/J3YH84S23V",
+       "bsin": "J3YH84S23V",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6672900"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12873951"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12845944"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13035035"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12934469"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13091596"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13274519"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13137308"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12819898"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13015061"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13020329"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12889260"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13060865"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12860333"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12852788"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12903684"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.7,
+       "reviewCount": 145,
+       "syndicatedReviewSummary": [
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 4.25,
+         "totalReviewCount": 40,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/12873951/syndicatedreviews.htm?sourcename=hp"
+        },
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 5,
+         "totalReviewCount": 2,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/12873951/syndicatedreviews.htm?sourcename=hp-en_ca"
+        }
+       ],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "HP - OmniBook 3 16\" 2K Touchscreen Laptop - AMD Ryzen 5 40 (2025) - 8GB Memory - 256GB SSD - Glacier Silver",
+       "title": "OmniBook 3 16\" 2K Touchscreen Laptop - AMD Ryzen 5 40 (2025) - 8GB Memory - 256GB SSD"
+      },
+      "notifyMeEligible": false,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "HP",
+      "brandId": "184",
+      "classification": {
+       "class": {
+        "id": "768"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "12873951",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": null,
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2cebe792-693a-4300-be80-470d1ff22eea.jpg"
+         },
+         "name": {
+          "short": "HP - OmniBook 3 16\" 2K Touchscreen Laptop - AMD Ryzen 5 40 (2025) - 8GB Memory - 256GB SSD - Glacier Silver"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-3-16-2k-touchscreen-laptop-amd-ryzen-5-40-2025-8gb-memory-256gb-ssd-glacier-silver/J3YH84S23V/sku/12873951"
+       }
+      ],
+      "price": {
+       "customerPrice": 507.43,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "12873951",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": null,
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 18,
+        "monthlyPayment": 28.2,
+        "offerId": "887456",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 507.43,
+        "totalCostIncludingTax": 507.43
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 779.99,
+       "showTotalSavings": true,
+       "totalSavings": 272.56,
+       "totalSavingsPercent": 34,
+       "openBoxSavings": null,
+       "preferredBadging": null,
+       "puckDisplayMessage": null,
+       "puckMessageURL": null,
+       "totalNonPaidMemberSavings": 272.56,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 507.43,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "3P",
+       "id": "7090"
+      },
+      "plpFeaturedSku": {
+       "rank": 2,
+       "rankingId": "0001cU0xYCA8OAv8b:r7TL11cY8PSjWG"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2cebe792-693a-4300-be80-470d1ff22eea.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2cebe792-693a-4300-be80-470d1ff22eea.jpg",
+       "height": "2000",
+       "altText": "AMD RYZEN 5"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "16-BY0015DX/D7NF2UA#ABA"
+      },
+      "publisher": null,
+      "dotComStreetDate": "2026-07-21T05:00Z",
+      "primaryArtists": null,
+      "isNew": null,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "887456",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "384913",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": null,
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/6636560?force_cache=20250813000000&pn=https://api.bestbuy.com/click/-/6636560/pdp"
+        ]
+       },
+       {
+        "values": [
+         "https://ws.cs.1worldsync.com/afe75039/page/e3af23b796?mf=DELL&pn=LDA14250-7667SLV-PUS&lang=EN&market=US&host=www.bestbuy.com&nld=2"
+        ]
+       },
+       {
+        "values": [
+         "Dell Premium 14"
+        ]
+       },
+       {
+        "values": [
+         "Dell 14 Premium DA14250",
+         "60 Watt Type-C Adapter",
+         "Power Cord (US)",
+         "Documents"
+        ]
+       },
+       {
+        "values": [
+         "Dell Premium"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "6636560",
+      "bsin": "J3K4L6HFJT",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-premium-14-5-3-2k-oled-touchscreen-laptop-intel-core-ultra-7-series-2-255h-2025-32gb-memory-1tb-storage-platinum/J3K4L6HFJT",
+       "relativePdp": "/product/dell-premium-14-5-3-2k-oled-touchscreen-laptop-intel-core-ultra-7-series-2-255h-2025-32gb-memory-1tb-storage-platinum/J3K4L6HFJT",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-premium-14-5-3-2k-oled-touchscreen-laptop-intel-core-ultra-7-series-2-255h-2025-32gb-memory-1tb-storage-platinum/J3K4L6HFJT/sku/6636560"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/dell-premium-14-5-3-2k-oled-touchscreen-laptop-intel-core-ultra-7-series-2-255h-2025-32gb-memory-1tb-storage-platinum/J3K4L6HFJT",
+       "bsin": "J3K4L6HFJT",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6636560"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10936967"
+        }
+       ]
+      },
+      "arModels": [
+       {
+        "animated": false,
+        "createDate": "2026-08-03T21:02:34Z",
+        "creator": "EyeKandy",
+        "format": "GLB",
+        "title": "884116670667.glb",
+        "type": "small",
+        "uri": "https://pisces.bbystatic.com/ar-model/884116670667.glb"
+       },
+       {
+        "animated": false,
+        "createDate": "2026-08-03T21:02:36Z",
+        "creator": "EyeKandy",
+        "format": "USDZ",
+        "title": "884116670667.usdz",
+        "type": "small",
+        "uri": "https://pisces.bbystatic.com/ar-model/884116670667.usdz"
+       },
+       {
+        "animated": false,
+        "createDate": "2026-08-03T21:02:37Z",
+        "creator": "EyeKandy",
+        "format": "GLB",
+        "title": "884116670667_draco.glb",
+        "type": "small",
+        "uri": "https://pisces.bbystatic.com/ar-model/884116670667_draco.glb"
+       }
+      ],
+      "orderCode": "1",
+      "reviewInfo": {
+       "averageRating": 4.7,
+       "reviewCount": 103,
+       "syndicatedReviewSummary": [],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "Dell - Premium - 14.5\" 3.2K OLED Touchscreen Laptop - Intel Core Ultra 7 Series 2 255H 2025 - 32GB Memory - 1TB Storage - Platinum",
+       "title": "Premium - 14.5\" 3.2K OLED Touchscreen Laptop - Intel Core Ultra 7 Series 2 255H 2025 - 32GB Memory - 1TB Storage"
+      },
+      "notifyMeEligible": null,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "Dell",
+      "brandId": "2091",
+      "classification": {
+       "class": {
+        "id": "770"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "6636560",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": null,
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/c405e120-e48d-4ab6-a84f-936789c97fe0.jpg"
+         },
+         "name": {
+          "short": "Dell - Premium - 14.5\" 3.2K OLED Touchscreen Laptop - Intel Core Ultra 7 Series 2 255H 2025 - 32GB Memory - 1TB Storage - Platinum"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/dell-premium-14-5-3-2k-oled-touchscreen-laptop-intel-core-ultra-7-series-2-255h-2025-32gb-memory-1tb-storage-platinum/J3K4L6HFJT/sku/6636560"
+       }
+      ],
+      "price": {
+       "customerPrice": 507.99,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "6636560",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": [
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "479882",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6410932"
+        }
+       ],
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 18,
+        "monthlyPayment": 28.23,
+        "offerId": "887456",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 507.99,
+        "totalCostIncludingTax": 507.99
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 2099.99,
+       "showTotalSavings": true,
+       "totalSavings": 1592,
+       "totalSavingsPercent": 75,
+       "openBoxSavings": null,
+       "preferredBadging": "Clearance",
+       "puckDisplayMessage": "Clearance",
+       "puckMessageURL": null,
+       "totalNonPaidMemberSavings": 1592,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 507.99,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "1P",
+       "id": "bby"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cGZQguAQ:TOLCyTlwI3WgCigpV::"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/c405e120-e48d-4ab6-a84f-936789c97fe0.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/c405e120-e48d-4ab6-a84f-936789c97fe0.jpg",
+       "height": "2000",
+       "altText": "intel CORE ULTRA 7"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "LDA14250-7667SLV-PUS"
+      },
+      "publisher": null,
+      "dotComStreetDate": null,
+      "primaryArtists": null,
+      "isNew": false,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "821378",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "885476",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "885478",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "885481",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "885482",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "885486",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "887456",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "384913",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": null,
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://ws.cs.1worldsync.com/afe75039/page/e3af23b796?mf=HP&pn=B4GX6UA&lang=EN&market=US&host=www.bestbuy.com&nld=13"
+        ]
+       },
+       {
+        "values": [
+         "17.3\" HD+ Laptop - Intel Core i3 - 8GB Memory - 256GB SSD"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "10858289",
+      "bsin": "JJGRPJVGF2",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/hp-17-3-hd-laptop-intel-core-i3-n305-2023-8gb-memory-256gb-ssd-natural-silver/JJGRPJVGF2",
+       "relativePdp": "/product/hp-17-3-hd-laptop-intel-core-i3-n305-2023-8gb-memory-256gb-ssd-natural-silver/JJGRPJVGF2",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/hp-17-3-hd-laptop-intel-core-i3-n305-2023-8gb-memory-256gb-ssd-natural-silver/JJGRPJVGF2/sku/10858289"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/hp-17-3-hd-laptop-intel-core-i3-n305-2023-8gb-memory-256gb-ssd-natural-silver/JJGRPJVGF2",
+       "bsin": "JJGRPJVGF2",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10858289"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10534056"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12660899"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12145254"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13275803"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6612978"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13282860"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12843448"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12705672"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10287105"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12903715"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10565305"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10995555"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12297877"
+        }
+       ]
+      },
+      "arModels": [
+       {
+        "animated": false,
+        "createDate": "2025-04-07T14:49:34Z",
+        "creator": "Hexa",
+        "format": "USDZ",
+        "title": "198828895578.usdz",
+        "type": "small",
+        "uri": "https://pisces.bbystatic.com/ar-model/198828895578.usdz"
+       },
+       {
+        "animated": false,
+        "createDate": "2025-04-07T14:49:35Z",
+        "creator": "Hexa",
+        "format": "GLB",
+        "title": "198828895578_draco.glb",
+        "type": "small",
+        "uri": "https://pisces.bbystatic.com/ar-model/198828895578_draco.glb"
+       }
+      ],
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.6,
+       "reviewCount": 379,
+       "syndicatedReviewSummary": [
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 4.1860466,
+         "totalReviewCount": 43,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/10858289/syndicatedreviews.htm?sourcename=hp"
+        },
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 4.2222223,
+         "totalReviewCount": 9,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/10858289/syndicatedreviews.htm?sourcename=hp-en"
+        }
+       ],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "HP - 17.3\" HD+ Laptop - Intel Core i3 N305 2023 - 8GB Memory - 256GB SSD - Natural Silver",
+       "title": "17.3\" HD+ Laptop - Intel Core i3 N305 2023 - 8GB Memory - 256GB SSD"
+      },
+      "notifyMeEligible": false,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "HP",
+      "brandId": "184",
+      "classification": {
+       "class": {
+        "id": "768"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "10858289",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": null,
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/fafc7366-31ef-48a5-b459-17994368001e.jpg"
+         },
+         "name": {
+          "short": "HP - 17.3\" HD+ Laptop - Intel Core i3 N305 2023 - 8GB Memory - 256GB SSD - Natural Silver"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-17-3-hd-laptop-intel-core-i3-n305-2023-8gb-memory-256gb-ssd-natural-silver/JJGRPJVGF2/sku/10858289"
+       }
+      ],
+      "price": {
+       "customerPrice": 509,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "10858289",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": null,
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 18,
+        "monthlyPayment": 28.28,
+        "offerId": "887456",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 509,
+        "totalCostIncludingTax": 509
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 525.98,
+       "showTotalSavings": true,
+       "totalSavings": 16.98,
+       "totalSavingsPercent": 3,
+       "openBoxSavings": null,
+       "preferredBadging": null,
+       "puckDisplayMessage": null,
+       "puckMessageURL": null,
+       "totalNonPaidMemberSavings": 16.98,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 509,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "3P",
+       "id": "2228"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cU9ya9a8sJmcXtglBQuVuB_PC9IC"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/fafc7366-31ef-48a5-b459-17994368001e.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/fafc7366-31ef-48a5-b459-17994368001e.jpg",
+       "height": "2000",
+       "altText": "intel. CORE i3"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "17-cn3003dx"
+      },
+      "publisher": null,
+      "dotComStreetDate": "2025-09-30T05:00Z",
+      "primaryArtists": null,
+      "isNew": null,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "887456",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "384913",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": null,
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://ws.cs.1worldsync.com/afe75039/page/e3af23b796?mf=HP&pn=8L707UA&lang=EN&market=US&host=www.bestbuy.com&nld=2"
+        ]
+       },
+       {
+        "values": [
+         "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/12610589?force_cache=22694&pn=https://www.bestbuy.com/product/hp-15-6-touch-screen-laptop-intel-core-i3-1215u-2022-8gb-memory-256gb-ssd-natural-silver/JJGLFK9YLT/sku/12610589"
+        ]
+       },
+       {
+        "values": [
+         "15.6\" Touch-Screen Laptop - Intel Core i3 - 8GB Memory - 256GB SSD"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "13183022",
+      "bsin": "JJGLFK9YLT",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/hp-15-6-touch-screen-laptop-intel-core-i3-1215u-2022-8gb-memory-256gb-ssd-natural-silver/JJGLFK9YLT",
+       "relativePdp": "/product/hp-15-6-touch-screen-laptop-intel-core-i3-1215u-2022-8gb-memory-256gb-ssd-natural-silver/JJGLFK9YLT",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/hp-15-6-touch-screen-laptop-intel-core-i3-1215u-2022-8gb-memory-256gb-ssd-natural-silver/JJGLFK9YLT/sku/13183022"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/hp-15-6-touch-screen-laptop-intel-core-i3-1215u-2022-8gb-memory-256gb-ssd-natural-silver/JJGLFK9YLT",
+       "bsin": "JJGLFK9YLT",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13183022"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12610589"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12699565"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6550428"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11058086"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12660850"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12495096"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12623006"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11058067"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11058048"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11138256"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11058081"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.7,
+       "reviewCount": 2713,
+       "syndicatedReviewSummary": [],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "HP - 15.6\" Touch-Screen Laptop - Intel Core i3 1215U 2022 - 8GB Memory - 256GB SSD - Natural Silver",
+       "title": "15.6\" Touch-Screen Laptop - Intel Core i3 1215U 2022 - 8GB Memory - 256GB SSD"
+      },
+      "notifyMeEligible": false,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "HP",
+      "brandId": "184",
+      "classification": {
+       "class": {
+        "id": "768"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "13183022",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": null,
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/25e57820-8dd2-4221-b9b8-dc71c9b6e492.jpg"
+         },
+         "name": {
+          "short": "HP - 15.6\" Touch-Screen Laptop - Intel Core i3 1215U 2022 - 8GB Memory - 256GB SSD - Natural Silver"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-15-6-touch-screen-laptop-intel-core-i3-1215u-2022-8gb-memory-256gb-ssd-natural-silver/JJGLFK9YLT/sku/13183022"
+       }
+      ],
+      "price": {
+       "customerPrice": 519,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "13183022",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": null,
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 18,
+        "monthlyPayment": 28.84,
+        "offerId": "887456",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 519,
+        "totalCostIncludingTax": 519
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 546.98,
+       "showTotalSavings": true,
+       "totalSavings": 27.98,
+       "totalSavingsPercent": 5,
+       "openBoxSavings": null,
+       "preferredBadging": null,
+       "puckDisplayMessage": null,
+       "puckMessageURL": null,
+       "totalNonPaidMemberSavings": 27.98,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 519,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "3P",
+       "id": "2228"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cOHmGu4AK:vTxhd2_UTysGnhZmz1"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/25e57820-8dd2-4221-b9b8-dc71c9b6e492.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/25e57820-8dd2-4221-b9b8-dc71c9b6e492.jpg",
+       "height": "1184",
+       "altText": "fpe - - - -aas - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "8L707UA#ABA"
+      },
+      "publisher": null,
+      "dotComStreetDate": "2026-10-16T05:00Z",
+      "primaryArtists": null,
+      "isNew": null,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "887456",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "384913",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": null,
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/6477887?force_cache=20231212000000&pn=https://api.bestbuy.com/click/-/6477887/pdp"
+        ]
+       },
+       {
+        "values": [
+         "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/6477887?force_cache=20231212000000&pn=https://api.bestbuy.com/click/-/6477887/pdp"
+        ]
+       },
+       {
+        "values": [
+         "Battery  |  AC Adapter"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "13091284",
+      "bsin": "JJG2CSX6XG",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/hp-17-3-laptop-intel-core-i3-8gb-memory-256gb-ssd-natural-silver/JJG2CSX6XG",
+       "relativePdp": "/product/hp-17-3-laptop-intel-core-i3-8gb-memory-256gb-ssd-natural-silver/JJG2CSX6XG",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/hp-17-3-laptop-intel-core-i3-8gb-memory-256gb-ssd-natural-silver/JJG2CSX6XG/sku/13091284"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/hp-17-3-laptop-intel-core-i3-8gb-memory-256gb-ssd-natural-silver/JJG2CSX6XG",
+       "bsin": "JJG2CSX6XG",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6477887"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13050634"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13091284"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13071343"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "1",
+      "reviewInfo": {
+       "averageRating": 4.5,
+       "reviewCount": 1247,
+       "syndicatedReviewSummary": [],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "HP - 17.3\" Laptop - Intel Core i3 - 8GB Memory - 256GB SSD - Natural Silver",
+       "title": "17.3\" Laptop - Intel Core i3 - 8GB Memory - 256GB SSD"
+      },
+      "notifyMeEligible": false,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "HP",
+      "brandId": "184",
+      "classification": {
+       "class": {
+        "id": "768"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "13091284",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": null,
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6477/6477887_sd.jpg"
+         },
+         "name": {
+          "short": "HP - 17.3\" Laptop - Intel Core i3 - 8GB Memory - 256GB SSD - Natural Silver"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-17-3-laptop-intel-core-i3-8gb-memory-256gb-ssd-natural-silver/JJG2CSX6XG/sku/13091284"
+       }
+      ],
+      "price": {
+       "customerPrice": 519,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "13091284",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": null,
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 18,
+        "monthlyPayment": 28.84,
+        "offerId": "887456",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 519,
+        "totalCostIncludingTax": 519
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 519,
+       "showTotalSavings": true,
+       "totalSavings": 0,
+       "totalSavingsPercent": 0,
+       "openBoxSavings": null,
+       "preferredBadging": null,
+       "puckDisplayMessage": null,
+       "puckMessageURL": null,
+       "totalNonPaidMemberSavings": 0,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 519,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "3P",
+       "id": "2837"
+      },
+      "plpFeaturedSku": {
+       "rank": 3,
+       "rankingId": "0001cTHg1LSyPY6oYaIcE:ME4D6sgDH7"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6477/6477887_sd.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6477/6477887_sd.jpg",
+       "height": "1917",
+       "altText": "Front. HP - 17.3\" Laptop - Intel Core i3 - 8GB Memory - 256GB SSD."
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "17-by4013dx"
+      },
+      "publisher": null,
+      "dotComStreetDate": "2026-09-16T05:00Z",
+      "primaryArtists": null,
+      "isNew": null,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "887456",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "384913",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": null,
+      "operationalAttributes": [
+       {
+        "values": [
+         "1"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "12660915",
+      "bsin": "JJGQJQQTXH",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/hp-15-6-inch-touch-screen-laptop-intel-core-i3-n305-8gb-ram-256gb-ssd/JJGQJQQTXH",
+       "relativePdp": "/product/hp-15-6-inch-touch-screen-laptop-intel-core-i3-n305-8gb-ram-256gb-ssd/JJGQJQQTXH",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/hp-15-6-inch-touch-screen-laptop-intel-core-i3-n305-8gb-ram-256gb-ssd/JJGQJQQTXH/sku/12660915"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/hp-15-6-inch-touch-screen-laptop-intel-core-i3-n305-8gb-ram-256gb-ssd/JJGQJQQTXH",
+       "bsin": "JJGQJQQTXH",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13085538"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12660915"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12692500"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12324227"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13279284"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12270351"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12187464"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12030705"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11976031"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12906437"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12684456"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10928146"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12903703"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 5,
+       "reviewCount": 1,
+       "syndicatedReviewSummary": [
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 3.631579,
+         "totalReviewCount": 19,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/12660915/syndicatedreviews.htm?sourcename=hp"
+        },
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 3.5714285,
+         "totalReviewCount": 7,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/12660915/syndicatedreviews.htm?sourcename=hp-en"
+        }
+       ],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "HP - 15.6 inch Touch Screen Laptop - Intel Core i3-N305 - 8GB RAM / 256GB SSD",
+       "title": "15.6 inch Touch Screen Laptop - Intel Core i3-N305 - 8GB RAM / 256GB SSD"
+      },
+      "notifyMeEligible": false,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "HP",
+      "brandId": "184",
+      "classification": {
+       "class": {
+        "id": "768"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "12660915",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": null,
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/a2a2b0d4-633c-4be9-a3eb-fd33d7170c15.jpg"
+         },
+         "name": {
+          "short": "HP - 15.6 inch Touch Screen Laptop - Intel Core i3-N305 - 8GB RAM / 256GB SSD"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-15-6-inch-touch-screen-laptop-intel-core-i3-n305-8gb-ram-256gb-ssd/JJGQJQQTXH/sku/12660915"
+       }
+      ],
+      "price": {
+       "customerPrice": 519.01,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "12660915",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": null,
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 18,
+        "monthlyPayment": 28.84,
+        "offerId": "887456",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 519.01,
+        "totalCostIncludingTax": 519.01
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 519.01,
+       "showTotalSavings": true,
+       "totalSavings": 0,
+       "totalSavingsPercent": 0,
+       "openBoxSavings": null,
+       "preferredBadging": null,
+       "puckDisplayMessage": null,
+       "puckMessageURL": null,
+       "totalNonPaidMemberSavings": 0,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 519.01,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "3P",
+       "id": "7090"
+      },
+      "plpFeaturedSku": {
+       "rank": 2,
+       "rankingId": "0001cUDfjPcXLYxcZzG3:2RR31BXIsgx"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/a2a2b0d4-633c-4be9-a3eb-fd33d7170c15.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/a2a2b0d4-633c-4be9-a3eb-fd33d7170c15.jpg",
+       "height": "1000",
+       "altText": "- SO - in - - - hp , C - - .  \n- 1 a 1 a 7 L a I  \n- 8 . . E . 2 1 S -. A = - - x . . C F ( 1. D ... N  F K< L ALT - 2 2 > a 15 4 D 1 ."
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": null
+      },
+      "publisher": null,
+      "dotComStreetDate": "2026-05-20T05:00Z",
+      "primaryArtists": null,
+      "isNew": null,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "887456",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "384913",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": null,
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/11799828?force_cache=22694&pn=https://www.bestbuy.com/product/hp-15-6-touch-screen-laptop-intel-core-i3-1315u-2023-8gb-memory-256gb-ssd-natural-silver/JJGTCG76CY/sku/11799828"
+        ]
+       },
+       {
+        "values": [
+         "https://ws.cs.1worldsync.com/afe75039/page/e3af23b796?mf=HP&pn=C20BPUA&lang=EN&market=US&host=www.bestbuy.com&nld=3"
+        ]
+       },
+       {
+        "values": [
+         "HP 15.6 inch Laptop",
+         "45W AC power adapter",
+         "Setup instructions"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "11799828",
+      "bsin": "JJGTCG76CY",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/hp-15-6-touch-screen-laptop-intel-core-i3-1315u-2023-8gb-memory-256gb-ssd-natural-silver/JJGTCG76CY",
+       "relativePdp": "/product/hp-15-6-touch-screen-laptop-intel-core-i3-1315u-2023-8gb-memory-256gb-ssd-natural-silver/JJGTCG76CY",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/hp-15-6-touch-screen-laptop-intel-core-i3-1315u-2023-8gb-memory-256gb-ssd-natural-silver/JJGTCG76CY/sku/11799828"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/hp-15-6-touch-screen-laptop-intel-core-i3-1315u-2023-8gb-memory-256gb-ssd-natural-silver/JJGTCG76CY",
+       "bsin": "JJGTCG76CY",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11799828"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12025877"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12661289"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11862525"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11583225"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6637506"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13278970"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12703235"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12622988"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12327041"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12702762"
+        }
+       ]
+      },
+      "arModels": [
+       {
+        "animated": false,
+        "createDate": "2025-11-06T15:08:52Z",
+        "creator": "Best",
+        "format": "USDZ",
+        "title": "199485164434.usdz",
+        "type": "small",
+        "uri": "https://pisces.bbystatic.com/ar-model/199485164434.usdz"
+       },
+       {
+        "animated": false,
+        "createDate": "2025-11-06T15:08:53Z",
+        "creator": "Best",
+        "format": "GLB",
+        "title": "199485164434_draco.glb",
+        "type": "small",
+        "uri": "https://pisces.bbystatic.com/ar-model/199485164434_draco.glb"
+       }
+      ],
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.6,
+       "reviewCount": 74,
+       "syndicatedReviewSummary": [
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 3.8181818,
+         "totalReviewCount": 11,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/11799828/syndicatedreviews.htm?sourcename=hp"
+        },
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 4.2,
+         "totalReviewCount": 5,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/11799828/syndicatedreviews.htm?sourcename=hp-en_ca"
+        }
+       ],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "HP - 15.6\" Touch-Screen Laptop - Intel Core i3 1315U 2023 - 8GB Memory - 256GB SSD - Natural Silver",
+       "title": "15.6\" Touch-Screen Laptop - Intel Core i3 1315U 2023 - 8GB Memory - 256GB SSD"
+      },
+      "notifyMeEligible": false,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "HP",
+      "brandId": "184",
+      "classification": {
+       "class": {
+        "id": "768"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "11799828",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": null,
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/336b9fe4-ae31-4755-8906-f64dac2db62f.jpg"
+         },
+         "name": {
+          "short": "HP - 15.6\" Touch-Screen Laptop - Intel Core i3 1315U 2023 - 8GB Memory - 256GB SSD - Natural Silver"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-15-6-touch-screen-laptop-intel-core-i3-1315u-2023-8gb-memory-256gb-ssd-natural-silver/JJGTCG76CY/sku/11799828"
+       }
+      ],
+      "price": {
+       "customerPrice": 522,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "11799828",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": null,
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 18,
+        "monthlyPayment": 29,
+        "offerId": "887456",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 522,
+        "totalCostIncludingTax": 522
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 529,
+       "showTotalSavings": true,
+       "totalSavings": 7,
+       "totalSavingsPercent": 1,
+       "openBoxSavings": null,
+       "preferredBadging": null,
+       "puckDisplayMessage": null,
+       "puckMessageURL": null,
+       "totalNonPaidMemberSavings": 7,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 522,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "3P",
+       "id": "2228"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cU1LiIgBAHDAa00Zdzv9r_GJm2Jz"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/336b9fe4-ae31-4755-8906-f64dac2db62f.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/336b9fe4-ae31-4755-8906-f64dac2db62f.jpg",
+       "height": "1527",
+       "altText": "Seas - 0% MeAgA - aneunene Fated - - . LEO NETSuR a . semoings - Am Saa . I Aore ... H - no Sging -o .. in d - ode C aNS - Comen - Movs T Runsnandus sAn moa Cobonns - sw - MUERG  Deo A0 a rUt  - campantuun tve -  A fra - nATwan - - stompoa numa -.. EMA moada  LAA .. Suv Seas 151:AM T hp - I - - -  - A 2 1 5 a 7 . L D cTs 2 - .. GAES  4  E E D 2 F T G  H   - K  L  . . 4 1 - 1 5  - x X C Y D N 1 I 2 3 PTRL P ... ALT - C intel. CORE i3"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "15-fd0153dx"
+      },
+      "publisher": null,
+      "dotComStreetDate": "2025-12-02T06:00Z",
+      "primaryArtists": null,
+      "isNew": null,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "887456",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "384913",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": "53641edc-052f-419f-8735-2f8608d78865",
+     "product": {
+      "badges": null,
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/Wildcat_Lake_Core_3?force_cache=50839&pn=https://api.bestbuy.com/click/-/6681653/pdp"
+        ]
+       },
+       {
+        "values": [
+         "HP OmniBook 3 17.3\" Laptop AI PC",
+         "45 W USB Type-C GaN power adapter",
+         "Setup instructions"
+        ]
+       },
+       {
+        "values": [
+         "HP OmniBook"
+        ]
+       },
+       {
+        "values": [
+         "OEM/Standard"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "13250381",
+      "bsin": "J3PPHF9Z98",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/hp-omnibook-3-17-3-full-hd-laptop-intel-core-3-304-2026-8gb-memory-256gb-ssd-mica-silver/J3PPHF9Z98",
+       "relativePdp": "/product/hp-omnibook-3-17-3-full-hd-laptop-intel-core-3-304-2026-8gb-memory-256gb-ssd-mica-silver/J3PPHF9Z98",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/hp-omnibook-3-17-3-full-hd-laptop-intel-core-3-304-2026-8gb-memory-256gb-ssd-mica-silver/J3PPHF9Z98/sku/13250381"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/hp-omnibook-3-17-3-full-hd-laptop-intel-core-3-304-2026-8gb-memory-256gb-ssd-mica-silver/J3PPHF9Z98",
+       "bsin": "J3PPHF9Z98",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6681653"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13250381"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13231036"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13241773"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13283871"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13278957"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13263904"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.7,
+       "reviewCount": 28,
+       "syndicatedReviewSummary": [
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 4.0555553,
+         "totalReviewCount": 36,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/13250381/syndicatedreviews.htm?sourcename=hp"
+        },
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 3.6,
+         "totalReviewCount": 5,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/13250381/syndicatedreviews.htm?sourcename=hp-en"
+        }
+       ],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "HP - OmniBook 3 - 17.3\" Full HD Laptop - Intel Core 3 304 (2026) - 8GB Memory - 256GB SSD - Mica Silver",
+       "title": "OmniBook 3 - 17.3\" Full HD Laptop - Intel Core 3 304 (2026) - 8GB Memory - 256GB SSD"
+      },
+      "notifyMeEligible": null,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "HP",
+      "brandId": "184",
+      "classification": {
+       "class": {
+        "id": "768"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "13250381",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": null,
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/967fc97a-c600-4c96-a4e7-24867fabd936.jpg"
+         },
+         "name": {
+          "short": "HP - OmniBook 3 - 17.3\" Full HD Laptop - Intel Core 3 304 (2026) - 8GB Memory - 256GB SSD - Mica Silver"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-3-17-3-full-hd-laptop-intel-core-3-304-2026-8gb-memory-256gb-ssd-mica-silver/J3PPHF9Z98/sku/13250381"
+       }
+      ],
+      "price": {
+       "customerPrice": 524,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "13250381",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": null,
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 18,
+        "monthlyPayment": 29.12,
+        "offerId": "887456",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 524,
+        "totalCostIncludingTax": 524
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 799.99,
+       "showTotalSavings": true,
+       "totalSavings": 275.99,
+       "totalSavingsPercent": 34,
+       "openBoxSavings": null,
+       "preferredBadging": null,
+       "puckDisplayMessage": null,
+       "puckMessageURL": null,
+       "totalNonPaidMemberSavings": 275.99,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 524,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "3P",
+       "id": "2228"
+      },
+      "plpFeaturedSku": {
+       "rank": 2,
+       "rankingId": "0001cTguAxA2H_Lw3jCiNovJ:zry29Ki"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/967fc97a-c600-4c96-a4e7-24867fabd936.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/967fc97a-c600-4c96-a4e7-24867fabd936.jpg",
+       "height": "1574",
+       "altText": "- Summy\nSearch\nhp\nde\n9:45 - 18/1/2025\n. .\n... -\n- -\n- -\n- - - --\n- -\n- PIA O\n- A\n- -\n-\n..\n-\n-\n0\n-\nW\n-\nFO\n-\nY\nU\n.\n..\nES\n.\n.\nT\nA\n-\n...\n1\n-\n..\nL\nIS\n\n/\n-\n- 000\n-\n -\nPS \n-\n)\nFIS\nZ\nM\n- -\n- -\n - at\n- \n0\n-\n-\n-\nSeries 3 intel CORE 3"
+      },
+      "productVariationListDisplay": {
+       "type": "listDisplay",
+       "variationId": "53641edc-052f-419f-8735-2f8608d78865",
+       "variationTypes": [
+        {
+         "definition": null,
+         "definitionDetails": null,
+         "displayName": "Color",
+         "rawName": "Desktop_and_Laptop_Computers:Color",
+         "sequence": 6
+        }
+       ],
+       "title": "HP - OmniBook 3 - 17.3\" Full HD Laptop - Intel Core 3 304 (2026) - 8GB Memory - 256GB SSD",
+       "productBsinVariations": [
+        {
+         "bsin": "J3PPHF9Z98",
+         "bsinProduct": {
+          "featuredSKU": {
+           "skuId": "6681653"
+          },
+          "bsin": "J3PPHF9Z98"
+         },
+         "variations": [
+          {
+           "value": "Mica Silver",
+           "rawName": "Desktop_and_Laptop_Computers:Color",
+           "image": {
+            "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/967fc97a-c600-4c96-a4e7-24867fabd936.jpg"
+           }
+          }
+         ]
+        },
+        {
+         "bsin": "JJGS9K8HJR",
+         "bsinProduct": {
+          "featuredSKU": {
+           "skuId": "13241948"
+          },
+          "bsin": "JJGS9K8HJR"
+         },
+         "variations": [
+          {
+           "value": "Black",
+           "rawName": "Desktop_and_Laptop_Computers:Color",
+           "image": {
+            "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/d33be2dc-5a81-423e-8941-2817dd1e063d.png"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "17-dg0003dx/DR5F2UA#ABA"
+      },
+      "publisher": null,
+      "dotComStreetDate": "2026-11-04T06:00Z",
+      "primaryArtists": null,
+      "isNew": null,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "887456",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "384913",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": "fcda3250-004d-47d4-86e6-7126ec8ba438",
+     "product": {
+      "badges": null,
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/6668953?force_cache=20260318000000&pn=https://api.bestbuy.com/click/-/6668953/pdp"
+        ]
+       },
+       {
+        "values": [
+         "https://ws.cs.1worldsync.com/afe75039/page/e3af23b796?mf=DELL&pn=LDC15250-5434BLK-PUS&lang=EN&market=US&host=www.bestbuy.com&nld=3"
+        ]
+       },
+       {
+        "values": [
+         "Dell DC15250"
+        ]
+       },
+       {
+        "values": [
+         "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/13th_Gen_Intel_Core_i5_Consumer_Mobile?force_cache=78030&pn=https://api.bestbuy.com/click/-/6668953/pdp"
+        ]
+       },
+       {
+        "values": [
+         "Dell 15 DC15250",
+         "65 Watt AC Adapter",
+         "US Power Cord",
+         "Documents"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "12599689",
+      "bsin": "J3K4L6QW5Y",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i5-1334u-2023-8gb-memory-512-gb-storage-carbon-black/J3K4L6QW5Y",
+       "relativePdp": "/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i5-1334u-2023-8gb-memory-512-gb-storage-carbon-black/J3K4L6QW5Y",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i5-1334u-2023-8gb-memory-512-gb-storage-carbon-black/J3K4L6QW5Y/sku/12599689"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i5-1334u-2023-8gb-memory-512-gb-storage-carbon-black/J3K4L6QW5Y",
+       "bsin": "J3K4L6QW5Y",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12599689"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6668953"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12747471"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12895657"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12608075"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12660894"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12574978"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12849444"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12593093"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13291463"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13305792"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12855134"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13271343"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13164536"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12937180"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13100038"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12593070"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12649460"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12688680"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.5,
+       "reviewCount": 345,
+       "syndicatedReviewSummary": [],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i5 1334U 2023 - 8GB Memory - 512 GB Storage - Carbon Black",
+       "title": "15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i5 1334U 2023 - 8GB Memory - 512 GB Storage"
+      },
+      "notifyMeEligible": false,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "Dell",
+      "brandId": "2091",
+      "classification": {
+       "class": {
+        "id": "768"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "12599689",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": null,
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/12d8df20-f834-486b-bc00-5ddcd1b3dc33.jpg"
+         },
+         "name": {
+          "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i5 1334U 2023 - 8GB Memory - 512 GB Storage - Carbon Black"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i5-1334u-2023-8gb-memory-512-gb-storage-carbon-black/J3K4L6QW5Y/sku/12599689"
+       }
+      ],
+      "price": {
+       "customerPrice": 524.99,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "12599689",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": null,
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 18,
+        "monthlyPayment": 29.17,
+        "offerId": "887456",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 524.99,
+        "totalCostIncludingTax": 524.99
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 849.99,
+       "showTotalSavings": true,
+       "totalSavings": 325,
+       "totalSavingsPercent": 38,
+       "openBoxSavings": null,
+       "preferredBadging": null,
+       "puckDisplayMessage": null,
+       "puckMessageURL": null,
+       "totalNonPaidMemberSavings": 325,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 524.99,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "3P",
+       "id": "2934"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cUDfVjnZqKz01hCsUrQEpNHmqTJK"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/12d8df20-f834-486b-bc00-5ddcd1b3dc33.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/12d8df20-f834-486b-bc00-5ddcd1b3dc33.jpg",
+       "height": "1300",
+       "altText": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i5 1334U 2023 - 8GB Memory - 512 GB Storage - Carbon Black"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "LDC15250-5434BLK-PUS"
+      },
+      "publisher": null,
+      "dotComStreetDate": "2026-05-01T05:00Z",
+      "primaryArtists": null,
+      "isNew": null,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "887456",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "384913",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    }
+   ]
+  }
+ },
+ "errors": [
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    0,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    4,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    9,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    1,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    5,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    8,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    6,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    7,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    3,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    2,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    4,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    5,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    9,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    0,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    8,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    1,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    6,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  }
+ ]
+}

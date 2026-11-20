@@ -1,0 +1,544 @@
+[
+ {
+  "data": {
+   "productBySkuId": {
+    "skuId": "6668952",
+    "questionInfo": {
+     "aiQuestionCount": 7,
+     "aiAnswerCount": 7,
+     "answeredQuestionCount": 107,
+     "askAQuestionPage": "/site/questions/submission/6668952?campaignId=QA_&return=",
+     "isQnaEnabled": true,
+     "qnaStandalonePage": "/site/questions/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/6668952",
+     "totalAnswerCount": 142,
+     "totalQuestionCount": 137,
+     "aiSummary": "This laptop features a 15.6 inch touchscreen and 16 gigabytes of system memory. It includes 512 GB of SSD storage, which can be upgraded up to 1 TB. The processor has a base speed of 1.7 GHz and a max turbo boost of up to 5.0 GHz. The device includes Wi-Fi 6, Bluetooth, a front facing camera, and a numeric keypad. Connectivity options include three USB ports, an HDMI 1.4 port, and an SD card reader. This unit includes a 1 year Mail In Service warranty."
+    },
+    "questions": {
+     "results": [
+      {
+       "answerCount": 2,
+       "bazaarvoiceId": "11449483",
+       "id": "7f56bfa6-3982-3a19-a677-95be56964c66",
+       "isAiGenerated": false,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": "2026-05-17T06:44:57.000-05:00",
+       "text": null,
+       "title": "Does this computer has a ethernet connection",
+       "userNickname": "Claruce",
+       "answers": [
+        {
+         "brandImageUrl": "https://photos-us.bazaarvoice.com/photo/2/YnJhbmRhbnN3ZXJzOmJhZGdlb3ZlcnJpZGVpbWFnZQ/28a274b3-411f-50f4-aa77-478c9a1c02b0",
+         "id": "321da772-10b9-3091-98b8-fe5c15765a89",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 6,
+         "submissionTime": "2026-05-18T13:50:01.000-05:00",
+         "text": "No, the laptop does not include an ethernet port. However, you can use and USB to Ethernet adapter.",
+         "userNickname": "YourDellTeam",
+         "badges": [
+          {
+           "code": "BRAND_ANSWERS_CUSTOM_AFFILIATION_Dell",
+           "description": "Dell Representative",
+           "name": "Dell Representative"
+          }
+         ],
+         "images": []
+        },
+        {
+         "brandImageUrl": null,
+         "id": "b4eeb73f-9255-39b1-be07-25f2a80ef154",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 2,
+         "submissionTime": "2026-05-29T19:45:42.000-05:00",
+         "text": "No. You'll find that most MS laptops don't, unless they are targeted to the business or gaming user.",
+         "userNickname": "luislast",
+         "badges": [
+          {
+           "code": "top1000Contributor",
+           "description": "Top contributors earn their status based on the number of reviews they provide and the number of helpful votes they receive from fellow shoppers.",
+           "name": "Top 1000 Contributor"
+          }
+         ],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 3,
+       "bazaarvoiceId": "11424912",
+       "id": "0e3ff21c-f102-3711-9564-255868f66e5b",
+       "isAiGenerated": false,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": "2026-04-29T09:40:59.000-05:00",
+       "text": null,
+       "title": "Can the memory be upgraded?",
+       "userNickname": null,
+       "answers": [
+        {
+         "brandImageUrl": null,
+         "id": "9cc1a104-8065-32fb-98c4-785f1949888d",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 4,
+         "submissionTime": "2026-05-08T13:02:38.000-05:00",
+         "text": "No,",
+         "userNickname": "KD4BestBuy",
+         "badges": [
+          {
+           "code": "VerifiedPurchaser",
+           "description": "We’ve verified that this content was written by people who purchased this item at Best Buy.",
+           "name": "Verified Purchaser"
+          },
+          {
+           "code": "rewardZoneNumberV3",
+           "description": "My Best Buy members receive promotional considerations or entries into drawings for writing reviews.",
+           "name": "My Best Buy\\u00ae Member"
+          }
+         ],
+         "images": []
+        },
+        {
+         "brandImageUrl": "https://photos-us.bazaarvoice.com/photo/2/YnJhbmRhbnN3ZXJzOmJhZGdlb3ZlcnJpZGVpbWFnZQ/28a274b3-411f-50f4-aa77-478c9a1c02b0",
+         "id": "e5aa3cb8-0eeb-32db-be10-1b1f00219fed",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 3,
+         "submissionTime": "2026-05-04T04:50:31.000-05:00",
+         "text": "The maximum memory supported by this laptop is 16 GB which is shipped with this configuration and it cannot be upgraded further.",
+         "userNickname": "YourDellTeam",
+         "badges": [
+          {
+           "code": "BRAND_ANSWERS_CUSTOM_AFFILIATION_Dell",
+           "description": "Dell Representative",
+           "name": "Dell Representative"
+          }
+         ],
+         "images": []
+        },
+        {
+         "brandImageUrl": null,
+         "id": "fc641b3f-c079-3de3-bd80-efa8db7611f0",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 1,
+         "submissionTime": "2026-08-18T08:06:47.000-05:00",
+         "text": "Always look in the Specs for RAM details. If you see \"LPDDR,\" the RAM is soldered into the MOBO and cannot be upgraded (unless, of course, you replace the entire MOBO, at which point you are really buying a whole new computer, not to mention another headache, namely, finding a MOBO that will exactly fit in the shell).",
+         "userNickname": "moronsgetwhattheydeserve",
+         "badges": [],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 2,
+       "bazaarvoiceId": "11460794",
+       "id": "e3f24d62-ee7e-3828-b48c-5eb531d20e03",
+       "isAiGenerated": false,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": "2026-05-24T13:10:18.000-05:00",
+       "text": null,
+       "title": "Does this laptop come with Microsoft 360?",
+       "userNickname": "Justin",
+       "answers": [
+        {
+         "brandImageUrl": "https://photos-us.bazaarvoice.com/photo/2/YnJhbmRhbnN3ZXJzOmJhZGdlb3ZlcnJpZGVpbWFnZQ/28a274b3-411f-50f4-aa77-478c9a1c02b0",
+         "id": "aab306fe-1967-39d9-97c6-7a5fe930dd2b",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 5,
+         "submissionTime": "2026-05-26T10:15:01.000-05:00",
+         "text": "No, it does not include Microsoft office, 360.",
+         "userNickname": "YourDellTeam",
+         "badges": [
+          {
+           "code": "BRAND_ANSWERS_CUSTOM_AFFILIATION_Dell",
+           "description": "Dell Representative",
+           "name": "Dell Representative"
+          }
+         ],
+         "images": []
+        },
+        {
+         "brandImageUrl": null,
+         "id": "a7ab3303-f01c-34d0-af42-b38b3f8a28d7",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 2,
+         "submissionTime": "2026-05-29T19:56:21.000-05:00",
+         "text": "Every MS computer allows for a 30-day free trial of the Suite. Some are preloaded. After the 30-day free trial, your options are: \n1. Subscribe to Microsoft 365 (the new rebrand for the Office Suite). There are many variations, depending on what programs you need, how many computers you want to install on, how long the subscription period, your type of use (Student, Business).\n2. You can still purchase a non-subscription version, again with different parts. If you don't absolutely need the latest bells and whistles, you can buy the prior version for under $50.\n3. You can subscribe to Office Basic, only $2/mo.\n4. You have limited free use of Word, PowerPoint, and Excel, through the browser, one at a time.\n5. You can get the free non-Microsoft Office Suite from Kingsoft.",
+         "userNickname": "luislast",
+         "badges": [
+          {
+           "code": "top1000Contributor",
+           "description": "Top contributors earn their status based on the number of reviews they provide and the number of helpful votes they receive from fellow shoppers.",
+           "name": "Top 1000 Contributor"
+          }
+         ],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 2,
+       "bazaarvoiceId": "11465947",
+       "id": "2d6960a6-64eb-3d2d-b22c-c48563edba64",
+       "isAiGenerated": false,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": "2026-05-27T18:59:55.000-05:00",
+       "text": null,
+       "title": "Does it have ssd",
+       "userNickname": "OrangeXPM",
+       "answers": [
+        {
+         "brandImageUrl": "https://photos-us.bazaarvoice.com/photo/2/YnJhbmRhbnN3ZXJzOmJhZGdlb3ZlcnJpZGVpbWFnZQ/28a274b3-411f-50f4-aa77-478c9a1c02b0",
+         "id": "2a7614ed-7098-35a1-9d9a-9b9c80046938",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 4,
+         "submissionTime": "2026-05-29T05:28:01.000-05:00",
+         "text": "Yes, the 512 GB Storage is an SSD, and the storage can be upgraded up to 1 TB.",
+         "userNickname": "YourDellTeam",
+         "badges": [
+          {
+           "code": "BRAND_ANSWERS_CUSTOM_AFFILIATION_Dell",
+           "description": "Dell Representative",
+           "name": "Dell Representative"
+          }
+         ],
+         "images": []
+        },
+        {
+         "brandImageUrl": null,
+         "id": "7c7a15ab-5493-3d43-95d0-b7bbb2241520",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 2,
+         "submissionTime": "2026-05-29T19:35:10.000-05:00",
+         "text": "Of course! It's 2026!",
+         "userNickname": "luislast",
+         "badges": [
+          {
+           "code": "top1000Contributor",
+           "description": "Top contributors earn their status based on the number of reviews they provide and the number of helpful votes they receive from fellow shoppers.",
+           "name": "Top 1000 Contributor"
+          }
+         ],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 2,
+       "bazaarvoiceId": "11462185",
+       "id": "ab99e039-59b0-3078-80bc-eb0d03e491bf",
+       "isAiGenerated": false,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": "2026-05-25T11:11:44.000-05:00",
+       "text": null,
+       "title": "Does this work with the thunderbolt port?\r\nThanks",
+       "userNickname": "Grizzwald",
+       "answers": [
+        {
+         "brandImageUrl": "https://photos-us.bazaarvoice.com/photo/2/YnJhbmRhbnN3ZXJzOmJhZGdlb3ZlcnJpZGVpbWFnZQ/28a274b3-411f-50f4-aa77-478c9a1c02b0",
+         "id": "d68392a4-f0bc-38d0-8099-9800be33febf",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 4,
+         "submissionTime": "2026-05-26T09:59:01.000-05:00",
+         "text": "Yes, the USB 3.2 Gen 1 (5 Gbps) Type-C port with Power Delivery/DisplayPort.\nConnect devices such as external storage devices, printers, and external displays. Provides data transfer speeds up to 5 Gbps.\n\nSupports Power Delivery that enables two-way power supply between devices. Supports up to 15 W power output that enables faster charging.",
+         "userNickname": "YourDellTeam",
+         "badges": [
+          {
+           "code": "BRAND_ANSWERS_CUSTOM_AFFILIATION_Dell",
+           "description": "Dell Representative",
+           "name": "Dell Representative"
+          }
+         ],
+         "images": []
+        },
+        {
+         "brandImageUrl": null,
+         "id": "29e345ed-26f2-3b33-9452-b125ffa4dd87",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 2,
+         "submissionTime": "2026-05-29T19:52:51.000-05:00",
+         "text": "Every computer with a USB-C port will work with Thunderbolt (and those with USB-A, with an adapter), but only USB-4 and higher will approach the full functionality (and speed). Otherwise, it is fully backward compatible.",
+         "userNickname": "luislast",
+         "badges": [
+          {
+           "code": "top1000Contributor",
+           "description": "Top contributors earn their status based on the number of reviews they provide and the number of helpful votes they receive from fellow shoppers.",
+           "name": "Top 1000 Contributor"
+          }
+         ],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 2,
+       "bazaarvoiceId": "11460560",
+       "id": "9da763b1-e812-3ac0-8534-80184a303a10",
+       "isAiGenerated": false,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": "2026-05-24T10:55:30.000-05:00",
+       "text": null,
+       "title": "Is this model fast?",
+       "userNickname": null,
+       "answers": [
+        {
+         "brandImageUrl": "https://photos-us.bazaarvoice.com/photo/2/YnJhbmRhbnN3ZXJzOmJhZGdlb3ZlcnJpZGVpbWFnZQ/28a274b3-411f-50f4-aa77-478c9a1c02b0",
+         "id": "5f593fef-47bd-3de3-bee0-96bb4e86801b",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 4,
+         "submissionTime": "2026-05-26T10:17:31.000-05:00",
+         "text": "Yes, it’s fast for everyday work and moderate tasks.",
+         "userNickname": "YourDellTeam",
+         "badges": [
+          {
+           "code": "BRAND_ANSWERS_CUSTOM_AFFILIATION_Dell",
+           "description": "Dell Representative",
+           "name": "Dell Representative"
+          }
+         ],
+         "images": []
+        },
+        {
+         "brandImageUrl": null,
+         "id": "4ef638d6-96aa-300e-a316-6bdf1c51894c",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 2,
+         "submissionTime": "2026-05-29T20:02:02.000-05:00",
+         "text": "It's fine for everyday stuff (email, browsing, YouTube, music, movies, basic games like SIMS) as long as you don't try to do everything at once at don't overload with open windows. You can also do light photo editing, but I wouldn't venture into serious movie editing or graphic design.",
+         "userNickname": "luislast",
+         "badges": [
+          {
+           "code": "top1000Contributor",
+           "description": "Top contributors earn their status based on the number of reviews they provide and the number of helpful votes they receive from fellow shoppers.",
+           "name": "Top 1000 Contributor"
+          }
+         ],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 2,
+       "bazaarvoiceId": "11457788",
+       "id": "fced7f72-6df1-3b6b-b9af-96268e004134",
+       "isAiGenerated": false,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": "2026-05-22T13:40:19.000-05:00",
+       "text": null,
+       "title": "Is this compatible with any docking stations?",
+       "userNickname": "AL265",
+       "answers": [
+        {
+         "brandImageUrl": "https://photos-us.bazaarvoice.com/photo/2/YnJhbmRhbnN3ZXJzOmJhZGdlb3ZlcnJpZGVpbWFnZQ/28a274b3-411f-50f4-aa77-478c9a1c02b0",
+         "id": "a2bde3b2-55d1-3cff-be59-362726cc0116",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 4,
+         "submissionTime": "2026-05-27T06:32:31.000-05:00",
+         "text": "Yes, you can use Dell USB‑C Docks (WD19 / WD19S).",
+         "userNickname": "YourDellTeam",
+         "badges": [
+          {
+           "code": "BRAND_ANSWERS_CUSTOM_AFFILIATION_Dell",
+           "description": "Dell Representative",
+           "name": "Dell Representative"
+          }
+         ],
+         "images": []
+        },
+        {
+         "brandImageUrl": null,
+         "id": "d1834237-3b5e-38de-b365-5a3db55bd11a",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 2,
+         "submissionTime": "2026-05-29T19:34:06.000-05:00",
+         "text": "Most, if not all, Dell stations, and many more by other manufacturers.",
+         "userNickname": "luislast",
+         "badges": [
+          {
+           "code": "top1000Contributor",
+           "description": "Top contributors earn their status based on the number of reviews they provide and the number of helpful votes they receive from fellow shoppers.",
+           "name": "Top 1000 Contributor"
+          }
+         ],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 2,
+       "bazaarvoiceId": "11555317",
+       "id": "d096bbd6-4a9e-3d39-b1b2-e8d16fa6318b",
+       "isAiGenerated": false,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": "2026-07-28T14:05:06.000-05:00",
+       "text": null,
+       "title": "Does this have bluetooth?",
+       "userNickname": "LindyLou",
+       "answers": [
+        {
+         "brandImageUrl": "https://photos-us.bazaarvoice.com/photo/2/YnJhbmRhbnN3ZXJzOmJhZGdlb3ZlcnJpZGVpbWFnZQ/28a274b3-411f-50f4-aa77-478c9a1c02b0",
+         "id": "4577223d-503b-3ada-9d0e-3e3edbfbfd43",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 3,
+         "submissionTime": "2026-07-29T08:40:00.000-05:00",
+         "text": "Yes, the laptop features Bluetooth and Wi-Fi.",
+         "userNickname": "YourDellTeam",
+         "badges": [
+          {
+           "code": "BRAND_ANSWERS_CUSTOM_AFFILIATION_Dell",
+           "description": "Dell Representative",
+           "name": "Dell Representative"
+          }
+         ],
+         "images": []
+        },
+        {
+         "brandImageUrl": null,
+         "id": "4bb34a26-281b-3f5c-ac44-955308e547bb",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 2,
+         "submissionTime": "2026-07-31T04:46:50.000-05:00",
+         "text": "Yes. So does my garbage can. I think the grapes I bought have Bluetooth.",
+         "userNickname": "luislast",
+         "badges": [
+          {
+           "code": "rewardZoneNumberV3",
+           "description": "My Best Buy members receive promotional considerations or entries into drawings for writing reviews.",
+           "name": "My Best Buy\\u00ae Member"
+          },
+          {
+           "code": "top1Contributor",
+           "description": "Based on number of reviews written and helpful votes received, this reviewer is our top contributor.",
+           "name": "Number One Contributor"
+          }
+         ],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 2,
+       "bazaarvoiceId": "11460698",
+       "id": "8111a9e7-30fe-3e11-9a3e-4cb554c46c7c",
+       "isAiGenerated": false,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": "2026-05-24T12:12:03.000-05:00",
+       "text": null,
+       "title": "Does this laptop come with 4 year dell support plus.",
+       "userNickname": null,
+       "answers": [
+        {
+         "brandImageUrl": "https://photos-us.bazaarvoice.com/photo/2/YnJhbmRhbnN3ZXJzOmJhZGdlb3ZlcnJpZGVpbWFnZQ/28a274b3-411f-50f4-aa77-478c9a1c02b0",
+         "id": "3ff536c1-2164-3a38-812a-10fad17cccb5",
+         "negativeFeedbackCount": 1,
+         "positiveFeedbackCount": 4,
+         "submissionTime": "2026-05-26T10:17:01.000-05:00",
+         "text": "No, the laptop includes 1 year Mail-in Service Retail.",
+         "userNickname": "YourDellTeam",
+         "badges": [
+          {
+           "code": "BRAND_ANSWERS_CUSTOM_AFFILIATION_Dell",
+           "description": "Dell Representative",
+           "name": "Dell Representative"
+          }
+         ],
+         "images": []
+        },
+        {
+         "brandImageUrl": null,
+         "id": "dfba106d-26e2-38cd-bd9d-17daf8a726c2",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 2,
+         "submissionTime": "2026-05-29T19:58:13.000-05:00",
+         "text": "Enlighten the rest of us: where can you get 4-year Dell support, without paying extra? For the rest of us, it's just the industry 1 year parts and labor standard.",
+         "userNickname": "luislast",
+         "badges": [
+          {
+           "code": "top1000Contributor",
+           "description": "Top contributors earn their status based on the number of reviews they provide and the number of helpful votes they receive from fellow shoppers.",
+           "name": "Top 1000 Contributor"
+          }
+         ],
+         "images": []
+        }
+       ],
+       "images": []
+      },
+      {
+       "answerCount": 1,
+       "bazaarvoiceId": "11462207",
+       "id": "16e64d86-da23-3ab4-8295-92631d582bb8",
+       "isAiGenerated": false,
+       "negativeFeedbackCount": 0,
+       "positiveFeedbackCount": 0,
+       "submissionTime": "2026-05-25T11:23:35.000-05:00",
+       "text": null,
+       "title": "Can I add another ssd or does it have space to add a Hdd for extrage storage?",
+       "userNickname": "LG13",
+       "answers": [
+        {
+         "brandImageUrl": "https://photos-us.bazaarvoice.com/photo/2/YnJhbmRhbnN3ZXJzOmJhZGdlb3ZlcnJpZGVpbWFnZQ/28a274b3-411f-50f4-aa77-478c9a1c02b0",
+         "id": "a75003d5-659c-3b59-9512-1ebdec162e1c",
+         "negativeFeedbackCount": 0,
+         "positiveFeedbackCount": 4,
+         "submissionTime": "2026-05-26T09:56:31.000-05:00",
+         "text": "There is no additional slot for extra Hard drive. However, you can replace the existing storage and upgrade Up to 1 TB of storage space.",
+         "userNickname": "YourDellTeam",
+         "badges": [
+          {
+           "code": "BRAND_ANSWERS_CUSTOM_AFFILIATION_Dell",
+           "description": "Dell Representative",
+           "name": "Dell Representative"
+          }
+         ],
+         "images": []
+        }
+       ],
+       "images": []
+      }
+     ]
+    }
+   }
+  },
+  "errors": []
+ },
+ {
+  "data": {
+   "productBySkuId": {
+    "skuId": "6668952",
+    "orderCode": "4",
+    "reviewInfo": {
+     "displayableStats": {
+      "reviewCount": 434,
+      "rating": 4.7,
+      "displayName": null,
+      "syndicated": false,
+      "displayLink": null
+     }
+    },
+    "url": {
+     "relativePdp": "/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+     "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952"
+    },
+    "name": {
+     "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+    }
+   }
+  },
+  "errors": []
+ }
+]

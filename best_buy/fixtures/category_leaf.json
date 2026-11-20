@@ -1,0 +1,67 @@
+{
+ "data": {
+  "productCategory": {
+   "id": "pcmcat1706892316602",
+   "name": "Touchscreen Windows Laptops",
+   "seoUrl": "https://www.bestbuy.com/site/pc-laptops/touch-screen-windows-laptops/pcmcat1706892316602.c?id=pcmcat1706892316602",
+   "hierarchyId": "bbypres",
+   "startDate": "2024-02-28T06:00Z",
+   "template": null,
+   "meta": {
+    "description": "Shop at Best Buy for touchscreen Windows laptops and enjoy intuitive navigation.",
+    "keywords": [
+     "touchscreen windows laptop",
+     "touch screen windows laptop",
+     "touch-screen windows laptop"
+    ],
+    "title": "Touchscreen Windows Laptops – Best Buy"
+   },
+   "broaderTerms": {
+    "primaryLineage": [
+     {
+      "id": "pcmcat247400050000",
+      "name": "Windows Laptops",
+      "seoUrl": "https://www.bestbuy.com/site/all-laptops/pc-laptops/pcmcat247400050000.c?id=pcmcat247400050000",
+      "sequence": 0,
+      "startDate": "2011-07-13T05:00Z",
+      "endDate": null
+     },
+     {
+      "id": "pcmcat138500050001",
+      "name": "All Laptops",
+      "seoUrl": "https://www.bestbuy.com/site/laptop-computers/all-laptops/pcmcat138500050001.c?id=pcmcat138500050001",
+      "sequence": 1,
+      "startDate": "2007-12-09T06:00Z",
+      "endDate": null
+     },
+     {
+      "id": "abcat0502000",
+      "name": "Laptops",
+      "seoUrl": "https://www.bestbuy.com/site/computers-pcs/laptop-computers/abcat0502000.c?id=abcat0502000",
+      "sequence": 2,
+      "startDate": "2007-08-09T05:00Z",
+      "endDate": null
+     },
+     {
+      "id": "abcat0500000",
+      "name": "Computers & Tablets",
+      "seoUrl": "https://www.bestbuy.com/site/electronics/computers-pcs/abcat0500000.c?id=abcat0500000",
+      "sequence": 3,
+      "startDate": "2007-08-09T05:00Z",
+      "endDate": null
+     },
+     {
+      "id": "cat00000",
+      "name": "Best Buy",
+      "seoUrl": "https://www.bestbuy.com/",
+      "sequence": 4,
+      "startDate": "2013-12-18T06:00Z",
+      "endDate": null
+     }
+    ]
+   },
+   "narrowerTerms": []
+  }
+ },
+ "errors": []
+}

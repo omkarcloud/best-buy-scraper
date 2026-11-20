@@ -1,0 +1,25 @@
+{
+ "data": {
+  "productBySkuId": {
+   "skuId": "6668952",
+   "orderCode": "4",
+   "reviewInfo": {
+    "displayableStats": {
+     "reviewCount": 434,
+     "rating": 4.7,
+     "displayName": null,
+     "syndicated": false,
+     "displayLink": null
+    }
+   },
+   "url": {
+    "relativePdp": "/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+    "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952"
+   },
+   "name": {
+    "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+   }
+  }
+ },
+ "errors": []
+}

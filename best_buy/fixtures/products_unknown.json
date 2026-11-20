@@ -1,0 +1,1979 @@
+[
+ {
+  "PRODUCT": {
+   "data": {
+    "productBySkuId": null,
+    "pdpConfigJson": {
+     "json": {
+      "VirtualTryOnEnabledWearables": {
+       "pdp": {
+        "web": {
+         "lv": [
+          "Eyeglasses",
+          "Virtual Reality Wearable"
+         ],
+         "sv": [
+          "Eyeglasses",
+          "Virtual Reality Wearable"
+         ]
+        }
+       }
+      },
+      "apple-dynamic-compare": {
+       "mobileApp": {
+        "enabled": false
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "appliance-fit-guide-categories": [
+       "Washing Machine",
+       "Dryer",
+       "Portable Clothing Dryer",
+       "Full Size Refrigerator",
+       "Compact Refrigerator",
+       "Refrigerator Drawer",
+       "Wine Cooler",
+       "Freezer"
+      ],
+      "augmentedRealityWebGlassesTryOn": {
+       "categoryId": "pcmcat1780433535084",
+       "pdp": {
+        "web": {
+         "lv": {
+          "enabled": true
+         },
+         "sv": {
+          "enabled": true
+         }
+        }
+       }
+      },
+      "badge": {
+       "mobileApp": {
+        "enablePersonalizedBadgeABTest": true,
+        "enablePersonalizedBadgeLandingPage": true,
+        "enabled": true,
+        "hideBadgeForOpenBox": true,
+        "personalizedBadgeABTestKey": "exp0370",
+        "scalePersonalizedBadge": true
+       },
+       "web": {
+        "lv": {
+         "enablePersonalizedBadgeABTest": true,
+         "enablePersonalizedBadgeLandingPage": true,
+         "enabled": true,
+         "hideBadgeForOpenBox": true,
+         "personalizedBadgeABTestKey": "exp0369",
+         "scalePersonalizedBadge": true
+        },
+        "sv": {
+         "enablePersonalizedBadgeABTest": true,
+         "enablePersonalizedBadgeLandingPage": true,
+         "enabled": true,
+         "hideBadgeForOpenBox": true,
+         "personalizedBadgeABTestKey": "exp0369",
+         "scalePersonalizedBadge": true
+        }
+       }
+      },
+      "compare-product": {
+       "mobileApp": {
+        "enabled": true
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "confidence-builder": {
+       "displayOn3P": false,
+       "enabled-categories": [
+        "Full Size Refrigerator",
+        "Built-In Dishwasher",
+        "Portable Dishwasher",
+        "Downdraft System",
+        "Range Hood",
+        "Dual Fuel Range",
+        "Electric Range",
+        "Gas Range",
+        "Electric Cooktop",
+        "Gas Cooktop",
+        "Dual Fuel Cooktop",
+        "Electric Double Wall Oven",
+        "Electric Single Wall Oven",
+        "Wall Oven",
+        "Built-in Microwave",
+        "Upright Freezer",
+        "Chest Freezer",
+        "Built In Ice Maker",
+        "Gas Dryer",
+        "Electric Dryer",
+        "Washing Machine"
+       ],
+       "mobileApp": {
+        "enabled": true
+       },
+       "tiles": [
+        {
+         "icon": "PriceMatchGuarantee",
+         "link": {
+          "href": "/site/help-topics/price-match-guarantee/pcmcat290300050002.c?id=pcmcat290300050002",
+          "title": "Learn more"
+         },
+         "title": "Price match guarantee"
+        },
+        {
+         "icon": "Delivery",
+         "title": "Fast, scheduled delivery"
+        },
+        {
+         "icon": "Installation",
+         "link": {
+          "href": "/site/services/appliance-services/pcmcat255100050002.c?id=pcmcat255100050002",
+          "title": "Learn more"
+         },
+         "title": "Geek Squad - authorized installers"
+        },
+        {
+         "icon": "ReturnPolicy",
+         "link": {
+          "href": "/site/help-topics/return-exchange-policy/pcmcat260800050014.c?id=pcmcat260800050014",
+          "title": "Learn more"
+         },
+         "title": "15-day return window"
+        }
+       ],
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "enable-product-customizer": {
+       "mobileApp": {
+        "enabled": true
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "enable-redesign-pdp-reviews": {
+       "mobileApp": {
+        "enabled": false
+       },
+       "web": {
+        "lv": {
+         "enabled": true,
+         "reviewLimit": 5
+        },
+        "sv": {
+         "enabled": true,
+         "reviewLimit": 5
+        }
+       }
+      },
+      "excludeNodeIds": [
+       "pcmcat156300050006",
+       "pcmcat1494864232797",
+       "pcmcat156300050010",
+       "pcmcat156300050014",
+       "pcmcat231000050008"
+      ],
+      "find-the-right-size-tv": {
+       "mobileApp": {
+        "enabled": true
+       },
+       "web": {
+        "lv": {
+         "enabled": false
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "floating-add-to-cart-button": {
+       "web": {
+        "lv": {
+         "enabled": false
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "inline-video": {
+       "mobileApp": {
+        "enabled": true
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "media-gallery-redesign": {
+       "mobileApp": {
+        "enabled": false
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "meta-glasses-configs": {
+       "mobileApp": {
+        "enabled": true
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "notify-me": {
+       "mobileApp": {
+        "enabled": false
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "on-page-video": {
+       "mobileApp": {
+        "enabled": true,
+        "enabledMultipleVideos": true
+       },
+       "web": {
+        "lv": {
+         "enabled": true,
+         "enabledMultipleVideos": true
+        },
+        "sv": {
+         "enabled": true,
+         "enabledMultipleVideos": true
+        }
+       }
+      },
+      "product-highlights": {
+       "enableHighlightsEnhancements": true,
+       "highlightEnhancementCategories": [
+        "RGB TV"
+       ]
+      },
+      "product-review": {
+       "web": {
+        "enableRedesignReviewPage": true
+       }
+      },
+      "rgb-consider": {
+       "applicableCategories": [
+        "Television",
+        "TV"
+       ],
+       "caption": [
+        {
+         "href": "https://res.cloudinary.com/bby-product/raw/upload/v1781878868/7fb9cbe0ab1752f5566551df196a2382.vtt",
+         "lang": "en"
+        }
+       ],
+       "duration": "00:00:49",
+       "enableRGBCarouselvideo": true,
+       "excludeKeywords": [
+        "RGB",
+        "OLED"
+       ],
+       "previewImage": "https://pisces.bbystatic.com/prescaled/540/960/image2/BestBuy_US/images/videos/ocibn4tkyskburb5jvtz.jpg",
+       "technologySpotlight": {
+        "bodyText": "Red, green and blue (RGB) LEDs create vivid color directly instead of filtering white light like traditional LED TVs.",
+        "carouselPlacement": "pdp-upsell-rgb",
+        "ctaText": "Learn more",
+        "ctaUrl": "https://www.bestbuy.com/site/tv-home-theater/learn-about-rgb-led-tvs/pcmcat1774379203427.c?id=pcmcat1774379203427",
+        "heading": "Consider the latest in display technology",
+        "title": "RGB LED",
+        "videoId": "technology-spotlight",
+        "videoPlacement": 1
+       },
+       "title": "RGB LED TV video",
+       "transcript": "[Rainbow band of light revealed on a TV]\nTEXT: RGB LED TV Believing is seeing.\n\nTEXT: What is RGB LED?\n\n[We zoom into the screen to see pixels]\nTEXT: Thousands of tiny red, green and blue LEDs that create the color directly\n\n[The pixels begin emitting RGB light]\nTEXT: Color looks closer to real life than ever\n\n[2020 Traditional LED TV and 2026 RGB LED TV compared in split screen: a lion is shown on screen. The 2026 TV image is more vibrant]\nTEXT: See every detail, even in bright rooms.\n\n[2020 Traditional LED TV and 2026 RGB LED TV compared: 2026 is thinner]\nTEXT: Thin design blends into your space\n\n[Pixelated image is upscaled on the TV]\nTEXT: Movies, shows and games - old and new - look their best. Sharpened by AI upscaling.\n\n[TV shown from off angle - picture still bright]\nTEXT: Great picture from anywhere in the room\n\n[50\" 55\" 65\" 76\" 85\" 100\" and 116\" TVs displayed]\nTEXT: Immersive screen sizes: 50'-116' class\n\n[Rainbow band of light]\nTEXT: Does your TV offer all this? Now's the time to upgrade.\n",
+       "videoUrl": "https://res.cloudinary.com/bby-product/video/upload/c_limit,h_960,w_960/q_auto:eco/v1782412732/ocibn4tkyskburb5jvtz.mp4"
+      },
+      "share": {
+       "mobileApp": {
+        "enabled": true
+       },
+       "web": {
+        "lv": {
+         "enabled": false
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "specification-categories": [
+       "Major Appliance",
+       "Suitcase",
+       "Television"
+      ],
+      "specification-redesign": {
+       "mobileApp": {
+        "enabled": true
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "vehicle-fit": {
+       "mobileApp": {
+        "enabled": true
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "wearables": [
+       "Smart Watch",
+       "Eyeglasses",
+       "Activity Tracker",
+       "Virtual Reality Wearable"
+      ]
+     }
+    },
+    "videoPriorityOrderListJson": {
+     "json": {
+      "description": "A priority order list of tags for sort and find primary video out of all product videos (for new architecture)",
+      "features": [
+       "BBY - Tech Tips - Demo",
+       "Vendor - Product Info/Demo",
+       "BBY - Product Spotlight",
+       "BBY - SKU Features/Benefits",
+       "BBY - Tech Tips - Unboxing",
+       "Vendor - How-To",
+       "BBY - TV Unboxing",
+       "BBY - Tech Tips - How-To/Tips"
+      ],
+      "mediaGallery": [
+       "BBY - The Lab",
+       "BBY - New & Noteworthy",
+       "BBY - Tech Tips - Demo",
+       "BBY - Tech Tips - Unboxing",
+       "BBY - Product Spotlight",
+       "BBY - SKU Features/Benefits",
+       "BBY - Buying Guides",
+       "BBY - Employee Created",
+       "BBY - Multi-Product Solution",
+       "BBY - Tech Explained",
+       "BBY - Tech Tips - How-To/Tips",
+       "BBY - Influencer/Expert",
+       "Vendor - Influencer/Expert",
+       "BBY - Social",
+       "BBY - Must Haves",
+       "Vendor - Product Info/Demo",
+       "Vendor - Unboxing",
+       "Vendor - 360 View/Product in Motion",
+       "Vendor - Trailer",
+       "BBY - StoryXpress - SKU",
+       "BBY - StoryXpress - Brand",
+       "BBY - Measure for Fit",
+       "BBY - Delivery & Install Prep",
+       "Vendor - How-To",
+       "Vendor - Ad",
+       "BBY - TV Unboxing",
+       "BBY - Tech Tips - Setup/Install",
+       "BBY - Tech Tips - Troubleshooting",
+       "Vendor - Measure for Fit",
+       "Vendor - Setup/Install",
+       "Vendor - Troubleshooting",
+       "BBY - Ad",
+       "BBY - Value Proposition",
+       "Webcollage Product Video"
+      ],
+      "name": "video-priority-order-list",
+      "onPageVideo": [
+       "BBY - Tech Tips - Unboxing",
+       "BBY - The Lab"
+      ],
+      "reviews": [
+       "Vendor - Influencer/Expert",
+       "BBY - Influencer/Expert",
+       "BBY - Employee Created"
+      ]
+     }
+    },
+    "videos": {
+     "results": []
+    },
+    "openBoxConditionsConfig": {
+     "versionedJsonId": "open_box_conditions",
+     "json": {
+      "compareConditions": [
+       {
+        "code": 2,
+        "descriptions": [
+         {
+          "body": "Fully functional & works like new",
+          "header": "Working condition"
+         },
+         {
+          "body": "Looks like new",
+          "header": "Physical condition"
+         },
+         {
+          "body": "Includes all parts and accessories.",
+          "header": "Parts & accessories"
+         },
+         {
+          "body": "Packaging may vary or be absent.",
+          "header": "Packaging"
+         },
+         {
+          "body": "Store pickup & shipping when available.",
+          "header": "Delivery options"
+         }
+        ],
+        "name": "Excellent"
+       },
+       {
+        "code": 1,
+        "descriptions": [
+         {
+          "body": "Fully functional & works like new",
+          "header": "Working condition"
+         },
+         {
+          "body": "May have minor scratches or dents",
+          "header": "Physical condition"
+         },
+         {
+          "body": "May be missing non-essential parts & accessories",
+          "header": "Parts & accessories"
+         },
+         {
+          "body": "Packaging may vary or be absent.",
+          "header": "Packaging"
+         },
+         {
+          "body": "Store pickup & shipping when available.",
+          "header": "Delivery options"
+         }
+        ],
+        "name": "Good"
+       },
+       {
+        "code": 0,
+        "descriptions": [
+         {
+          "body": "Fully functional & works like new",
+          "header": "Working condition"
+         },
+         {
+          "body": "May have larger dents or scratches",
+          "header": "Physical condition"
+         },
+         {
+          "body": "May be missing non-essential parts & accessories",
+          "header": "Parts & accessories"
+         },
+         {
+          "body": "Packaging may vary or be absent.",
+          "header": "Packaging"
+         },
+         {
+          "body": "Store pickup only",
+          "header": "Delivery options"
+         }
+        ],
+        "name": "Fair"
+       }
+      ],
+      "functionalCheckLevelModal": [
+       {
+        "body": "A Geek Squad Agent has confirmed this product works like new, and has been restored to factory settings.",
+        "functionalCheckLevel": "2",
+        "header": "Geek Squad Verified"
+       }
+      ],
+      "openBoxTextDefinitions": [
+       {
+        "code": "0",
+        "descriptions": {
+         "2": [
+          "Works like new. Restored to factory settings.",
+          "May have larger dents or scratches.",
+          "May be missing parts, accessories, or packaging."
+         ],
+         "default": [
+          "Works like new.",
+          "May have larger dents or scratches.",
+          "May be missing parts, accessories, or packaging."
+         ]
+        },
+        "functionalCheckLevel": "2",
+        "name": "Fair"
+       },
+       {
+        "code": "1",
+        "descriptions": {
+         "2": [
+          "Works like new. Restored to factory settings.",
+          "May have minor scratches or dents.",
+          "May be missing non-essential parts, accessories, or packaging."
+         ],
+         "default": [
+          "Works like new.",
+          "May have minor scratches or dents.",
+          "May be missing non-essential parts, accessories, or packaging."
+         ]
+        },
+        "functionalCheckLevel": "2",
+        "name": "Good"
+       },
+       {
+        "code": "2",
+        "descriptions": {
+         "2": [
+          "Works and looks like new. Restored to factory settings.",
+          "Includes all parts and accessories. Packaging may vary or be absent."
+         ],
+         "default": [
+          "Works and looks like new.",
+          "Includes all parts and accessories. Packaging may vary or be absent."
+         ]
+        },
+        "functionalCheckLevel": "2",
+        "name": "Excellent"
+       }
+      ]
+     }
+    },
+    "pdpConfig": {
+     "json": {
+      "VirtualTryOnEnabledWearables": {
+       "pdp": {
+        "web": {
+         "lv": [
+          "Eyeglasses",
+          "Virtual Reality Wearable"
+         ],
+         "sv": [
+          "Eyeglasses",
+          "Virtual Reality Wearable"
+         ]
+        }
+       }
+      },
+      "apple-dynamic-compare": {
+       "mobileApp": {
+        "enabled": false
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "appliance-fit-guide-categories": [
+       "Washing Machine",
+       "Dryer",
+       "Portable Clothing Dryer",
+       "Full Size Refrigerator",
+       "Compact Refrigerator",
+       "Refrigerator Drawer",
+       "Wine Cooler",
+       "Freezer"
+      ],
+      "augmentedRealityWebGlassesTryOn": {
+       "categoryId": "pcmcat1780433535084",
+       "pdp": {
+        "web": {
+         "lv": {
+          "enabled": true
+         },
+         "sv": {
+          "enabled": true
+         }
+        }
+       }
+      },
+      "badge": {
+       "mobileApp": {
+        "enablePersonalizedBadgeABTest": true,
+        "enablePersonalizedBadgeLandingPage": true,
+        "enabled": true,
+        "hideBadgeForOpenBox": true,
+        "personalizedBadgeABTestKey": "exp0370",
+        "scalePersonalizedBadge": true
+       },
+       "web": {
+        "lv": {
+         "enablePersonalizedBadgeABTest": true,
+         "enablePersonalizedBadgeLandingPage": true,
+         "enabled": true,
+         "hideBadgeForOpenBox": true,
+         "personalizedBadgeABTestKey": "exp0369",
+         "scalePersonalizedBadge": true
+        },
+        "sv": {
+         "enablePersonalizedBadgeABTest": true,
+         "enablePersonalizedBadgeLandingPage": true,
+         "enabled": true,
+         "hideBadgeForOpenBox": true,
+         "personalizedBadgeABTestKey": "exp0369",
+         "scalePersonalizedBadge": true
+        }
+       }
+      },
+      "compare-product": {
+       "mobileApp": {
+        "enabled": true
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "confidence-builder": {
+       "displayOn3P": false,
+       "enabled-categories": [
+        "Full Size Refrigerator",
+        "Built-In Dishwasher",
+        "Portable Dishwasher",
+        "Downdraft System",
+        "Range Hood",
+        "Dual Fuel Range",
+        "Electric Range",
+        "Gas Range",
+        "Electric Cooktop",
+        "Gas Cooktop",
+        "Dual Fuel Cooktop",
+        "Electric Double Wall Oven",
+        "Electric Single Wall Oven",
+        "Wall Oven",
+        "Built-in Microwave",
+        "Upright Freezer",
+        "Chest Freezer",
+        "Built In Ice Maker",
+        "Gas Dryer",
+        "Electric Dryer",
+        "Washing Machine"
+       ],
+       "mobileApp": {
+        "enabled": true
+       },
+       "tiles": [
+        {
+         "icon": "PriceMatchGuarantee",
+         "link": {
+          "href": "/site/help-topics/price-match-guarantee/pcmcat290300050002.c?id=pcmcat290300050002",
+          "title": "Learn more"
+         },
+         "title": "Price match guarantee"
+        },
+        {
+         "icon": "Delivery",
+         "title": "Fast, scheduled delivery"
+        },
+        {
+         "icon": "Installation",
+         "link": {
+          "href": "/site/services/appliance-services/pcmcat255100050002.c?id=pcmcat255100050002",
+          "title": "Learn more"
+         },
+         "title": "Geek Squad - authorized installers"
+        },
+        {
+         "icon": "ReturnPolicy",
+         "link": {
+          "href": "/site/help-topics/return-exchange-policy/pcmcat260800050014.c?id=pcmcat260800050014",
+          "title": "Learn more"
+         },
+         "title": "15-day return window"
+        }
+       ],
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "enable-product-customizer": {
+       "mobileApp": {
+        "enabled": true
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "enable-redesign-pdp-reviews": {
+       "mobileApp": {
+        "enabled": false
+       },
+       "web": {
+        "lv": {
+         "enabled": true,
+         "reviewLimit": 5
+        },
+        "sv": {
+         "enabled": true,
+         "reviewLimit": 5
+        }
+       }
+      },
+      "excludeNodeIds": [
+       "pcmcat156300050006",
+       "pcmcat1494864232797",
+       "pcmcat156300050010",
+       "pcmcat156300050014",
+       "pcmcat231000050008"
+      ],
+      "find-the-right-size-tv": {
+       "mobileApp": {
+        "enabled": true
+       },
+       "web": {
+        "lv": {
+         "enabled": false
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "floating-add-to-cart-button": {
+       "web": {
+        "lv": {
+         "enabled": false
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "inline-video": {
+       "mobileApp": {
+        "enabled": true
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "media-gallery-redesign": {
+       "mobileApp": {
+        "enabled": false
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "meta-glasses-configs": {
+       "mobileApp": {
+        "enabled": true
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "notify-me": {
+       "mobileApp": {
+        "enabled": false
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "on-page-video": {
+       "mobileApp": {
+        "enabled": true,
+        "enabledMultipleVideos": true
+       },
+       "web": {
+        "lv": {
+         "enabled": true,
+         "enabledMultipleVideos": true
+        },
+        "sv": {
+         "enabled": true,
+         "enabledMultipleVideos": true
+        }
+       }
+      },
+      "product-highlights": {
+       "enableHighlightsEnhancements": true,
+       "highlightEnhancementCategories": [
+        "RGB TV"
+       ]
+      },
+      "product-review": {
+       "web": {
+        "enableRedesignReviewPage": true
+       }
+      },
+      "rgb-consider": {
+       "applicableCategories": [
+        "Television",
+        "TV"
+       ],
+       "caption": [
+        {
+         "href": "https://res.cloudinary.com/bby-product/raw/upload/v1781878868/7fb9cbe0ab1752f5566551df196a2382.vtt",
+         "lang": "en"
+        }
+       ],
+       "duration": "00:00:49",
+       "enableRGBCarouselvideo": true,
+       "excludeKeywords": [
+        "RGB",
+        "OLED"
+       ],
+       "previewImage": "https://pisces.bbystatic.com/prescaled/540/960/image2/BestBuy_US/images/videos/ocibn4tkyskburb5jvtz.jpg",
+       "technologySpotlight": {
+        "bodyText": "Red, green and blue (RGB) LEDs create vivid color directly instead of filtering white light like traditional LED TVs.",
+        "carouselPlacement": "pdp-upsell-rgb",
+        "ctaText": "Learn more",
+        "ctaUrl": "https://www.bestbuy.com/site/tv-home-theater/learn-about-rgb-led-tvs/pcmcat1774379203427.c?id=pcmcat1774379203427",
+        "heading": "Consider the latest in display technology",
+        "title": "RGB LED",
+        "videoId": "technology-spotlight",
+        "videoPlacement": 1
+       },
+       "title": "RGB LED TV video",
+       "transcript": "[Rainbow band of light revealed on a TV]\nTEXT: RGB LED TV Believing is seeing.\n\nTEXT: What is RGB LED?\n\n[We zoom into the screen to see pixels]\nTEXT: Thousands of tiny red, green and blue LEDs that create the color directly\n\n[The pixels begin emitting RGB light]\nTEXT: Color looks closer to real life than ever\n\n[2020 Traditional LED TV and 2026 RGB LED TV compared in split screen: a lion is shown on screen. The 2026 TV image is more vibrant]\nTEXT: See every detail, even in bright rooms.\n\n[2020 Traditional LED TV and 2026 RGB LED TV compared: 2026 is thinner]\nTEXT: Thin design blends into your space\n\n[Pixelated image is upscaled on the TV]\nTEXT: Movies, shows and games - old and new - look their best. Sharpened by AI upscaling.\n\n[TV shown from off angle - picture still bright]\nTEXT: Great picture from anywhere in the room\n\n[50\" 55\" 65\" 76\" 85\" 100\" and 116\" TVs displayed]\nTEXT: Immersive screen sizes: 50'-116' class\n\n[Rainbow band of light]\nTEXT: Does your TV offer all this? Now's the time to upgrade.\n",
+       "videoUrl": "https://res.cloudinary.com/bby-product/video/upload/c_limit,h_960,w_960/q_auto:eco/v1782412732/ocibn4tkyskburb5jvtz.mp4"
+      },
+      "share": {
+       "mobileApp": {
+        "enabled": true
+       },
+       "web": {
+        "lv": {
+         "enabled": false
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "specification-categories": [
+       "Major Appliance",
+       "Suitcase",
+       "Television"
+      ],
+      "specification-redesign": {
+       "mobileApp": {
+        "enabled": true
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "vehicle-fit": {
+       "mobileApp": {
+        "enabled": true
+       },
+       "web": {
+        "lv": {
+         "enabled": true
+        },
+        "sv": {
+         "enabled": true
+        }
+       }
+      },
+      "wearables": [
+       "Smart Watch",
+       "Eyeglasses",
+       "Activity Tracker",
+       "Virtual Reality Wearable"
+      ]
+     }
+    }
+   },
+   "errors": [
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "fulfillmentOptions"
+     ],
+     "extensions": {
+      "code": "401"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "skuId"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "specificationGroups"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "dotComDisplayStatus"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "whatItIs"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "brand"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "url",
+      "pdp"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "typeInfo"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "manufacturer",
+      "modelNumber"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "condition"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "dimension"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "images"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "upc"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "primaryImage"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "description"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "name"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "operationalAttributes"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "esrbRating"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "functionalCheckLevel"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "bsin"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "releaseDateDisplayValue"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "dotComStreetDate"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "inStoreServiceType"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "reviewInfo",
+      "averageRating"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "reviewInfo",
+      "reviewCount"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "arModels"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "restrictions"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "productSelectorId"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "hierarchy",
+      "bbypres"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    }
+   ]
+  },
+  "PRODUCT_FEATURES": {
+   "data": {
+    "productBySkuId": null,
+    "storeById": {
+     "physicalLocation": {
+      "zipCode": "55113"
+     }
+    }
+   },
+   "errors": [
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "specificationGroups"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "supportedLogos"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "operationalAttributes"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "documents"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "description"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "disclaimers"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "includedItems"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "productManuals"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "features"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "skuId"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "proposition65WarningTypeDescription"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "whatItIs"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    }
+   ]
+  },
+  "PRODUCT_PRICE": {
+   "data": {
+    "productBySkuId": null
+   },
+   "errors": [
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "skuId"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "buyingOptions"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "experiments"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "offerRankings"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "priceWithCart"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "totalNonPaidMemberSavings"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "displayableCustomerPrice"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "icrCode"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "totalPaidMemberSavings"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "restrictedPriceDisplayMessage"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "showTotalSavings"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "customerSelectedDiscountsAvailable"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "isBbyCardMember"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "totalSavings"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "totalSavingsPercent"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "dealExpirationTimeStamp"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "heroRenderPriceOptions"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "openBoxCondition"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "openBoxSavings"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "financeOption"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "preferredBadging"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "giftSkus"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "paymentOptions"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "puckDisplayMessage"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "tieredOffersTracking"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "isEcoRebateEligible"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "whatIfPrice"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "showPriceAssistant"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "connectionType"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "spendAndGetCabosAvailable"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "skuId"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "puckMessageURL"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "rewardCabosAvailable"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "showLeasingOption"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "mobileContracts"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    },
+    {
+     "message": "Error - Internal Server Error",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "price",
+      "displayableRegularPrice"
+     ],
+     "extensions": {
+      "code": "INTERNAL_SERVER_ERROR"
+     }
+    }
+   ]
+  },
+  "PRODUCT_REVIEW_STATS": {
+   "data": {
+    "productBySkuId": null
+   },
+   "errors": [
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "url",
+      "relativePdp"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "skuId"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "orderCode"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "name"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "url",
+      "skuSpecificUrl"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    }
+   ]
+  },
+  "PRODUCT_SELLER": {
+   "data": {
+    "productBySkuId": null,
+    "__typename": "Query"
+   },
+   "errors": [
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "skuId"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    },
+    {
+     "message": "Error - Not Found",
+     "locations": [],
+     "path": [
+      "productBySkuId",
+      "seller"
+     ],
+     "extensions": {
+      "code": "NOT_FOUND"
+     }
+    }
+   ]
+  }
+ }
+]

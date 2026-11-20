@@ -1,0 +1,18 @@
+{
+ "suggestionResponse": {
+  "spellCheck": {
+   "correctedQuery": "",
+   "correctlySpelled": true,
+   "originalQuery": "zzqxjkvw"
+  },
+  "count": 0,
+  "queryResponseTime": 5,
+  "track": {
+   "variant": "B",
+   "location": {
+    "requested": "",
+    "applied": ""
+   }
+  }
+ }
+}

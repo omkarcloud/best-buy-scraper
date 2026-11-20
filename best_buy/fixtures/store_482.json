@@ -1,0 +1,618 @@
+{
+ "data": {
+  "storeById": {
+   "locationId": "482",
+   "name": "23RD AND 6TH  NY",
+   "displayName": "Chelsea (23rd and 6th)",
+   "status": "Open",
+   "storeType": "Big Box",
+   "locationType": "Store",
+   "locationSubType": "Big Box Store",
+   "phone": "212-366-1373",
+   "openDate": "2002-06-12",
+   "closeDate": null,
+   "hasPickup": true,
+   "services": [
+    "Alienware Experience Shop",
+    "Apple Shop",
+    "Geek Squad Services",
+    "Premium Home Theater",
+    "Microsoft Windows Store",
+    "Samsung Entertainment Experience",
+    "Samsung Experience Shop",
+    "Trade-In"
+   ],
+   "district": "0232",
+   "marketId": "79",
+   "territory": "0033",
+   "openBoxShipFromStoreEligible": true,
+   "timeZone": {
+    "code": "13",
+    "description": "Eastern"
+   },
+   "physicalLocation": {
+    "addr1": "60 W 23rd St",
+    "addr2": null,
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10010",
+    "country": "US",
+    "latitude": "40.74264",
+    "longitude": "-73.9927"
+   },
+   "hours": [
+    {
+     "type": "SALES",
+     "openHours": [
+      {
+       "date": "2026-11-15",
+       "open": "10:00",
+       "close": "20:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-11-16",
+       "open": "10:00",
+       "close": "21:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-11-17",
+       "open": "10:00",
+       "close": "21:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-11-18",
+       "open": "10:00",
+       "close": "21:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-11-19",
+       "open": "10:00",
+       "close": "21:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-11-20",
+       "open": "09:00",
+       "close": "21:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-11-21",
+       "open": "09:00",
+       "close": "21:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-11-22",
+       "open": "09:00",
+       "close": "21:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-11-23",
+       "open": "09:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-11-24",
+       "open": "09:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-11-25",
+       "open": "09:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-11-26",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-11-27",
+       "open": "06:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-11-28",
+       "open": "09:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-11-29",
+       "open": "09:00",
+       "close": "21:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-11-30",
+       "open": "10:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-01",
+       "open": "10:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-02",
+       "open": "10:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-03",
+       "open": "10:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-04",
+       "open": "09:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-05",
+       "open": "09:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-06",
+       "open": "09:00",
+       "close": "21:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-07",
+       "open": "10:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-08",
+       "open": "10:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-09",
+       "open": "10:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-10",
+       "open": "10:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-11",
+       "open": "09:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-12",
+       "open": "09:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-13",
+       "open": "09:00",
+       "close": "21:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-14",
+       "open": "10:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-15",
+       "open": "10:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-16",
+       "open": "10:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-17",
+       "open": "10:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-18",
+       "open": "09:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-19",
+       "open": "08:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-20",
+       "open": "08:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-21",
+       "open": "08:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-22",
+       "open": "08:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-23",
+       "open": "08:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-24",
+       "open": "08:00",
+       "close": "19:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-25",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      },
+      {
+       "date": "2026-12-26",
+       "open": "09:00",
+       "close": "22:00",
+       "isClosed": false,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": null
+      }
+     ]
+    },
+    {
+     "type": "CURB",
+     "openHours": [
+      {
+       "date": "2026-11-15",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-11-16",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-11-17",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-11-18",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-11-19",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-11-20",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-11-21",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-11-22",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-11-23",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-11-24",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-11-25",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-11-26",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": true
+      },
+      {
+       "date": "2026-11-27",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-11-28",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-11-29",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-11-30",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-12-01",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-12-02",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-12-03",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-12-04",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-12-05",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-12-06",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-12-07",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-12-08",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-12-09",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-12-10",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-12-11",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      },
+      {
+       "date": "2026-12-12",
+       "open": null,
+       "close": null,
+       "isClosed": true,
+       "isAvailable24Hours": false,
+       "hoursSameAsSalesHours": false
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "errors": []
+}

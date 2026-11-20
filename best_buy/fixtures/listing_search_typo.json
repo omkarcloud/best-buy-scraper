@@ -1,0 +1,6492 @@
+{
+ "data": {
+  "search": {
+   "findMoreCarouselType": "refurbished",
+   "positionToSlotFindMoreCarousel": "5",
+   "facets": [
+    {
+     "parentFacetField": null,
+     "displayName": "GIF-Same Day Shipping",
+     "facetDisplay": "true",
+     "facetField": "samedayshippingallcondition_facet",
+     "maxValue": 10,
+     "values": [
+      {
+       "count": 121,
+       "value": "55423",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Category",
+     "facetDisplay": "Yes",
+     "facetField": "category_facet",
+     "maxValue": 6,
+     "values": [
+      {
+       "count": null,
+       "value": "All Laptops",
+       "categoryPath": "pcmcat138500050001",
+       "nestedValues": [
+        {
+         "categoryPath": "pcmcat247400050000",
+         "value": "Windows Laptops"
+        },
+        {
+         "categoryPath": "pcmcat244900050010",
+         "value": "Chromebooks"
+        },
+        {
+         "categoryPath": "pcmcat247400050001",
+         "value": "MacBooks"
+        }
+       ]
+      },
+      {
+       "count": null,
+       "value": "Gaming Laptops",
+       "categoryPath": "pcmcat287600050003",
+       "nestedValues": null
+      },
+      {
+       "count": null,
+       "value": "Googlebooks",
+       "categoryPath": "pcmcat1786568810959",
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": "parent_processormodelsv_facet",
+     "displayName": "Processor Model",
+     "facetDisplay": "Yes",
+     "facetField": "processormodelsv_facet",
+     "maxValue": 12,
+     "values": [
+      {
+       "count": 2735,
+       "value": "AMD",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "AMD 10 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD A-Series A9"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Athlon"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Athlon Gold 3000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Athlon Silver 3000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD E1"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD E2"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 3 1000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 3 3000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 3 4000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 3 7000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 3 8000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 1000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 2000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 3000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 3000 series PRO"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 4000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 4000 series PRO"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 5000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 5000 Series PRO"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 6000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 6000 Series PRO"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 7000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 7000 Series PRO"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 8000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 Microsoft Surface Edition"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 1000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 2000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 3000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 4000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 5000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 5000 Series PRO"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 6000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 7000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 7000 Series PRO"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 8000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 8000 Series PRO"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 9 3000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 9 4000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 9 7000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 9 8000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 9 9000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 100 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 200 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI 5 300 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI 5 400 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI 7 300 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI 7 400 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI 9 300 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI 9 400 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI 300 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI 400 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI Max 300 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI Max Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI Max+ 300 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI PRO 300 Series"
+        }
+       ]
+      },
+      {
+       "count": 8103,
+       "value": "Intel",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Intel 1st Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 1st Generation Core i7"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 2nd Generation Core i7"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 4th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 5th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 6th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 7th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 7th Generation Core i7"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 8th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 8th Generation Core i7"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 8th Generation Core i9"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 9th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 9th Generation Core i7"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 9th Generation Core i9"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 10th Generation Core i3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 10th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 10th Generation Core i7"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 11th Generation Core i3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 11th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 11th Generation Core i7"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 12th Generation Core i3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 12th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 12th Generation Core i5 Evo Platform"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 12th Generation Core i7"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 12th Generation Core i7 Evo Platform"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 12th Generation Core i9"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 13th Generation Core i3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 13th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 13th Generation Core i7"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 13th Generation Core i7 Evo Platform"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 13th Generation Core i9"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Celeron"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 3 Series 1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 3 Series 3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 5 Series 1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 5 Series 2"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 5 Series 3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 7 Series 1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 7 Series 2"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 7 Series 3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 9 Series 1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 9 Series 2"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Duo"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core i3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core i5 14th Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core i7 14th Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core i9 14th Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core M"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core m3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Processor N Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 5 Series 1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 5 Series 2"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 5 Series 3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 7 Series 1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 7 Series 1 Evo Edition"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 7 Series 2"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 7 Series 2 Evo Edition"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 7 Series 3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 7 Series 3 Evo Edition"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 9 Series 1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 9 Series 2"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 9 Series 3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra X7 Series 3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra X9 Series 3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Pentium"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Processor 300"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Processor N100"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Processor N150"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Processor N200"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Processor N250"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Processor N Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Xeon"
+        }
+       ]
+      },
+      {
+       "count": 479,
+       "value": "Apple",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Apple A18 Pro"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M1 Max"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M1 Pro"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M2"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M2 Max"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M2 Pro"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M3 Max"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M3 Pro"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M4"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M4 Max"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M4 Pro"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M5 Max"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M5 Pro"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M6"
+        }
+       ]
+      },
+      {
+       "count": 755,
+       "value": "Snapdragon",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Snapdragon"
+        },
+        {
+         "categoryPath": null,
+         "value": "Snapdragon X"
+        },
+        {
+         "categoryPath": null,
+         "value": "Snapdragon X2 Elite"
+        },
+        {
+         "categoryPath": null,
+         "value": "Snapdragon X2 Elite Extreme"
+        },
+        {
+         "categoryPath": null,
+         "value": "Snapdragon X2 Plus"
+        },
+        {
+         "categoryPath": null,
+         "value": "Snapdragon X Elite"
+        },
+        {
+         "categoryPath": null,
+         "value": "Snapdragon X Plus"
+        }
+       ]
+      },
+      {
+       "count": 326,
+       "value": "MediaTek",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "MediaTek"
+        },
+        {
+         "categoryPath": null,
+         "value": "MediaTek Dimensity 500 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "MediaTek Helio A Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "MediaTek Helio G Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "MediaTek Kompanio 500 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "MediaTek Kompanio 800 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "MediaTek Kompanio 900 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "MediaTek Kompanio Ultra Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "MediaTek MT Series"
+        }
+       ]
+      },
+      {
+       "count": 42,
+       "value": "NVIDIA RTX Spark",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 35,
+       "value": "ARM",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Brand",
+     "facetDisplay": "Yes",
+     "facetField": "brand_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 3590,
+       "value": "HP",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3356,
+       "value": "Lenovo",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1740,
+       "value": "Dell",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 793,
+       "value": "ASUS",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 972,
+       "value": "Acer",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 253,
+       "value": "Samsung",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 341,
+       "value": "Microsoft",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 673,
+       "value": "Apple",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 213,
+       "value": "MSI",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 182,
+       "value": "LG",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 141,
+       "value": "NIMO",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 49,
+       "value": "Ace",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 47,
+       "value": "GIGABYTE",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 22,
+       "value": "Alienware",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 17,
+       "value": "HP OMEN",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 14,
+       "value": "Gateway",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 13,
+       "value": "Thunderobot",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12,
+       "value": "LG gram",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 11,
+       "value": "ACEMAGIC",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 11,
+       "value": "IST Computers",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 11,
+       "value": "RNRUO",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 9,
+       "value": "Jumper",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 5,
+       "value": "Azpen",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 5,
+       "value": "VAIO",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "GEEKOM",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "Loheer",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Current Deals",
+     "facetDisplay": "Yes",
+     "facetField": "currentoffers_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 122,
+       "value": "Black Friday Deal",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7,
+       "value": "Doorbuster",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 4238,
+       "value": "On Sale",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 15,
+       "value": "Package Deals",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 90,
+       "value": "Clearance",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": "parent_gpusv_facet",
+     "displayName": "Graphics Processing Unit (GPU)",
+     "facetDisplay": "Yes",
+     "facetField": "gpusv_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 7280,
+       "value": "Intel",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Intel Arc"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Arc 130V"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Arc 140V"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Arc B370"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Arc B390"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Graphics"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel HD Graphics 400"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel HD Graphics 500"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel HD Graphics 505"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel HD Graphics 520"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel HD Graphics 615"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel HD Graphics 620"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel HD Graphics 5000"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel HD Graphics 5300"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel HD Graphics 6000"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Iris Graphics 540"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Iris Graphics 6100"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Iris Plus Graphics"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Iris Plus Graphics 640"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Iris Plus Graphics 645"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Iris Plus Graphics 650"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Iris Plus Graphics 655"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Iris Xe Graphics"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel UHD Graphics"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel UHD Graphics 600"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel UHD Graphics 605"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel UHD Graphics 617"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel UHD Graphics 620"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel UHD Graphics 630"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel UHD Graphics 710"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel UHD Graphics 730"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel UHD Graphics 770"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel UHD Graphics P630"
+        }
+       ]
+      },
+      {
+       "count": 2368,
+       "value": "AMD",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 610M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 660M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 680M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 740M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 760M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 780M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 820M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 840M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 860M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 880M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 890M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 8050S"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 8060S"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon Pro 555X"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon Pro 560"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon Pro 560X"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon Pro 5300M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon Pro 5500M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon Pro Vega 20"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon RX 6550M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon RX 7700S"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon RX Vega 3"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon Vega 3"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon Vega 7"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon Vega 8"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon Vega 9"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon Vega 10"
+        }
+       ]
+      },
+      {
+       "count": 1234,
+       "value": "NVIDIA",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "NVIDIA Blackwell Architecture"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA Blackwell RTX"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce GTX 1050"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce GTX 1060"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce GTX 1660 Ti Max-Q"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 2050"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 3050"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 3050 Ti"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 3080 Ti"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 4050"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 4060"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 4070"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 4080"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 4090"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 5050"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 5060"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 5070"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 5070 Ti"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 5080"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 5090"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA Quadro P520"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA Quadro P620"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA Quadro P1000"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA Quadro T500"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA Quadro T1000"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA Quadro T1200"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX 500 Ada Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX 1000 Ada Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX 2000 Ada Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX 3000 Ada Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX 3500 Ada Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX 4000 Ada Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX 5000 Ada Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX A500"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX A1000"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX A2000"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX A3000"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX A4000"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX PRO 500 Blackwell Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX PRO 1000 Blackwell Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX PRO 2000 Blackwell Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX PRO 3000 Blackwell Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX PRO 4000 Blackwell Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX PRO 5000 Blackwell Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA T550"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA T600"
+        }
+       ]
+      },
+      {
+       "count": 480,
+       "value": "Apple",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Apple A18 Pro 5-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M1 7-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M1 8-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M1 Max 32-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M1 Pro 14-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M1 Pro 16-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M2 8-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M2 10-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M2 Max 30-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M2 Max 38-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M2 Pro 16-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M2 Pro 19-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M3 8-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M3 10-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M3 Max 30-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M3 Max 40-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M3 Pro 14-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M3 Pro 18-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M4 8-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M4 10-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M4 Max 32-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M4 Max 40-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M4 Pro 16-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M4 Pro 20-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M5 8-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M5 10-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M5 Max 32-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M5 Max 40-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M5 Pro 16-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M5 Pro 20-core"
+        },
+        {
+         "categoryPath": null,
+         "value": "Apple M6 12-core"
+        }
+       ]
+      },
+      {
+       "count": 162,
+       "value": "ARM",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "ARM Immortalis-G925'"
+        },
+        {
+         "categoryPath": null,
+         "value": "ARM Mali-G52"
+        },
+        {
+         "categoryPath": null,
+         "value": "ARM Mali-G57"
+        },
+        {
+         "categoryPath": null,
+         "value": "ARM Mali-G72"
+        }
+       ]
+      },
+      {
+       "count": 39,
+       "value": "Snapdragon",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Snapdragon X Elite Adreno"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Customer Rating",
+     "facetDisplay": "Yes",
+     "facetField": "customerreviews_facet",
+     "maxValue": 6,
+     "values": [
+      {
+       "count": 1173,
+       "value": "Top-Rated",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 721,
+       "value": "5",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2699,
+       "value": "4 & Up",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2857,
+       "value": "3 & Up",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2891,
+       "value": "2 & Up",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2952,
+       "value": "1 & Up",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Condition",
+     "facetDisplay": "Yes",
+     "facetField": "condition_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 10925,
+       "value": "New",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 306,
+       "value": "Open-Box",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1521,
+       "value": "Refurbished",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Price",
+     "facetDisplay": "Yes",
+     "facetField": "currentprice_facet",
+     "maxValue": 15,
+     "values": [
+      {
+       "count": 1,
+       "value": "$25 - $49.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "$50 - $74.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 10,
+       "value": "$100 - $149.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 50,
+       "value": "$150 - $199.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 146,
+       "value": "$200 - $249.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1441,
+       "value": "$250 - $499.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1610,
+       "value": "$500 - $749.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1854,
+       "value": "$750 - $999.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1525,
+       "value": "$1000 - $1249.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1486,
+       "value": "$1250 - $1499.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1815,
+       "value": "$1500 - $1999.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1055,
+       "value": "$2000 - $2499.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 631,
+       "value": "$2500 - $2999.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 850,
+       "value": "$3000 and Up",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Total Storage Capacity",
+     "facetDisplay": "Yes",
+     "facetField": "totalstoragecapacityrange_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 813,
+       "value": "Less than 120GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 774,
+       "value": "120 GB - 149 GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1409,
+       "value": "250 GB - 499 GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 4621,
+       "value": "500 GB - 999 GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3350,
+       "value": "1 TB - 1.9 TB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1480,
+       "value": "2 TB and up",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Screen Size",
+     "facetDisplay": "Yes",
+     "facetField": "laptopscreensizerange_facet",
+     "maxValue": 10,
+     "values": [
+      {
+       "count": 1595,
+       "value": "13.9\" and Under",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 4139,
+       "value": "14\" - 14.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2890,
+       "value": "15\"- 15.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2984,
+       "value": "16\"- 16.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 867,
+       "value": "17\" and Up",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "System Memory (RAM)",
+     "facetDisplay": "Yes",
+     "facetField": "systemmemoryrange_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 610,
+       "value": "64GB and Up",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3049,
+       "value": "32GB - 48GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 5917,
+       "value": "16GB - 24GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2884,
+       "value": "12GB and Under",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Features",
+     "facetDisplay": "Yes",
+     "facetField": "features_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 5074,
+       "value": "Touch Screen",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1356,
+       "value": "Numeric Keypad",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 646,
+       "value": "2-in-1 Design",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12361,
+       "value": "Front-Facing Camera",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 5270,
+       "value": "Bluetooth",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7386,
+       "value": "Non-Touch Screen",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3705,
+       "value": "Built-In Microphone",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1270,
+       "value": "Windows Copilot+ PC",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 9640,
+       "value": "ENERGY STAR Certified",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 5249,
+       "value": "Headphone Jack",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 4629,
+       "value": "Microphone Input",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1124,
+       "value": "Media Card Reader",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 545,
+       "value": "Lightweight/Portable",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 309,
+       "value": "GPS Enabled",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 209,
+       "value": "Built for Windows Ink",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 109,
+       "value": "4K UHD Display",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 10,
+       "value": "5G Enabled",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Color",
+     "facetDisplay": "Yes",
+     "facetField": "colorcat_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 3535,
+       "value": "Black",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3586,
+       "value": "Silver",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 61,
+       "value": "Pink",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2910,
+       "value": "Gray",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1114,
+       "value": "Blue",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 204,
+       "value": "White",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 52,
+       "value": "Purple",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 67,
+       "value": "Green",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 240,
+       "value": "Multi",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 122,
+       "value": "Gold",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 94,
+       "value": "Brown",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 81,
+       "value": "Tan",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7,
+       "value": "Yellow",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 6,
+       "value": "Red",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": "parent_operatingsystem_facet",
+     "displayName": "Operating System",
+     "facetDisplay": "Yes",
+     "facetField": "operatingsystem_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 10708,
+       "value": "Windows",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Windows 10 Home"
+        },
+        {
+         "categoryPath": null,
+         "value": "Windows 10 Home in S mode"
+        },
+        {
+         "categoryPath": null,
+         "value": "Windows 10 Pro"
+        },
+        {
+         "categoryPath": null,
+         "value": "Windows 11 Home"
+        },
+        {
+         "categoryPath": null,
+         "value": "Windows 11 Home in S Mode"
+        },
+        {
+         "categoryPath": null,
+         "value": "Windows 11 Pro"
+        }
+       ]
+      },
+      {
+       "count": 1059,
+       "value": "Chrome",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Chrome OS"
+        },
+        {
+         "categoryPath": null,
+         "value": "Chrome Plus OS"
+        }
+       ]
+      },
+      {
+       "count": 669,
+       "value": "macOS",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Mac OS"
+        },
+        {
+         "categoryPath": null,
+         "value": "macOS 10.15"
+        },
+        {
+         "categoryPath": null,
+         "value": "macOS Big Sur 11.0"
+        },
+        {
+         "categoryPath": null,
+         "value": "macOS Catalina"
+        },
+        {
+         "categoryPath": null,
+         "value": "macOS Monterey 12"
+        },
+        {
+         "categoryPath": null,
+         "value": "macOS Sequoia 15.1"
+        },
+        {
+         "categoryPath": null,
+         "value": "macOS Sonoma 14"
+        },
+        {
+         "categoryPath": null,
+         "value": "macOS Ventura"
+        }
+       ]
+      },
+      {
+       "count": 11,
+       "value": "Android",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 6,
+       "value": "Googlebook OS",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "Apple iOS",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Apple iOS"
+        }
+       ]
+      },
+      {
+       "count": 3,
+       "value": "Linux",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "FreeDOS",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Inputs Outputs",
+     "facetDisplay": "Yes",
+     "facetField": "inputsoutputs_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 7164,
+       "value": "USB Port(s)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 5263,
+       "value": "Headphone Jack",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1789,
+       "value": "Thunderbolt Input(s)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1272,
+       "value": "Ethernet Ports Input(s)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 291,
+       "value": "DisplayPort Output(s)",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Display Type",
+     "facetDisplay": "Yes",
+     "facetField": "displaytype_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 750,
+       "value": "OLED",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1899,
+       "value": "LED",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2155,
+       "value": "LCD",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Storage Type",
+     "facetDisplay": "Yes",
+     "facetField": "storagetype_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 11050,
+       "value": "SSD",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "SSD+eMMC",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 842,
+       "value": "eMMC",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "HDD",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Wireless Networking Standard",
+     "facetDisplay": "Yes",
+     "facetField": "wirelessnetworkstandard_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1844,
+       "value": "Wi-Fi 7",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1798,
+       "value": "Wi-Fi 6",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1069,
+       "value": "Wi-Fi 6E",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 185,
+       "value": "Wi-Fi 5",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 9,
+       "value": "Wi-Fi 4",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Graphics Type",
+     "facetDisplay": "Yes",
+     "facetField": "graphicstype_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1249,
+       "value": "Dedicated",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 10501,
+       "value": "Integrated",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Collection",
+     "facetDisplay": "Yes",
+     "facetField": "collection_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 248,
+       "value": "Gaming Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 96,
+       "value": "Business Series",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Screen Resolution",
+     "facetDisplay": "Yes",
+     "facetField": "screenresolutionsv_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 6,
+       "value": "3840 x 2560 (UHD)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 93,
+       "value": "3840 x 2400",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 10,
+       "value": "3840 x 2160 (4K)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 8,
+       "value": "3472 x 2266",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 64,
+       "value": "3456 x 2234",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 23,
+       "value": "3270 x 2180",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 14,
+       "value": "3240 x 2160",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 37,
+       "value": "3200 x 2000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 21,
+       "value": "3072 x 1920 (Retina)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 6,
+       "value": "3024 x 1986",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 100,
+       "value": "3024 x 1964",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7,
+       "value": "3000 x 2000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 44,
+       "value": "2944 x 1840",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "2880 x 1920",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 105,
+       "value": "2880 x 1864 (Retina)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 60,
+       "value": "2880 x 1800 (Retina)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 473,
+       "value": "2880 x 1800",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "2880 x 1620 (HD)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 119,
+       "value": "2560 x 1664",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 146,
+       "value": "2560 x 1600 (Retina)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 634,
+       "value": "2560 x 1600",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 55,
+       "value": "2560 x 1440 (QHD)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 23,
+       "value": "2496 x 1664",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 36,
+       "value": "2408 x 1506",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 10,
+       "value": "2400 x 1600",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 106,
+       "value": "2304 x 1536",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 4,
+       "value": "2304 x 1440",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 56,
+       "value": "2256 x 1504",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 22,
+       "value": "2240 x 1400",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 10,
+       "value": "2048 x 1280",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 52,
+       "value": "1920 x 1280",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3338,
+       "value": "1920 x 1200 (WUXGA)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1822,
+       "value": "1920 x 1200 (Full HD+)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3570,
+       "value": "1920 x 1080 (Full HD)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 148,
+       "value": "1900 x 1200 (WUXGA)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 180,
+       "value": "1600 x 900 (HD+)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 14,
+       "value": "1536 x 1024",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 9,
+       "value": "1440 x 900 (WXGA+)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 961,
+       "value": "1366 x 768 (HD)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 68,
+       "value": "1360 x 768 (HD)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 6,
+       "value": "1280 x 800 (WXGA)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 5,
+       "value": "1280 x 720",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "1024 x 600 (WSVGA)",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Sold & shipped by",
+     "facetDisplay": "Yes",
+     "facetField": "bbyonly_facet",
+     "maxValue": 10,
+     "values": [
+      {
+       "count": 1103,
+       "value": "Best Buy",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Optical Drive Type",
+     "facetDisplay": "Yes",
+     "facetField": "opticaldrivetype_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 2747,
+       "value": "None",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "BD-ROM",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Screen Size",
+     "facetDisplay": "No",
+     "facetField": "laptopscreensizesv_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 403,
+       "value": "10\" - 11.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1192,
+       "value": "12\" - 13.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7019,
+       "value": "14\" - 15.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3846,
+       "value": "16\" or More",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Processor Brand",
+     "facetDisplay": "No",
+     "facetField": "processorbrand_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 8198,
+       "value": "Intel",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2619,
+       "value": "AMD",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 749,
+       "value": "Snapdragon",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 487,
+       "value": "Apple",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 323,
+       "value": "MediaTek",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 43,
+       "value": "NVIDIA",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 39,
+       "value": "ARM",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "GPU Brand",
+     "facetDisplay": "No",
+     "facetField": "gpubrand_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 7331,
+       "value": "Intel",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2396,
+       "value": "AMD Radeon",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1064,
+       "value": "NVIDIA",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 726,
+       "value": "Snapdragon",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 482,
+       "value": "Apple",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 210,
+       "value": "MediaTek",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 153,
+       "value": "ARM",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 4,
+       "value": "Microsoft",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "Imagination Technologies",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Product Categories",
+     "facetDisplay": "No",
+     "facetField": "productcategories_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 12475,
+       "value": "abcat0500000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12475,
+       "value": "abcat0502000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12475,
+       "value": "cat00000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12472,
+       "value": "pcmcat138500050001",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 10441,
+       "value": "pcmcat247400050000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1088,
+       "value": "root",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1064,
+       "value": "pcmcat244900050010",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 673,
+       "value": "pcmcat247400050001",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 599,
+       "value": "pcmcat1706896136677",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 596,
+       "value": "abcat0712000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 596,
+       "value": "pcmcat287600050003",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 582,
+       "value": "pcmcat128500050004",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 527,
+       "value": "pcmcat1488480099525",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 527,
+       "value": "pcmcat1773431785476",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 485,
+       "value": "pcmcat1792612228946",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 55,
+       "value": "pcmcat135300050050",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 55,
+       "value": "pcmcat1492808199261",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 55,
+       "value": "pcmcat1492808872042",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 17,
+       "value": "pcmcat1569442808449",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 14,
+       "value": "pcmcat1738950670578",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 6,
+       "value": "pcmcat1786568810959",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 4,
+       "value": "pcmcat209000050006",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 4,
+       "value": "pcmcat209000050008",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Processor Model",
+     "facetDisplay": "No",
+     "facetField": "sqbprocessormodel_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 992,
+       "value": "Intel Core Ultra 7 Series 2",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 925,
+       "value": "AMD Ryzen 7",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 921,
+       "value": "Intel Core i5",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 909,
+       "value": "Intel Processor N150",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 860,
+       "value": "Intel Core i7",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 765,
+       "value": "Intel Core Ultra 7 Series 1",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 556,
+       "value": "AMD Ryzen 5",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 500,
+       "value": "Intel Core Ultra 5 Series 1",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 366,
+       "value": "Intel Celeron",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 347,
+       "value": "AMD Ryzen AI 300 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 305,
+       "value": "Intel Core Ultra 9 Series 2",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 300,
+       "value": "Intel Core Ultra 7 Series 3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 298,
+       "value": "Intel Core Ultra 5 Series 2",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 254,
+       "value": "Snapdragon X",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 241,
+       "value": "Intel Core i3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 232,
+       "value": "Intel Core 5 Series 1",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 226,
+       "value": "Snapdragon X Elite",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 210,
+       "value": "AMD Ryzen AI 400 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 195,
+       "value": "AMD Ryzen 200 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 179,
+       "value": "Intel Core 7 Series 1",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 178,
+       "value": "MediaTek Kompanio 500 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 147,
+       "value": "Intel Core Ultra 5 Series 3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 141,
+       "value": "Intel Core 7 Series 2",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 121,
+       "value": "Snapdragon X Plus",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 102,
+       "value": "Intel Processor N100",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 93,
+       "value": "Snapdragon X2 Elite",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 87,
+       "value": "Apple M2",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 86,
+       "value": "Apple M5",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 74,
+       "value": "Intel Core 5 Series 2",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 74,
+       "value": "Intel Core i7 14th Generation",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 73,
+       "value": "Intel Core i9",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 71,
+       "value": "AMD Ryzen 3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 69,
+       "value": "MediaTek MT Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 66,
+       "value": "AMD Ryzen AI PRO 300 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 61,
+       "value": "AMD Ryzen 9",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 59,
+       "value": "Apple M4",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 58,
+       "value": "Intel Core 3 Series 1",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 57,
+       "value": "AMD Ryzen AI Max Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 56,
+       "value": "Intel Pentium",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 55,
+       "value": "Intel Core Ultra 9 Series 3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 52,
+       "value": "Apple M3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 52,
+       "value": "Intel Core Ultra 9 Series 1",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 52,
+       "value": "Intel Processor N200",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 46,
+       "value": "AMD 10 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 46,
+       "value": "AMD Ryzen 100 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 42,
+       "value": "NVIDIA RTX Spark",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 41,
+       "value": "Intel Core 5 Series 3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 39,
+       "value": "Snapdragon X2 Plus",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 37,
+       "value": "Intel Processor N Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 36,
+       "value": "AMD Ryzen AI 7 300 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 36,
+       "value": "Apple A18 Pro",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 35,
+       "value": "ARM",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 33,
+       "value": "AMD Ryzen AI 7 400 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 33,
+       "value": "Intel Core i9 14th Generation",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 32,
+       "value": "Intel Core 7 Series 3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 29,
+       "value": "MediaTek Kompanio Ultra Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 28,
+       "value": "Apple M1",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 27,
+       "value": "Apple M5 Pro",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 26,
+       "value": "Intel Core Ultra X7 Series 3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 23,
+       "value": "Intel Core 3 Series 3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 23,
+       "value": "Intel Core Processor N Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 22,
+       "value": "Intel Processor N250",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 20,
+       "value": "Apple M4 Pro",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 20,
+       "value": "MediaTek Kompanio 800 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 19,
+       "value": "AMD Athlon",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 19,
+       "value": "Intel Core Ultra 7 Series 2 Evo Edition",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 18,
+       "value": "Intel Core Ultra X9 Series 3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 18,
+       "value": "Intel Core i5 14th Generation",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 18,
+       "value": "Intel Processor 300",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 15,
+       "value": "AMD Ryzen AI 5 400 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 15,
+       "value": "Apple M3 Pro",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 14,
+       "value": "AMD Ryzen AI 5 300 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 14,
+       "value": "Intel Core 9 Series 2",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 13,
+       "value": "Apple M2 Pro",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 13,
+       "value": "MediaTek Helio G Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12,
+       "value": "Apple M5 Max",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 11,
+       "value": "Apple M1 Pro",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 11,
+       "value": "Snapdragon X2 Elite Extreme",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 10,
+       "value": "Intel Core Ultra 7 Series 1 Evo Edition",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 10,
+       "value": "MediaTek Kompanio 900 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 9,
+       "value": "Apple M4 Max",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 8,
+       "value": "AMD Ryzen AI 9 400 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 8,
+       "value": "Snapdragon",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7,
+       "value": "Apple M1 Max",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 6,
+       "value": "AMD E1",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 6,
+       "value": "Apple M3 Max",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 6,
+       "value": "Apple M6",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 5,
+       "value": "AMD Athlon Gold 3000 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 5,
+       "value": "AMD Ryzen AI Max+ 300 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 4,
+       "value": "Apple M2 Max",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 4,
+       "value": "MediaTek Helio A Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "AMD E2",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "AMD A-Series A9",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "AMD Athlon Silver 3000 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "AMD Ryzen AI 9 300 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "Intel Core Duo",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "Intel Core M",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "Intel Core m3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "Intel Xeon",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "MediaTek Dimensity 500 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    }
+   ],
+   "banners": [],
+   "quickFilters": [
+    {
+     "facetName": "currentoffers_facet",
+     "facetValue": "Black Friday Deal"
+    },
+    {
+     "facetName": "condition_facet",
+     "facetValue": "Open-Box"
+    },
+    {
+     "facetName": "condition_facet",
+     "facetValue": "Refurbished"
+    },
+    {
+     "facetName": "currentoffers_facet",
+     "facetValue": "On Sale"
+    },
+    {
+     "facetName": "currentoffers_facet",
+     "facetValue": "Clearance"
+    },
+    {
+     "facetName": "brand_facet",
+     "facetValue": "HP"
+    },
+    {
+     "facetName": "brand_facet",
+     "facetValue": "Lenovo"
+    },
+    {
+     "facetName": "brand_facet",
+     "facetValue": "Dell"
+    },
+    {
+     "facetName": "processormodelsv_facet",
+     "facetValue": "Intel"
+    },
+    {
+     "facetName": "bbyonly_facet",
+     "facetValue": "Best Buy"
+    }
+   ],
+   "showCarFitFacet": false,
+   "requestInfo": {
+    "appliedFacets": [
+     {
+      "values": [
+       "abcat0502000"
+      ],
+      "id": "category_facet",
+      "autoFacet": "true"
+     }
+    ],
+    "categoryFacet": {
+     "categoryName": "Laptops",
+     "categoryPath": "abcat0502000"
+    },
+    "sort": {
+     "value": "Best-Match",
+     "displayName": "Best Match"
+    }
+   },
+   "sortOptions": [
+    {
+     "value": "Best-Match",
+     "displayName": "Best Match"
+    },
+    {
+     "value": "Best-Selling",
+     "displayName": "Best Selling"
+    },
+    {
+     "value": "Best-Discount",
+     "displayName": "Best Discount"
+    },
+    {
+     "value": "Price-Low-To-High",
+     "displayName": "Price Low to High"
+    },
+    {
+     "value": "Price-High-To-Low",
+     "displayName": "Price High to Low"
+    },
+    {
+     "value": "Customer-Rating",
+     "displayName": "Customer Rating"
+    },
+    {
+     "value": "New-Arrivals",
+     "displayName": "New Arrivals"
+    }
+   ],
+   "numFound": 6722,
+   "showDeliveryFacet": false,
+   "customerFilterContext": [],
+   "track": {
+    "searchTag": "8378aa73-35c4-4102-b2f0-f53bc14a2666",
+    "decisions": [
+     {
+      "experience": "QualityRankingRuleExists",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "searchMetricRulePresent",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "aws-east-1",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "autoFacetApplied",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "variationPresent",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "bestSellingSortNotApplied",
+      "name": "SearchSegment",
+      "type": "Segment"
+     }
+    ],
+    "release": "26.44.15",
+    "relevancyVersion": "1.0",
+    "analyticsData": {
+     "isAutoFilterApplied": false,
+     "isAutofacetApplied": true,
+     "isQueryTaggingApplied": true,
+     "isSpellCheck": true,
+     "recallStrategy": "dvsTextMatchHybrid",
+     "requestHandler": "bbselect"
+    }
+   },
+   "suggestQueryInfo": {
+    "correctedQuery": "laptop",
+    "correctlySpelled": false
+   },
+   "redirect": null,
+   "relatedSearchTerms": [
+    {
+     "searchTerm": "macbook",
+     "displayName": "macbook"
+    },
+    {
+     "searchTerm": "ipad",
+     "displayName": "ipad"
+    },
+    {
+     "searchTerm": "tablet",
+     "displayName": "tablet"
+    },
+    {
+     "searchTerm": "macbook air",
+     "displayName": "macbook air"
+    },
+    {
+     "searchTerm": "tv",
+     "displayName": "tv"
+    }
+   ],
+   "primaryDocument": {
+    "isTermMatch": true,
+    "isBrMatch": false,
+    "skuId": "6668952",
+    "product": {
+     "skuId": "6668952",
+     "hierarchy": {
+      "bbypres": [
+       {
+        "id": "pcmcat247400050000",
+        "primary": true,
+        "href": "https://data.bestbuy.com/v2/hierarchy/bbypres/id/pcmcat247400050000",
+        "categoryDetail": {
+         "name": "Windows Laptops",
+         "id": "pcmcat247400050000",
+         "hierarchyId": "bbypres",
+         "seoUrl": "https://www.bestbuy.com/site/all-laptops/pc-laptops/pcmcat247400050000.c?id=pcmcat247400050000",
+         "broaderTerms": {
+          "primaryLineage": [
+           {
+            "name": "All Laptops",
+            "seoUrl": "https://www.bestbuy.com/site/laptop-computers/all-laptops/pcmcat138500050001.c?id=pcmcat138500050001",
+            "id": "pcmcat138500050001",
+            "sequence": 0
+           },
+           {
+            "name": "Laptops",
+            "seoUrl": "https://www.bestbuy.com/site/computers-pcs/laptop-computers/abcat0502000.c?id=abcat0502000",
+            "id": "abcat0502000",
+            "sequence": 1
+           },
+           {
+            "name": "Computers & Tablets",
+            "seoUrl": "https://www.bestbuy.com/site/electronics/computers-pcs/abcat0500000.c?id=abcat0500000",
+            "id": "abcat0500000",
+            "sequence": 2
+           },
+           {
+            "name": "Best Buy",
+            "seoUrl": "https://www.bestbuy.com/",
+            "id": "cat00000",
+            "sequence": 3
+           }
+          ]
+         }
+        }
+       },
+       {
+        "id": "pcmcat138500050001",
+        "primary": false,
+        "href": "https://data.bestbuy.com/v2/hierarchy/bbypres/id/pcmcat138500050001",
+        "categoryDetail": {
+         "name": "All Laptops",
+         "id": "pcmcat138500050001",
+         "hierarchyId": "bbypres",
+         "seoUrl": "https://www.bestbuy.com/site/laptop-computers/all-laptops/pcmcat138500050001.c?id=pcmcat138500050001",
+         "broaderTerms": {
+          "primaryLineage": [
+           {
+            "name": "Laptops",
+            "seoUrl": "https://www.bestbuy.com/site/computers-pcs/laptop-computers/abcat0502000.c?id=abcat0502000",
+            "id": "abcat0502000",
+            "sequence": 0
+           },
+           {
+            "name": "Computers & Tablets",
+            "seoUrl": "https://www.bestbuy.com/site/electronics/computers-pcs/abcat0500000.c?id=abcat0500000",
+            "id": "abcat0500000",
+            "sequence": 1
+           },
+           {
+            "name": "Best Buy",
+            "seoUrl": "https://www.bestbuy.com/",
+            "id": "cat00000",
+            "sequence": 2
+           }
+          ]
+         }
+        }
+       }
+      ]
+     },
+     "price": {
+      "currentPrice": 599.99
+     },
+     "openBoxCondition": null
+    }
+   },
+   "documents": [
+    {
+     "variationId": null,
+     "product": {
+      "badges": [
+       {
+        "detailsHref": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "displayName": "Core essentials PC",
+        "endDate": "2028-09-17T04:45Z",
+        "imageHref": null,
+        "sortOrder": 1,
+        "startDate": "2026-09-18T22:30Z",
+        "typeCode": "NA"
+       }
+      ],
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/6668952?force_cache=20260318000000&pn=https://api.bestbuy.com/click/-/6668952/pdp"
+        ]
+       },
+       {
+        "values": [
+         "https://ws.cs.1worldsync.com/afe75039/page/e3af23b796?mf=DELL&pn=LDC15250-7427BLK-PUS&lang=EN&market=US&host=www.bestbuy.com&nld=3"
+        ]
+       },
+       {
+        "values": [
+         "Dell DC15250"
+        ]
+       },
+       {
+        "values": [
+         "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/13th_Gen_Intel_Core_i7_Consumer_Mobile?force_cache=14940&pn=https://api.bestbuy.com/click/-/6668952/pdp"
+        ]
+       },
+       {
+        "values": [
+         "Dell 15 DC15250",
+         "65 Watt AC Adapter",
+         "US Power Cord",
+         "Documents"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [
+       {
+        "badgeId": "Core_Essentials_PCs_FY27",
+        "badgeTier": "CampaignOffer",
+        "categoryId": null,
+        "categoryName": null,
+        "description": null,
+        "experienceUrl": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "label": "Core essentials PC",
+        "type": "gandalf",
+        "rank": 0
+       }
+      ],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "6668952",
+      "bsin": "J3K4L6QW5C",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "relativePdp": "/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "bsin": "J3K4L6QW5C",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6668952"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12575317"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12750857"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12723428"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12605032"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13025298"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12601023"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12693339"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13276613"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12860179"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12706180"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12618853"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13168165"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12581926"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12618856"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.7,
+       "reviewCount": 434,
+       "syndicatedReviewSummary": [],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black",
+       "title": "15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage"
+      },
+      "notifyMeEligible": true,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "Dell",
+      "brandId": "2091",
+      "classification": {
+       "class": {
+        "id": "768"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "6668952",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": [
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          },
+          {
+           "code": "1"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7f4ab98f-7332-4e52-a474-70cb1c990d27.jpg"
+         },
+         "name": {
+          "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952"
+       },
+       {
+        "type": "Excellent",
+        "skuId": "6668952",
+        "product": {
+         "openBoxCondition": 2,
+         "openBoxOptions": [
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          },
+          {
+           "code": "1"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 2
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7f4ab98f-7332-4e52-a474-70cb1c990d27.jpg"
+         },
+         "name": {
+          "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952/openbox?condition=excellent"
+       },
+       {
+        "type": "Good",
+        "skuId": "6668952",
+        "product": {
+         "openBoxCondition": 1,
+         "openBoxOptions": [
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          },
+          {
+           "code": "1"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 1
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7f4ab98f-7332-4e52-a474-70cb1c990d27.jpg"
+         },
+         "name": {
+          "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952/openbox?condition=good"
+       },
+       {
+        "type": "Fair",
+        "skuId": "6668952",
+        "product": {
+         "openBoxCondition": 0,
+         "openBoxOptions": [
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          },
+          {
+           "code": "1"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 0
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7f4ab98f-7332-4e52-a474-70cb1c990d27.jpg"
+         },
+         "name": {
+          "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952/openbox?condition=fair"
+       }
+      ],
+      "price": {
+       "customerPrice": 599.99,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "6668952",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": [
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58108448",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0.01,
+         "skuId": "6549173"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "636289",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6548823"
+        }
+       ],
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 18,
+        "monthlyPayment": 33.34,
+        "offerId": "887456",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 599.99,
+        "totalCostIncludingTax": 599.99
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 999.99,
+       "showTotalSavings": true,
+       "totalSavings": 400,
+       "totalSavingsPercent": 40,
+       "openBoxSavings": null,
+       "preferredBadging": "BlackFriday",
+       "puckDisplayMessage": "Black Friday Deal",
+       "puckMessageURL": "https://www.bestbuy.com/black-friday",
+       "totalNonPaidMemberSavings": 400,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 599.99,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "1P",
+       "id": "bby"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cUDflXPxAqOwb3g7f28iqawDsjvq"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7f4ab98f-7332-4e52-a474-70cb1c990d27.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7f4ab98f-7332-4e52-a474-70cb1c990d27.jpg",
+       "height": "1299",
+       "altText": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "LDC15250-7427BLK-PUS"
+      },
+      "publisher": null,
+      "dotComStreetDate": null,
+      "primaryArtists": null,
+      "isNew": false,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": true,
+         "offerId": "57053687",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58125328",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "57496936",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "799781",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "57911718",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58126938",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "808318",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58124809",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "795607",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "57496210",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": "30ec5515-669e-4035-a635-b06940614cc4",
+     "product": {
+      "badges": [
+       {
+        "detailsHref": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "displayName": "Core essentials PC",
+        "endDate": "2028-09-17T04:45Z",
+        "imageHref": null,
+        "sortOrder": 1,
+        "startDate": "2026-09-18T22:30Z",
+        "typeCode": "NA"
+       },
+       {
+        "detailsHref": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "displayName": "Everyday productivity PC",
+        "endDate": "2028-09-17T04:45Z",
+        "imageHref": null,
+        "sortOrder": 2,
+        "startDate": "2026-09-18T22:45Z",
+        "typeCode": "NA"
+       }
+      ],
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://ws.cs.1worldsync.com/afe75039/page/e3af23b796?mf=HP&pn=DQ2E7UA#ABA&lang=EN&market=US&host=www.bestbuy.com&nld=2"
+        ]
+       },
+       {
+        "values": [
+         "HP OmniBook 3 14\" Next Gen AI PC",
+         "65 W USB Type-C GaN power adapter",
+         "Setup instructions"
+        ]
+       },
+       {
+        "values": [
+         "HP OmniBook"
+        ]
+       },
+       {
+        "values": [
+         "OEM/Standard"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [
+       {
+        "badgeId": "Core_Essentials_PCs_FY27",
+        "badgeTier": "CampaignOffer",
+        "categoryId": null,
+        "categoryName": null,
+        "description": null,
+        "experienceUrl": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "label": "Core essentials PC",
+        "type": "gandalf",
+        "rank": 0
+       },
+       {
+        "badgeId": "Everyday_productivity_PC_FY27",
+        "badgeTier": "CampaignOffer",
+        "categoryId": null,
+        "categoryName": null,
+        "description": null,
+        "experienceUrl": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "label": "Everyday productivity PC",
+        "type": "gandalf",
+        "rank": 0
+       }
+      ],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "6679316",
+      "bsin": "J3PPHFY77J",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-8gb-memory-256gb-ssd-41-hrs-battery-life1-starlit-blue/J3PPHFY77J",
+       "relativePdp": "/product/hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-8gb-memory-256gb-ssd-41-hrs-battery-life1-starlit-blue/J3PPHFY77J",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-8gb-memory-256gb-ssd-41-hrs-battery-life1-starlit-blue/J3PPHFY77J/sku/6679316"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-8gb-memory-256gb-ssd-41-hrs-battery-life1-starlit-blue/J3PPHFY77J",
+       "bsin": "J3PPHFY77J",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6679316"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13281045"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.6,
+       "reviewCount": 137,
+       "syndicatedReviewSummary": [
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 4.5454545,
+         "totalReviewCount": 33,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/6679316/syndicatedreviews.htm?sourcename=hp-en"
+        },
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 4.2352943,
+         "totalReviewCount": 17,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/6679316/syndicatedreviews.htm?sourcename=hp"
+        }
+       ],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "HP - OmniBook 3 - 14\" 2K OLED Laptop - Snapdragon X (8-Core CPU) - 8GB Memory - 256GB SSD - 41+ Hrs Battery Life¹ - Starlit Blue",
+       "title": "OmniBook 3 - 14\" 2K OLED Laptop - Snapdragon X (8-Core CPU) - 8GB Memory - 256GB SSD - 41+ Hrs Battery Life¹"
+      },
+      "notifyMeEligible": true,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "HP",
+      "brandId": "184",
+      "classification": {
+       "class": {
+        "id": "768"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "6679316",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": [
+          {
+           "code": "0"
+          },
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/39e6d3fd-e7c7-46bf-9356-dc30a18e60ae.jpg"
+         },
+         "name": {
+          "short": "HP - OmniBook 3 - 14\" 2K OLED Laptop - Snapdragon X (8-Core CPU) - 8GB Memory - 256GB SSD - 41+ Hrs Battery Life¹ - Starlit Blue"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-8gb-memory-256gb-ssd-41-hrs-battery-life1-starlit-blue/J3PPHFY77J/sku/6679316"
+       },
+       {
+        "type": "Excellent",
+        "skuId": "6679316",
+        "product": {
+         "openBoxCondition": 2,
+         "openBoxOptions": [
+          {
+           "code": "0"
+          },
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 2
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/39e6d3fd-e7c7-46bf-9356-dc30a18e60ae.jpg"
+         },
+         "name": {
+          "short": "HP - OmniBook 3 - 14\" 2K OLED Laptop - Snapdragon X (8-Core CPU) - 8GB Memory - 256GB SSD - 41+ Hrs Battery Life¹ - Starlit Blue"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-8gb-memory-256gb-ssd-41-hrs-battery-life1-starlit-blue/J3PPHFY77J/sku/6679316/openbox?condition=excellent"
+       },
+       {
+        "type": "Good",
+        "skuId": "6679316",
+        "product": {
+         "openBoxCondition": 1,
+         "openBoxOptions": [
+          {
+           "code": "0"
+          },
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 1
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/39e6d3fd-e7c7-46bf-9356-dc30a18e60ae.jpg"
+         },
+         "name": {
+          "short": "HP - OmniBook 3 - 14\" 2K OLED Laptop - Snapdragon X (8-Core CPU) - 8GB Memory - 256GB SSD - 41+ Hrs Battery Life¹ - Starlit Blue"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-8gb-memory-256gb-ssd-41-hrs-battery-life1-starlit-blue/J3PPHFY77J/sku/6679316/openbox?condition=good"
+       },
+       {
+        "type": "Fair",
+        "skuId": "6679316",
+        "product": {
+         "openBoxCondition": 0,
+         "openBoxOptions": [
+          {
+           "code": "0"
+          },
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 0
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/39e6d3fd-e7c7-46bf-9356-dc30a18e60ae.jpg"
+         },
+         "name": {
+          "short": "HP - OmniBook 3 - 14\" 2K OLED Laptop - Snapdragon X (8-Core CPU) - 8GB Memory - 256GB SSD - 41+ Hrs Battery Life¹ - Starlit Blue"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-8gb-memory-256gb-ssd-41-hrs-battery-life1-starlit-blue/J3PPHFY77J/sku/6679316/openbox?condition=fair"
+       }
+      ],
+      "price": {
+       "customerPrice": 399.99,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "6679316",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": [
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58108448",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0.01,
+         "skuId": "6549173"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "636289",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6548823"
+        }
+       ],
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 12,
+        "monthlyPayment": 33.34,
+        "offerId": "384913",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 399.99,
+        "totalCostIncludingTax": 399.99
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 599.99,
+       "showTotalSavings": true,
+       "totalSavings": 200,
+       "totalSavingsPercent": 33,
+       "openBoxSavings": null,
+       "preferredBadging": "BlackFriday",
+       "puckDisplayMessage": "Black Friday Deal",
+       "puckMessageURL": "https://www.bestbuy.com/black-friday",
+       "totalNonPaidMemberSavings": 200,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 399.99,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "1P",
+       "id": "bby"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cSIyR:xlqwbSYVPNpSRs:_MpGVtI"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/39e6d3fd-e7c7-46bf-9356-dc30a18e60ae.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/39e6d3fd-e7c7-46bf-9356-dc30a18e60ae.jpg",
+       "height": "1667",
+       "altText": "Suny Sesm  \n-i.- m hp | : - : - - . .  \nC2 -. - u u - - - - - - - - - F .- - - - T -  -  Y ... -. - 2 L ... -   - . A - - --  . F -- - - - I a 1 - . 1 U 1 - A - .. -  .  \nIn  - - I . | .... 2 >  V 1n ~ P - - - - , - - : E - - I - e - - - > N 3  \nSnapdragon OMNIBOOK3 X"
+      },
+      "productVariationListDisplay": {
+       "type": "listDisplay",
+       "variationId": "30ec5515-669e-4035-a635-b06940614cc4",
+       "variationTypes": [
+        {
+         "definition": null,
+         "definitionDetails": null,
+         "displayName": "Color",
+         "rawName": "Desktop_and_Laptop_Computers:Color",
+         "sequence": 6
+        }
+       ],
+       "title": "HP - OmniBook 3 - 14\" 2K OLED Laptop - Snapdragon X (8-Core CPU) - 8GB Memory - 256GB SSD - 41+ Hrs Battery Life¹",
+       "productBsinVariations": [
+        {
+         "bsin": "J3PPHFY77J",
+         "bsinProduct": {
+          "featuredSKU": {
+           "skuId": "6679316"
+          },
+          "bsin": "J3PPHFY77J"
+         },
+         "variations": [
+          {
+           "value": "Starlit Blue",
+           "rawName": "Desktop_and_Laptop_Computers:Color",
+           "image": {
+            "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/39e6d3fd-e7c7-46bf-9356-dc30a18e60ae.jpg"
+           }
+          }
+         ]
+        },
+        {
+         "bsin": "J3PPHFY7JR",
+         "bsinProduct": {
+          "featuredSKU": {
+           "skuId": "6679358"
+          },
+          "bsin": "J3PPHFY7JR"
+         },
+         "variations": [
+          {
+           "value": "Nouvelle Silver",
+           "rawName": "Desktop_and_Laptop_Computers:Color",
+           "image": {
+            "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1b39c0d8-c6ea-41e6-b195-c2593fb5eef7.jpg"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "14-hz0088dx/DQ2E7UA#ABA"
+      },
+      "publisher": null,
+      "dotComStreetDate": null,
+      "primaryArtists": null,
+      "isNew": false,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": true,
+         "offerId": "57053687",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58125328",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58239381",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "57496936",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "799781",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "57911718",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58124809",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "775653",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "795607",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "512227",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": "5031dbd0-9cff-4a3a-80d4-a3ecaf756b23",
+     "product": {
+      "badges": [
+       {
+        "detailsHref": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "displayName": "Core essentials PC",
+        "endDate": "2028-09-17T04:45Z",
+        "imageHref": null,
+        "sortOrder": 1,
+        "startDate": "2026-09-18T22:30Z",
+        "typeCode": "NA"
+       }
+      ],
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://ws.cs.1worldsync.com/afe75039/page/e3af23b796?mf=HP&pn=D0SN9UA&lang=EN&market=US&host=www.bestbuy.com&nld=2"
+        ]
+       },
+       {
+        "values": [
+         "HP 14 inch Laptop",
+         "45W AC power adapter",
+         "Setup instructions"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [
+       {
+        "badgeId": "03_Trending_Deals",
+        "badgeTier": null,
+        "categoryId": "pcmcat247400050000",
+        "categoryName": "Windows Laptops",
+        "description": "This limited time offer has seen a recent spike in sales.",
+        "experienceUrl": "/discover/trending-deals/trending-deals-pc-laptops/pcmcat247400050000",
+        "label": "Trending Deal",
+        "type": "trendingDeals",
+        "rank": 3
+       },
+       {
+        "badgeId": "Core_Essentials_PCs_FY27",
+        "badgeTier": "CampaignOffer",
+        "categoryId": null,
+        "categoryName": null,
+        "description": null,
+        "experienceUrl": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "label": "Core essentials PC",
+        "type": "gandalf",
+        "rank": 0
+       }
+      ],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "6667483",
+      "bsin": "JJGW3FGF9T",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/hp-14-laptop-intel-n150-processor-4gb-memory-128gb-storage-pale-rose-gold/JJGW3FGF9T",
+       "relativePdp": "/product/hp-14-laptop-intel-n150-processor-4gb-memory-128gb-storage-pale-rose-gold/JJGW3FGF9T",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/hp-14-laptop-intel-n150-processor-4gb-memory-128gb-storage-pale-rose-gold/JJGW3FGF9T/sku/6667483"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/hp-14-laptop-intel-n150-processor-4gb-memory-128gb-storage-pale-rose-gold/JJGW3FGF9T",
+       "bsin": "JJGW3FGF9T",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6667483"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13186559"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12657404"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12349291"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12912141"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13071328"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13274567"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13238606"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12649812"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13275720"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13293826"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13190247"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12722145"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12631509"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12175963"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12648565"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13032613"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12854736"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12903631"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.5,
+       "reviewCount": 157,
+       "syndicatedReviewSummary": [
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 4.129032,
+         "totalReviewCount": 124,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/6667483/syndicatedreviews.htm?sourcename=hp"
+        }
+       ],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "HP - 14\" Laptop - Intel N150 Processor - 4GB Memory - 128GB Storage - Pale Rose Gold",
+       "title": "14\" Laptop - Intel N150 Processor - 4GB Memory - 128GB Storage"
+      },
+      "notifyMeEligible": true,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "HP",
+      "brandId": "184",
+      "classification": {
+       "class": {
+        "id": "768"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "6667483",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/79bae750-4bbb-4842-8bd9-a5c7239aa993.jpg"
+         },
+         "name": {
+          "short": "HP - 14\" Laptop - Intel N150 Processor - 4GB Memory - 128GB Storage - Pale Rose Gold"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-14-laptop-intel-n150-processor-4gb-memory-128gb-storage-pale-rose-gold/JJGW3FGF9T/sku/6667483"
+       },
+       {
+        "type": "Excellent",
+        "skuId": "6667483",
+        "product": {
+         "openBoxCondition": 2,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 2
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/79bae750-4bbb-4842-8bd9-a5c7239aa993.jpg"
+         },
+         "name": {
+          "short": "HP - 14\" Laptop - Intel N150 Processor - 4GB Memory - 128GB Storage - Pale Rose Gold"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-14-laptop-intel-n150-processor-4gb-memory-128gb-storage-pale-rose-gold/JJGW3FGF9T/sku/6667483/openbox?condition=excellent"
+       },
+       {
+        "type": "Good",
+        "skuId": "6667483",
+        "product": {
+         "openBoxCondition": 1,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 1
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/79bae750-4bbb-4842-8bd9-a5c7239aa993.jpg"
+         },
+         "name": {
+          "short": "HP - 14\" Laptop - Intel N150 Processor - 4GB Memory - 128GB Storage - Pale Rose Gold"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-14-laptop-intel-n150-processor-4gb-memory-128gb-storage-pale-rose-gold/JJGW3FGF9T/sku/6667483/openbox?condition=good"
+       },
+       {
+        "type": "Fair",
+        "skuId": "6667483",
+        "product": {
+         "openBoxCondition": 0,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 0
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/79bae750-4bbb-4842-8bd9-a5c7239aa993.jpg"
+         },
+         "name": {
+          "short": "HP - 14\" Laptop - Intel N150 Processor - 4GB Memory - 128GB Storage - Pale Rose Gold"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-14-laptop-intel-n150-processor-4gb-memory-128gb-storage-pale-rose-gold/JJGW3FGF9T/sku/6667483/openbox?condition=fair"
+       }
+      ],
+      "price": {
+       "customerPrice": 179.99,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": null,
+       "skuId": "6667483",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": [
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58108448",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0.01,
+         "skuId": "6549173"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "636289",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6548823"
+        }
+       ],
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": null,
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 349.99,
+       "showTotalSavings": true,
+       "totalSavings": 170,
+       "totalSavingsPercent": 48,
+       "openBoxSavings": null,
+       "preferredBadging": "Doorbuster",
+       "puckDisplayMessage": "Doorbuster",
+       "puckMessageURL": "https://www.bestbuy.com/black-friday",
+       "totalNonPaidMemberSavings": 170,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 179.99,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "1P",
+       "id": "bby"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cUDAhn2LQiWs4YDNaszVhLA:p44K"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/79bae750-4bbb-4842-8bd9-a5c7239aa993.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/79bae750-4bbb-4842-8bd9-a5c7239aa993.jpg",
+       "height": "1640",
+       "altText": "Seach tu - - - -a . wen i - - - - - - - - I - - - i -- - - - in ! -  I - - - - - - - - - - - - ! - -  - -- ongeraun - - & - ... i -- - - -  - - - -y Mears -- .. hp - 2 -  - - - : - I - - - = -  -  - 5 - G a 7 . H + 9 . O -  - - - - Q W / 12 T Y U - 0  1  1   I A S  F G H J K L   - Z x C V  N M - - - / - - - - - T. < > intel. INSIDE"
+      },
+      "productVariationListDisplay": {
+       "type": "listDisplay",
+       "variationId": "5031dbd0-9cff-4a3a-80d4-a3ecaf756b23",
+       "variationTypes": [
+        {
+         "definition": null,
+         "definitionDetails": null,
+         "displayName": "Color",
+         "rawName": "Desktop_and_Laptop_Computers:Color",
+         "sequence": 6
+        }
+       ],
+       "title": "HP - 14\" Laptop - Intel N150 Processor - 4GB Memory - 128GB Storage",
+       "productBsinVariations": [
+        {
+         "bsin": "JJGW3FGF9T",
+         "bsinProduct": {
+          "featuredSKU": {
+           "skuId": "6667483"
+          },
+          "bsin": "JJGW3FGF9T"
+         },
+         "variations": [
+          {
+           "value": "Pale Rose Gold",
+           "rawName": "Desktop_and_Laptop_Computers:Color",
+           "image": {
+            "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/79bae750-4bbb-4842-8bd9-a5c7239aa993.jpg"
+           }
+          }
+         ]
+        },
+        {
+         "bsin": "JJGW3FGFS9",
+         "bsinProduct": {
+          "featuredSKU": {
+           "skuId": "6667486"
+          },
+          "bsin": "JJGW3FGFS9"
+         },
+         "variations": [
+          {
+           "value": "Honey Lavender",
+           "rawName": "Desktop_and_Laptop_Computers:Color",
+           "image": {
+            "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/098025f7-8cdf-45d1-9ed6-38fe3a1f39f1.jpg"
+           }
+          }
+         ]
+        },
+        {
+         "bsin": "JJGW3FGFSK",
+         "bsinProduct": {
+          "featuredSKU": {
+           "skuId": "6667498"
+          },
+          "bsin": "JJGW3FGFSK"
+         },
+         "variations": [
+          {
+           "value": "Sky Blue",
+           "rawName": "Desktop_and_Laptop_Computers:Color",
+           "image": {
+            "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/756eb7cd-8251-4d41-a7ab-2b07498dd7b3.jpg"
+           }
+          }
+         ]
+        },
+        {
+         "bsin": "JJGQJQ2QF5",
+         "bsinProduct": {
+          "featuredSKU": {
+           "skuId": "11142993"
+          },
+          "bsin": "JJGQJQ2QF5"
+         },
+         "variations": [
+          {
+           "value": "Pale Rose Gold",
+           "rawName": "Desktop_and_Laptop_Computers:Color",
+           "image": {
+            "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1f185e05-db51-4b2f-a341-4c51ab1b067c.jpg"
+           }
+          }
+         ]
+        },
+        {
+         "bsin": "JJGQJQW4JS",
+         "bsinProduct": {
+          "featuredSKU": {
+           "skuId": "13289136"
+          },
+          "bsin": "JJGQJQW4JS"
+         },
+         "variations": [
+          {
+           "value": "Willow Green",
+           "rawName": "Desktop_and_Laptop_Computers:Color",
+           "image": {
+            "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/14fa7f94-1317-452f-a2f6-25a3f981a809.png"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "14-dq6105dx"
+      },
+      "publisher": null,
+      "dotComStreetDate": null,
+      "primaryArtists": null,
+      "isNew": false,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": true,
+         "offerId": "57053687",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58125328",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "57911718",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58239381",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "795607",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "799781",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "512227",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "57496210",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "57496936",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "57818522",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": "b13ca3c3-137b-4990-b1de-dc688143151f",
+     "product": {
+      "badges": [
+       {
+        "detailsHref": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "displayName": "Core essentials PC",
+        "endDate": "2028-09-17T04:45Z",
+        "imageHref": null,
+        "sortOrder": 1,
+        "startDate": "2026-09-18T22:30Z",
+        "typeCode": "NA"
+       },
+       {
+        "detailsHref": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "displayName": "Everyday productivity PC",
+        "endDate": "2028-09-17T04:45Z",
+        "imageHref": null,
+        "sortOrder": 2,
+        "startDate": "2026-09-18T22:45Z",
+        "typeCode": "NA"
+       }
+      ],
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://ws.cs.1worldsync.com/afe75039/page/e3af23b796?mf=HP&pn=DK3R7UA#ABA&lang=EN&market=US&host=www.bestbuy.com&nld=2"
+        ]
+       },
+       {
+        "values": [
+         "HP OmniBook 3 14\" Next Gen AI PC",
+         "65 W USB Type-C GaN power adapter",
+         "Setup instructions"
+        ]
+       },
+       {
+        "values": [
+         "HP OmniBook"
+        ]
+       },
+       {
+        "values": [
+         "OEM/Standard"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [
+       {
+        "badgeId": "Core_Essentials_PCs_FY27",
+        "badgeTier": "CampaignOffer",
+        "categoryId": null,
+        "categoryName": null,
+        "description": null,
+        "experienceUrl": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "label": "Core essentials PC",
+        "type": "gandalf",
+        "rank": 0
+       },
+       {
+        "badgeId": "Everyday_productivity_PC_FY27",
+        "badgeTier": "CampaignOffer",
+        "categoryId": null,
+        "categoryName": null,
+        "description": null,
+        "experienceUrl": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "label": "Everyday productivity PC",
+        "type": "gandalf",
+        "rank": 0
+       }
+      ],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "6679355",
+      "bsin": "J3PPH548FC",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-16gb-memory-256gb-ssd-copilot-41-hrs-battery-life1-starlit-blue/J3PPH548FC",
+       "relativePdp": "/product/hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-16gb-memory-256gb-ssd-copilot-41-hrs-battery-life1-starlit-blue/J3PPH548FC",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-16gb-memory-256gb-ssd-copilot-41-hrs-battery-life1-starlit-blue/J3PPH548FC/sku/6679355"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-16gb-memory-256gb-ssd-copilot-41-hrs-battery-life1-starlit-blue/J3PPH548FC",
+       "bsin": "J3PPH548FC",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6679355"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13247722"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.5,
+       "reviewCount": 115,
+       "syndicatedReviewSummary": [
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 4.5454545,
+         "totalReviewCount": 33,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/6679355/syndicatedreviews.htm?sourcename=hp-en"
+        },
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 4.2352943,
+         "totalReviewCount": 17,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/6679355/syndicatedreviews.htm?sourcename=hp"
+        }
+       ],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "HP - OmniBook 3 - 14\" 2K OLED Laptop - Snapdragon X (8-Core CPU) - 16GB Memory - 256GB SSD - Copilot+ - 41+ Hrs Battery Life¹ - Starlit Blue",
+       "title": "OmniBook 3 - 14\" 2K OLED Laptop - Snapdragon X (8-Core CPU) - 16GB Memory - 256GB SSD - Copilot+ - 41+ Hrs Battery Life¹"
+      },
+      "notifyMeEligible": true,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "HP",
+      "brandId": "184",
+      "classification": {
+       "class": {
+        "id": "768"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "6679355",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": [
+          {
+           "code": "0"
+          },
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3eb1afbf-7981-4466-b504-6fecdbde874e.jpg"
+         },
+         "name": {
+          "short": "HP - OmniBook 3 - 14\" 2K OLED Laptop - Snapdragon X (8-Core CPU) - 16GB Memory - 256GB SSD - Copilot+ - 41+ Hrs Battery Life¹ - Starlit Blue"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-16gb-memory-256gb-ssd-copilot-41-hrs-battery-life1-starlit-blue/J3PPH548FC/sku/6679355"
+       },
+       {
+        "type": "Excellent",
+        "skuId": "6679355",
+        "product": {
+         "openBoxCondition": 2,
+         "openBoxOptions": [
+          {
+           "code": "0"
+          },
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 2
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3eb1afbf-7981-4466-b504-6fecdbde874e.jpg"
+         },
+         "name": {
+          "short": "HP - OmniBook 3 - 14\" 2K OLED Laptop - Snapdragon X (8-Core CPU) - 16GB Memory - 256GB SSD - Copilot+ - 41+ Hrs Battery Life¹ - Starlit Blue"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-16gb-memory-256gb-ssd-copilot-41-hrs-battery-life1-starlit-blue/J3PPH548FC/sku/6679355/openbox?condition=excellent"
+       },
+       {
+        "type": "Good",
+        "skuId": "6679355",
+        "product": {
+         "openBoxCondition": 1,
+         "openBoxOptions": [
+          {
+           "code": "0"
+          },
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 1
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3eb1afbf-7981-4466-b504-6fecdbde874e.jpg"
+         },
+         "name": {
+          "short": "HP - OmniBook 3 - 14\" 2K OLED Laptop - Snapdragon X (8-Core CPU) - 16GB Memory - 256GB SSD - Copilot+ - 41+ Hrs Battery Life¹ - Starlit Blue"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-16gb-memory-256gb-ssd-copilot-41-hrs-battery-life1-starlit-blue/J3PPH548FC/sku/6679355/openbox?condition=good"
+       },
+       {
+        "type": "Fair",
+        "skuId": "6679355",
+        "product": {
+         "openBoxCondition": 0,
+         "openBoxOptions": [
+          {
+           "code": "0"
+          },
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 0
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3eb1afbf-7981-4466-b504-6fecdbde874e.jpg"
+         },
+         "name": {
+          "short": "HP - OmniBook 3 - 14\" 2K OLED Laptop - Snapdragon X (8-Core CPU) - 16GB Memory - 256GB SSD - Copilot+ - 41+ Hrs Battery Life¹ - Starlit Blue"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-3-14-2k-oled-laptop-snapdragon-x-8-core-cpu-16gb-memory-256gb-ssd-copilot-41-hrs-battery-life1-starlit-blue/J3PPH548FC/sku/6679355/openbox?condition=fair"
+       }
+      ],
+      "price": {
+       "customerPrice": 499.99,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "6679355",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": [
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58108448",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0.01,
+         "skuId": "6549173"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "636289",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6548823"
+        }
+       ],
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 18,
+        "monthlyPayment": 27.78,
+        "offerId": "887456",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 499.99,
+        "totalCostIncludingTax": 499.99
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 699.99,
+       "showTotalSavings": true,
+       "totalSavings": 200,
+       "totalSavingsPercent": 28,
+       "openBoxSavings": null,
+       "preferredBadging": "BlackFriday",
+       "puckDisplayMessage": "Black Friday Deal",
+       "puckMessageURL": "https://www.bestbuy.com/black-friday",
+       "totalNonPaidMemberSavings": 200,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 499.99,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "1P",
+       "id": "bby"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cPxhdi:qrmf_dFmHP8DMXKWhy88O"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3eb1afbf-7981-4466-b504-6fecdbde874e.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3eb1afbf-7981-4466-b504-6fecdbde874e.jpg",
+       "height": "1667",
+       "altText": "11:11 AM CNAL hp | Snapdragon OMNIBOOK X"
+      },
+      "productVariationListDisplay": {
+       "type": "listDisplay",
+       "variationId": "b13ca3c3-137b-4990-b1de-dc688143151f",
+       "variationTypes": [
+        {
+         "definition": null,
+         "definitionDetails": null,
+         "displayName": "Color",
+         "rawName": "Desktop_and_Laptop_Computers:Color",
+         "sequence": 6
+        }
+       ],
+       "title": "HP - OmniBook 3 - 14\" 2K OLED Laptop - Snapdragon X (8-Core CPU) - 16GB Memory - 256GB SSD - Copilot+ - 41+ Hrs Battery Life¹",
+       "productBsinVariations": [
+        {
+         "bsin": "J3PPHF7KYR",
+         "bsinProduct": {
+          "featuredSKU": {
+           "skuId": "6679354"
+          },
+          "bsin": "J3PPHF7KYR"
+         },
+         "variations": [
+          {
+           "value": "Nouvelle Silver",
+           "rawName": "Desktop_and_Laptop_Computers:Color",
+           "image": {
+            "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/fae454cb-6298-4bcd-b789-f00eb92e2dcc.jpg"
+           }
+          }
+         ]
+        },
+        {
+         "bsin": "J3PPH548FC",
+         "bsinProduct": {
+          "featuredSKU": {
+           "skuId": "6679355"
+          },
+          "bsin": "J3PPH548FC"
+         },
+         "variations": [
+          {
+           "value": "Starlit Blue",
+           "rawName": "Desktop_and_Laptop_Computers:Color",
+           "image": {
+            "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3eb1afbf-7981-4466-b504-6fecdbde874e.jpg"
+           }
+          }
+         ]
+        }
+       ]
+      },
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "14-hz0188dx/DK3R7UA#ABA"
+      },
+      "publisher": null,
+      "dotComStreetDate": null,
+      "primaryArtists": null,
+      "isNew": false,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": true,
+         "offerId": "57053687",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58125328",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "57496936",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58239381",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "799781",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "57911718",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58124809",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "795607",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "885476",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58126938",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": null,
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/83TC0003US?force_cache=40248&pn=https://api.bestbuy.com/click/-/6672160/pdp"
+        ]
+       },
+       {
+        "values": [
+         "Laptop",
+         "User Guide",
+         "65W USB-C Charger"
+        ]
+       },
+       {
+        "values": [
+         "Lenovo Yoga"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "12906575",
+      "bsin": "JJGH36CCZ8",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/lenovo-yoga-7i-2-in-1-14-2k-oled-touchscreen-laptop-core-ultra-5-processor-322-2026-16gb-memory-512gb-storage-luna-grey/JJGH36CCZ8",
+       "relativePdp": "/product/lenovo-yoga-7i-2-in-1-14-2k-oled-touchscreen-laptop-core-ultra-5-processor-322-2026-16gb-memory-512gb-storage-luna-grey/JJGH36CCZ8",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/lenovo-yoga-7i-2-in-1-14-2k-oled-touchscreen-laptop-core-ultra-5-processor-322-2026-16gb-memory-512gb-storage-luna-grey/JJGH36CCZ8/sku/12906575"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/lenovo-yoga-7i-2-in-1-14-2k-oled-touchscreen-laptop-core-ultra-5-processor-322-2026-16gb-memory-512gb-storage-luna-grey/JJGH36CCZ8",
+       "bsin": "JJGH36CCZ8",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12906575"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13214411"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6672160"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13178844"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13066554"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13031411"
+        }
+       ]
+      },
+      "arModels": [
+       {
+        "animated": false,
+        "createDate": "2026-08-03T21:38:36Z",
+        "creator": "EyeKandy",
+        "format": "GLB",
+        "title": "199272689256.glb",
+        "type": "small",
+        "uri": "https://pisces.bbystatic.com/ar-model/199272689256.glb"
+       },
+       {
+        "animated": false,
+        "createDate": "2026-08-03T21:38:38Z",
+        "creator": "EyeKandy",
+        "format": "USDZ",
+        "title": "199272689256.usdz",
+        "type": "small",
+        "uri": "https://pisces.bbystatic.com/ar-model/199272689256.usdz"
+       },
+       {
+        "animated": false,
+        "createDate": "2026-08-03T21:38:40Z",
+        "creator": "EyeKandy",
+        "format": "GLB",
+        "title": "199272689256_draco.glb",
+        "type": "small",
+        "uri": "https://pisces.bbystatic.com/ar-model/199272689256_draco.glb"
+       }
+      ],
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.7,
+       "reviewCount": 158,
+       "syndicatedReviewSummary": [],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "Lenovo - Yoga 7i 2-in-1 14\" 2K OLED Touchscreen Laptop - Core Ultra 5 Processor 322 (2026)- 16GB Memory- 512GB Storage - Luna Grey",
+       "title": "Yoga 7i 2-in-1 14\" 2K OLED Touchscreen Laptop - Core Ultra 5 Processor 322 (2026)- 16GB Memory- 512GB Storage"
+      },
+      "notifyMeEligible": false,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "Lenovo",
+      "brandId": "2153",
+      "classification": {
+       "class": {
+        "id": "770"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "12906575",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": null,
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7a81baa7-2944-4de0-9be1-6862aaea4d1b.jpg"
+         },
+         "name": {
+          "short": "Lenovo - Yoga 7i 2-in-1 14\" 2K OLED Touchscreen Laptop - Core Ultra 5 Processor 322 (2026)- 16GB Memory- 512GB Storage - Luna Grey"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/lenovo-yoga-7i-2-in-1-14-2k-oled-touchscreen-laptop-core-ultra-5-processor-322-2026-16gb-memory-512gb-storage-luna-grey/JJGH36CCZ8/sku/12906575"
+       }
+      ],
+      "price": {
+       "customerPrice": 999,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "12906575",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": null,
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 24,
+        "monthlyPayment": 41.63,
+        "offerId": "887458",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 999,
+        "totalCostIncludingTax": 999
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 1299.99,
+       "showTotalSavings": true,
+       "totalSavings": 300.99,
+       "totalSavingsPercent": 23,
+       "openBoxSavings": null,
+       "preferredBadging": null,
+       "puckDisplayMessage": null,
+       "puckMessageURL": null,
+       "totalNonPaidMemberSavings": 300.99,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 999,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "3P",
+       "id": "2228"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cU9cXZEn_uFeCwDJaz:s9G6hFGKk"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7a81baa7-2944-4de0-9be1-6862aaea4d1b.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7a81baa7-2944-4de0-9be1-6862aaea4d1b.jpg",
+       "height": "3858",
+       "altText": "Series 3  \nIntel Core Ultra 5"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "83TC0003US"
+      },
+      "publisher": null,
+      "dotComStreetDate": "2026-07-31T05:00Z",
+      "primaryArtists": null,
+      "isNew": null,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "887456",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "384913",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    }
+   ]
+  }
+ },
+ "errors": [
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    4,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    2,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    0,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    3,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    1,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    0,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    3,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    1,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    2,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  }
+ ]
+}

@@ -1,0 +1,887 @@
+[
+ {
+  "data": {
+   "productBySkuId": {
+    "buyingOptions": [
+     {
+      "__typename": "InboundBuyingOption",
+      "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-5-14-2k-oled-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-512gb-ssd-smoke-silver/J3KSW748KK/sku/6690109",
+      "type": "New"
+     },
+     {
+      "__typename": "InboundBuyingOption",
+      "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-5-14-2k-oled-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-512gb-ssd-smoke-silver/J3KSW748KK/sku/6690109/openbox?condition=excellent",
+      "type": "Excellent"
+     },
+     {
+      "__typename": "InboundBuyingOption",
+      "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-5-14-2k-oled-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-512gb-ssd-smoke-silver/J3KSW748KK/sku/6690109/openbox?condition=fair",
+      "type": "Fair"
+     }
+    ],
+    "price": {
+     "isEcoRebateEligible": false,
+     "showPriceAssistant": null,
+     "offerRankings": [
+      {
+       "groupName": null,
+       "numberOfGiftCards": null,
+       "offerId": "57053687",
+       "path": "specialOffers[].offerId",
+       "rank": 1,
+       "totalGiftCardAmount": null,
+       "type": "hotOffer"
+      },
+      {
+       "groupName": null,
+       "numberOfGiftCards": null,
+       "offerId": "58125328",
+       "path": "specialOffers[].offerId",
+       "rank": 2,
+       "totalGiftCardAmount": null,
+       "type": "generalOffers"
+      },
+      {
+       "groupName": null,
+       "numberOfGiftCards": null,
+       "offerId": "58124809",
+       "path": "specialOffers[].offerId",
+       "rank": 3,
+       "totalGiftCardAmount": null,
+       "type": "generalOffers"
+      },
+      {
+       "groupName": null,
+       "numberOfGiftCards": null,
+       "offerId": "512227",
+       "path": "specialOffers[].offerId",
+       "rank": 4,
+       "totalGiftCardAmount": null,
+       "type": "generalOffers"
+      },
+      {
+       "groupName": null,
+       "numberOfGiftCards": null,
+       "offerId": "57496210",
+       "path": "specialOffers[].offerId",
+       "rank": 5,
+       "totalGiftCardAmount": null,
+       "type": "generalOffers"
+      },
+      {
+       "groupName": null,
+       "numberOfGiftCards": null,
+       "offerId": "57496936",
+       "path": "specialOffers[].offerId",
+       "rank": 6,
+       "totalGiftCardAmount": null,
+       "type": "generalOffers"
+      },
+      {
+       "groupName": null,
+       "numberOfGiftCards": null,
+       "offerId": "57818522",
+       "path": "specialOffers[].offerId",
+       "rank": 7,
+       "totalGiftCardAmount": null,
+       "type": "generalOffers"
+      },
+      {
+       "groupName": null,
+       "numberOfGiftCards": null,
+       "offerId": "57911718",
+       "path": "specialOffers[].offerId",
+       "rank": 8,
+       "totalGiftCardAmount": null,
+       "type": "generalOffers"
+      },
+      {
+       "groupName": null,
+       "numberOfGiftCards": null,
+       "offerId": "58126938",
+       "path": "specialOffers[].offerId",
+       "rank": 9,
+       "totalGiftCardAmount": null,
+       "type": "generalOffers"
+      },
+      {
+       "groupName": null,
+       "numberOfGiftCards": null,
+       "offerId": "58233716",
+       "path": "specialOffers[].offerId",
+       "rank": 10,
+       "totalGiftCardAmount": null,
+       "type": "generalOffers"
+      },
+      {
+       "groupName": null,
+       "numberOfGiftCards": null,
+       "offerId": null,
+       "path": null,
+       "rank": 11,
+       "totalGiftCardAmount": null,
+       "type": "giftSku"
+      }
+     ],
+     "skuId": "6690109",
+     "customerSelectedDiscountsAvailable": null,
+     "giftSkus": [
+      {
+       "__typename": "ItemPriceGiftSku",
+       "brand": null,
+       "isGiftCard": null,
+       "isRequiredWithOffer": false,
+       "offerId": "58108448",
+       "parentSkus": null,
+       "quantity": 1,
+       "savings": 0.01,
+       "skuId": "6549173"
+      },
+      {
+       "__typename": "ItemPriceGiftSku",
+       "brand": null,
+       "isGiftCard": null,
+       "isRequiredWithOffer": false,
+       "offerId": "479882",
+       "parentSkus": null,
+       "quantity": 1,
+       "savings": 0,
+       "skuId": "6410932"
+      }
+     ],
+     "priceWithCart": null,
+     "experiments": {
+      "membershipCarouselPlacement": null
+     },
+     "whatIfPrice": null,
+     "paymentOptions": [
+      {
+       "numberOfInstallments": 8,
+       "installmentAmount": 93.75,
+       "installmentServiceFee": 0.5,
+       "vendor": "zip",
+       "isDisplayable": true,
+       "type": "BNPL"
+      }
+     ],
+     "heroRenderPriceOptions": "FINANCE_OPTIONS",
+     "financeOption": {
+      "financeTerm": 24,
+      "monthlyPayment": 31.25,
+      "offerId": "887458",
+      "planType": "Deferred",
+      "rate": 0,
+      "totalCost": 749.99,
+      "totalCostIncludingTax": 749.99
+     },
+     "dealExpirationTimeStamp": null,
+     "displayableRegularPrice": 849.99,
+     "showTotalSavings": true,
+     "totalSavings": 100,
+     "totalSavingsPercent": 11,
+     "openBoxSavings": null,
+     "preferredBadging": null,
+     "puckDisplayMessage": null,
+     "puckMessageURL": null,
+     "totalNonPaidMemberSavings": 100,
+     "totalPaidMemberSavings": 0,
+     "mobileContracts": null,
+     "displayableCustomerPrice": 749.99,
+     "icrCode": null,
+     "restrictedPriceDisplayMessage": null,
+     "openBoxCondition": null,
+     "tieredOffersTracking": null,
+     "connectionType": "3",
+     "__typename": "ItemPrice",
+     "rewardCabosAvailable": null,
+     "spendAndGetCabosAvailable": null,
+     "showLeasingOption": true,
+     "isBbyCardMember": null
+    },
+    "skuId": "6690109",
+    "__typename": "Product"
+   }
+  },
+  "errors": []
+ },
+ {
+  "data": {
+   "productBySkuId": {
+    "buyingOptions": [
+     {
+      "__typename": "InboundBuyingOption",
+      "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-5-14-2k-oled-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-512gb-ssd-smoke-silver/J3KSW748KK/sku/6690109",
+      "type": "New"
+     },
+     {
+      "__typename": "InboundBuyingOption",
+      "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-5-14-2k-oled-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-512gb-ssd-smoke-silver/J3KSW748KK/sku/6690109/openbox?condition=excellent",
+      "type": "Excellent"
+     },
+     {
+      "__typename": "InboundBuyingOption",
+      "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-5-14-2k-oled-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-512gb-ssd-smoke-silver/J3KSW748KK/sku/6690109/openbox?condition=fair",
+      "type": "Fair"
+     }
+    ],
+    "price": {
+     "isEcoRebateEligible": false,
+     "showPriceAssistant": null,
+     "offerRankings": [
+      {
+       "groupName": null,
+       "numberOfGiftCards": null,
+       "offerId": null,
+       "path": null,
+       "rank": 1,
+       "totalGiftCardAmount": null,
+       "type": "giftSku"
+      }
+     ],
+     "skuId": "6690109",
+     "customerSelectedDiscountsAvailable": null,
+     "giftSkus": [
+      {
+       "__typename": "ItemPriceGiftSku",
+       "brand": null,
+       "isGiftCard": null,
+       "isRequiredWithOffer": false,
+       "offerId": "479882",
+       "parentSkus": null,
+       "quantity": 1,
+       "savings": 0,
+       "skuId": "6410932"
+      }
+     ],
+     "priceWithCart": null,
+     "experiments": {
+      "membershipCarouselPlacement": null
+     },
+     "whatIfPrice": null,
+     "paymentOptions": [
+      {
+       "numberOfInstallments": 8,
+       "installmentAmount": 83,
+       "installmentServiceFee": 0.5,
+       "vendor": "zip",
+       "isDisplayable": true,
+       "type": "BNPL"
+      }
+     ],
+     "heroRenderPriceOptions": "FINANCE_OPTIONS",
+     "financeOption": {
+      "financeTerm": 18,
+      "monthlyPayment": 36.89,
+      "offerId": "887456",
+      "planType": "Deferred",
+      "rate": 0,
+      "totalCost": 663.99,
+      "totalCostIncludingTax": 663.99
+     },
+     "dealExpirationTimeStamp": null,
+     "displayableRegularPrice": 849.99,
+     "showTotalSavings": true,
+     "totalSavings": 186,
+     "totalSavingsPercent": 21,
+     "openBoxSavings": 86,
+     "preferredBadging": "Open-Box Excellent",
+     "puckDisplayMessage": "Open-Box Excellent",
+     "puckMessageURL": null,
+     "totalNonPaidMemberSavings": 186,
+     "totalPaidMemberSavings": 0,
+     "mobileContracts": null,
+     "displayableCustomerPrice": 663.99,
+     "icrCode": null,
+     "restrictedPriceDisplayMessage": null,
+     "openBoxCondition": 2,
+     "tieredOffersTracking": null,
+     "connectionType": "3",
+     "__typename": "ItemPrice",
+     "rewardCabosAvailable": null,
+     "spendAndGetCabosAvailable": null,
+     "showLeasingOption": true,
+     "isBbyCardMember": null
+    },
+    "skuId": "6690109",
+    "__typename": "Product"
+   }
+  },
+  "errors": []
+ },
+ {
+  "data": {
+   "productBySkuId": {
+    "buyingOptions": [
+     {
+      "__typename": "InboundBuyingOption",
+      "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-5-14-2k-oled-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-512gb-ssd-smoke-silver/J3KSW748KK/sku/6690109",
+      "type": "New"
+     },
+     {
+      "__typename": "InboundBuyingOption",
+      "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-5-14-2k-oled-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-512gb-ssd-smoke-silver/J3KSW748KK/sku/6690109/openbox?condition=excellent",
+      "type": "Excellent"
+     },
+     {
+      "__typename": "InboundBuyingOption",
+      "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-5-14-2k-oled-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-512gb-ssd-smoke-silver/J3KSW748KK/sku/6690109/openbox?condition=fair",
+      "type": "Fair"
+     }
+    ],
+    "price": {
+     "isEcoRebateEligible": null,
+     "showPriceAssistant": null,
+     "offerRankings": null,
+     "skuId": null,
+     "customerSelectedDiscountsAvailable": null,
+     "giftSkus": null,
+     "priceWithCart": null,
+     "experiments": null,
+     "whatIfPrice": null,
+     "paymentOptions": null,
+     "heroRenderPriceOptions": null,
+     "financeOption": null,
+     "dealExpirationTimeStamp": null,
+     "displayableRegularPrice": null,
+     "showTotalSavings": null,
+     "totalSavings": null,
+     "totalSavingsPercent": null,
+     "openBoxSavings": null,
+     "preferredBadging": null,
+     "puckDisplayMessage": null,
+     "puckMessageURL": null,
+     "totalNonPaidMemberSavings": null,
+     "totalPaidMemberSavings": null,
+     "mobileContracts": null,
+     "displayableCustomerPrice": null,
+     "icrCode": null,
+     "restrictedPriceDisplayMessage": null,
+     "openBoxCondition": null,
+     "tieredOffersTracking": null,
+     "connectionType": null,
+     "__typename": "ItemPrice",
+     "rewardCabosAvailable": null,
+     "spendAndGetCabosAvailable": null,
+     "showLeasingOption": null,
+     "isBbyCardMember": null
+    },
+    "skuId": "6690109",
+    "__typename": "Product"
+   }
+  },
+  "errors": [
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "showTotalSavings"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "isEcoRebateEligible"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "rewardCabosAvailable"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "tieredOffersTracking"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "openBoxSavings"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "skuId"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "experiments"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "showPriceAssistant"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "connectionType"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "displayableCustomerPrice"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "displayableRegularPrice"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "preferredBadging"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "icrCode"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "totalSavings"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "puckDisplayMessage"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "financeOption"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "restrictedPriceDisplayMessage"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "offerRankings"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "paymentOptions"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "openBoxCondition"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "puckMessageURL"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "totalSavingsPercent"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "mobileContracts"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "customerSelectedDiscountsAvailable"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "isBbyCardMember"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "whatIfPrice"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "priceWithCart"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "totalNonPaidMemberSavings"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "dealExpirationTimeStamp"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "spendAndGetCabosAvailable"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "totalPaidMemberSavings"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "showLeasingOption"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "heroRenderPriceOptions"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   },
+   {
+    "message": "Error - Internal Server Error",
+    "locations": [],
+    "path": [
+     "productBySkuId",
+     "price",
+     "giftSkus"
+    ],
+    "extensions": {
+     "code": "INTERNAL_SERVER_ERROR"
+    }
+   }
+  ]
+ },
+ {
+  "data": {
+   "productBySkuId": {
+    "buyingOptions": [
+     {
+      "__typename": "InboundBuyingOption",
+      "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-5-14-2k-oled-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-512gb-ssd-smoke-silver/J3KSW748KK/sku/6690109",
+      "type": "New"
+     },
+     {
+      "__typename": "InboundBuyingOption",
+      "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-5-14-2k-oled-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-512gb-ssd-smoke-silver/J3KSW748KK/sku/6690109/openbox?condition=excellent",
+      "type": "Excellent"
+     },
+     {
+      "__typename": "InboundBuyingOption",
+      "pdpUrl": "https://www.bestbuy.com/product/hp-omnibook-5-14-2k-oled-touchscreen-laptop-intel-core-5-series-3-2026-8gb-memory-512gb-ssd-smoke-silver/J3KSW748KK/sku/6690109/openbox?condition=fair",
+      "type": "Fair"
+     }
+    ],
+    "price": {
+     "isEcoRebateEligible": false,
+     "showPriceAssistant": null,
+     "offerRankings": [
+      {
+       "groupName": null,
+       "numberOfGiftCards": null,
+       "offerId": null,
+       "path": null,
+       "rank": 1,
+       "totalGiftCardAmount": null,
+       "type": "giftSku"
+      }
+     ],
+     "skuId": "6690109",
+     "customerSelectedDiscountsAvailable": null,
+     "giftSkus": [
+      {
+       "__typename": "ItemPriceGiftSku",
+       "brand": null,
+       "isGiftCard": null,
+       "isRequiredWithOffer": false,
+       "offerId": "479882",
+       "parentSkus": null,
+       "quantity": 1,
+       "savings": 0,
+       "skuId": "6410932"
+      }
+     ],
+     "priceWithCart": null,
+     "experiments": {
+      "membershipCarouselPlacement": null
+     },
+     "whatIfPrice": null,
+     "paymentOptions": [
+      {
+       "numberOfInstallments": 8,
+       "installmentAmount": 78.25,
+       "installmentServiceFee": 0.5,
+       "vendor": "zip",
+       "isDisplayable": true,
+       "type": "BNPL"
+      }
+     ],
+     "heroRenderPriceOptions": "FINANCE_OPTIONS",
+     "financeOption": {
+      "financeTerm": 18,
+      "monthlyPayment": 34.78,
+      "offerId": "887456",
+      "planType": "Deferred",
+      "rate": 0,
+      "totalCost": 625.99,
+      "totalCostIncludingTax": 625.99
+     },
+     "dealExpirationTimeStamp": null,
+     "displayableRegularPrice": 849.99,
+     "showTotalSavings": true,
+     "totalSavings": 224,
+     "totalSavingsPercent": 26,
+     "openBoxSavings": 124,
+     "preferredBadging": "Open-Box Fair",
+     "puckDisplayMessage": "Open-Box Fair",
+     "puckMessageURL": null,
+     "totalNonPaidMemberSavings": 224,
+     "totalPaidMemberSavings": 0,
+     "mobileContracts": null,
+     "displayableCustomerPrice": 625.99,
+     "icrCode": null,
+     "restrictedPriceDisplayMessage": null,
+     "openBoxCondition": 0,
+     "tieredOffersTracking": null,
+     "connectionType": "3",
+     "__typename": "ItemPrice",
+     "rewardCabosAvailable": null,
+     "spendAndGetCabosAvailable": null,
+     "showLeasingOption": true,
+     "isBbyCardMember": null
+    },
+    "skuId": "6690109",
+    "__typename": "Product"
+   }
+  },
+  "errors": []
+ }
+]

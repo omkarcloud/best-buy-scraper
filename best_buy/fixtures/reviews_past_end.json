@@ -1,0 +1,128 @@
+[
+ {
+  "data": {
+   "productBySkuId": {
+    "skuId": "6668952",
+    "reviewImages": {
+     "images": [
+      {
+       "id": "cdea0275-0abe-3dd1-823b-8b929dcb1ed9",
+       "reviewId": "d1197e05-2f36-3739-9276-3c6684a6f0c4",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/ec1541086eb3edf6a8868e47b1109e85.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/a144c0b4-5fca-5a27-8d76-34de2aac5822",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/d6a59b76-5c15-5ce5-b186-cefca8fd5f6f",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "6b8b99ac-22ad-3023-8b27-9714e07ca788",
+       "reviewId": "4bc6f8fc-35c8-3d7d-9080-18d9314629f2",
+       "url": null,
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/50888755-6ca8-5e3e-89f8-843ad8d74791",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/3395a888-453a-5394-ac0b-680ee825eb0f",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "b3b965e0-c5f2-3a2c-b740-ed7f6bd38213",
+       "reviewId": "8b3a9513-4dc0-39ec-b820-8e931e3529aa",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/3068c257c35059bfc5fa7f1ef69c17eb.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/385309bf-0f22-549a-8ed2-a1102f57c481",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/dad56a43-f36e-58ee-826a-9206badbfa71",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "63404931-7fdd-30e3-a2c2-c1a5301e4ef9",
+       "reviewId": "a5c1a177-4aa1-3188-b17b-9ac191d5cab7",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/4fb09ae1ee2959f0118ec14c67ec68d0.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/f258296b-a1a1-5016-a518-8e7d620cd726",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/a04d3c22-5480-500c-9710-451bd3703d1a",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "cc69e41f-8d64-3585-b172-25abe4e229bb",
+       "reviewId": "247d57bb-1908-3489-b453-74ad7e4eca45",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/fd9916e8afd94dbf860aecc9b245bae1.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/65bf3520-c6af-5ed4-ac40-fbb4ff900e23",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/0ba47b95-1399-56f0-8fe3-64e1139053e7",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "e073346a-a422-3d6a-bb9c-f9992d457bb2",
+       "reviewId": "7f05481f-c341-3f1c-be57-00b3cced7d65",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/fb2150079ab1736a01e7384e3e64dcca.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/6cc0b764-7820-5dd6-9320-1d905cbc9e3c",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/1401efb9-9a4c-598f-be71-58c9bd5186c0",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "9cf4c086-83f3-3093-9fff-62920b8ca13c",
+       "reviewId": "a27d8ef8-ba7a-35eb-bba1-acf12a8a598e",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/ugc/photos/thumbnail/46a928a9c704b2424289b72dfbdfe58f.jpg",
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/1d730d49-029f-5a1c-ba2b-a744d2bc61a3",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/d1003031-f2b1-5abe-9fb6-ce87f0e815f1",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "9f7143e1-faf7-3036-8824-acf5764162cc",
+       "reviewId": "d67fd0cd-2a8c-3c5e-a626-8b66cc34cd4d",
+       "url": null,
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/8402530b-df34-5737-b7e7-df0b321c50c7",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/46f54f95-6eb5-54e6-992a-c4774e3976d9",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "2a6778c3-91bf-3e65-a955-1261b79ec827",
+       "reviewId": "2afd0f96-f482-3262-8746-c67d318e21ff",
+       "url": null,
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/42869bfe-c746-5d92-85f7-8e801c2ec552",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/a677ed8b-29b1-5a45-9edf-f019926c73d5",
+       "__typename": "ProductReviewImageInfo"
+      },
+      {
+       "id": "8751f179-4e64-36d8-bb05-91931f0ca953",
+       "reviewId": "2afd0f96-f482-3262-8746-c67d318e21ff",
+       "url": null,
+       "fallbackUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/6dd864ea-75ac-5a80-8a70-de2f09ea4419",
+       "thumbnailUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YmVzdGJ1eQ/657f2d5b-4149-5a32-ac66-5bcee062d77d",
+       "__typename": "ProductReviewImageInfo"
+      }
+     ],
+     "__typename": "ProductReviewImagesConnection"
+    },
+    "reviews": {
+     "results": [],
+     "totalResults": 434,
+     "__typename": "ProductReviewConnection"
+    },
+    "__typename": "Product",
+    "openBoxCondition": null
+   },
+   "__typename": "Query"
+  },
+  "errors": []
+ },
+ {
+  "data": {
+   "productBySkuId": {
+    "skuId": "6668952",
+    "orderCode": "4",
+    "reviewInfo": {
+     "displayableStats": {
+      "reviewCount": 434,
+      "rating": 4.7,
+      "displayName": null,
+      "syndicated": false,
+      "displayLink": null
+     }
+    },
+    "url": {
+     "relativePdp": "/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+     "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952"
+    },
+    "name": {
+     "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+    }
+   }
+  },
+  "errors": []
+ }
+]

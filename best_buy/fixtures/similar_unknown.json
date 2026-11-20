@@ -1,0 +1,246 @@
+{
+ "data": {
+  "productBySkuId": null,
+  "recommendations": {
+   "subPlacements": null,
+   "__typename": "RecommendationPlacement"
+  },
+  "__typename": "Query"
+ },
+ "errors": [
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "url",
+    "relativePdp"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "skuId"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "specificationGroups"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "description"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "url",
+    "reviewStandaloneUrl"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "name"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "primaryImage"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "reviewInfo",
+    "averageRating"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "reviewInfo",
+    "reviewCount"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "price",
+    "displayableCustomerPrice"
+   ],
+   "extensions": {
+    "code": "INTERNAL_SERVER_ERROR"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "price",
+    "skuId"
+   ],
+   "extensions": {
+    "code": "INTERNAL_SERVER_ERROR"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "price",
+    "icrCode"
+   ],
+   "extensions": {
+    "code": "INTERNAL_SERVER_ERROR"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "reviewInfo",
+    "conFeatures"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "price",
+    "restrictedPriceDisplayMessage"
+   ],
+   "extensions": {
+    "code": "INTERNAL_SERVER_ERROR"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "reviewInfo",
+    "proFeatures"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "price",
+    "openBoxCondition"
+   ],
+   "extensions": {
+    "code": "INTERNAL_SERVER_ERROR"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "price",
+    "tieredOffersTracking"
+   ],
+   "extensions": {
+    "code": "INTERNAL_SERVER_ERROR"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "price",
+    "connectionType"
+   ],
+   "extensions": {
+    "code": "INTERNAL_SERVER_ERROR"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "price",
+    "mobileContracts"
+   ],
+   "extensions": {
+    "code": "INTERNAL_SERVER_ERROR"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "productBySkuId",
+    "orderCode"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  }
+ ]
+}

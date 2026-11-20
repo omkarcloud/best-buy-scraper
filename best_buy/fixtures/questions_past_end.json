@@ -1,0 +1,49 @@
+[
+ {
+  "data": {
+   "productBySkuId": {
+    "skuId": "6668952",
+    "questionInfo": {
+     "aiQuestionCount": 7,
+     "aiAnswerCount": 7,
+     "answeredQuestionCount": 107,
+     "askAQuestionPage": "/site/questions/submission/6668952?campaignId=QA_&return=",
+     "isQnaEnabled": true,
+     "qnaStandalonePage": "/site/questions/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/6668952",
+     "totalAnswerCount": 142,
+     "totalQuestionCount": 137,
+     "aiSummary": "This laptop features a 15.6 inch touchscreen and 16 gigabytes of system memory. It includes 512 GB of SSD storage, which can be upgraded up to 1 TB. The processor has a base speed of 1.7 GHz and a max turbo boost of up to 5.0 GHz. The device includes Wi-Fi 6, Bluetooth, a front facing camera, and a numeric keypad. Connectivity options include three USB ports, an HDMI 1.4 port, and an SD card reader. This unit includes a 1 year Mail In Service warranty."
+    },
+    "questions": {
+     "results": []
+    }
+   }
+  },
+  "errors": []
+ },
+ {
+  "data": {
+   "productBySkuId": {
+    "skuId": "6668952",
+    "orderCode": "4",
+    "reviewInfo": {
+     "displayableStats": {
+      "reviewCount": 434,
+      "rating": 4.7,
+      "displayName": null,
+      "syndicated": false,
+      "displayLink": null
+     }
+    },
+    "url": {
+     "relativePdp": "/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+     "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952"
+    },
+    "name": {
+     "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+    }
+   }
+  },
+  "errors": []
+ }
+]

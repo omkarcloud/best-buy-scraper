@@ -1,0 +1,6418 @@
+{
+ "data": {
+  "siteControlNode": {
+   "nodeData": {
+    "nodeType": "listing",
+    "nodeName": "Windows Laptops",
+    "isDisplayable": true
+   }
+  },
+  "siteControlBrowse": {
+   "pageHeadline": null,
+   "timelineID": null,
+   "nodeData": null
+  },
+  "search": {
+   "findMoreCarouselType": null,
+   "positionToSlotFindMoreCarousel": null,
+   "facets": [
+    {
+     "parentFacetField": null,
+     "displayName": "GIF-Same Day Shipping",
+     "facetDisplay": "true",
+     "facetField": "samedayshippingallcondition_facet",
+     "maxValue": 10,
+     "values": [
+      {
+       "count": 1,
+       "value": "55423",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Current Deals",
+     "facetDisplay": "Yes",
+     "facetField": "currentoffers_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 5,
+       "value": "Black Friday Deal",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 157,
+       "value": "On Sale",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 18,
+       "value": "Clearance",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Price",
+     "facetDisplay": "Yes",
+     "facetField": "currentprice_facet",
+     "maxValue": 15,
+     "values": [
+      {
+       "count": 8,
+       "value": "$250 - $499.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 20,
+       "value": "$500 - $749.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 33,
+       "value": "$750 - $999.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 34,
+       "value": "$1000 - $1249.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 30,
+       "value": "$1250 - $1499.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 61,
+       "value": "$1500 - $1999.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 39,
+       "value": "$2000 - $2499.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 39,
+       "value": "$2500 - $2999.99",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 69,
+       "value": "$3000 and Up",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Condition",
+     "facetDisplay": "Yes",
+     "facetField": "condition_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 478,
+       "value": "New",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12,
+       "value": "Open-Box",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 58,
+       "value": "Refurbished",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": "parent_gpusv_facet",
+     "displayName": "Graphics Processing Unit (GPU)",
+     "facetDisplay": "Yes",
+     "facetField": "gpusv_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 252,
+       "value": "NVIDIA",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce GTX 1660 Ti Max-Q"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 2050"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 3050"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 3050 Ti"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 3080 Ti"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 4050"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 4060"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 4070"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 4080"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 5050"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 5060"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 5070"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 5070 Ti"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 5080"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA GeForce RTX 5090"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA Quadro P1000"
+        },
+        {
+         "categoryPath": null,
+         "value": "NVIDIA RTX A2000"
+        }
+       ]
+      },
+      {
+       "count": 43,
+       "value": "Intel",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Intel Arc"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Arc 140V"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Graphics"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel HD Graphics 520"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel HD Graphics 5300"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Iris Xe Graphics"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel UHD Graphics"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel UHD Graphics 620"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel UHD Graphics 630"
+        }
+       ]
+      },
+      {
+       "count": 32,
+       "value": "AMD",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 660M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 680M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 740M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 780M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 820M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon 8060S"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon RX 6550M"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon RX 7700S"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Radeon Vega 9"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Brand",
+     "facetDisplay": "Yes",
+     "facetField": "brand_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 110,
+       "value": "ASUS",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 79,
+       "value": "Lenovo",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 23,
+       "value": "Acer",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 83,
+       "value": "MSI",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 11,
+       "value": "Microsoft",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 101,
+       "value": "HP",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 43,
+       "value": "GIGABYTE",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 29,
+       "value": "Dell",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 15,
+       "value": "NIMO",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 14,
+       "value": "HP OMEN",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 13,
+       "value": "Alienware",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 9,
+       "value": "Thunderobot",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 5,
+       "value": "RNRUO",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "ACEMAGIC",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Coffee Ostrich",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "System Memory (RAM)",
+     "facetDisplay": "Yes",
+     "facetField": "systemmemoryrange_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 64,
+       "value": "64GB and Up",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 221,
+       "value": "32GB - 48GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 200,
+       "value": "16GB - 24GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 52,
+       "value": "12GB and Under",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Sold & shipped by",
+     "facetDisplay": "Yes",
+     "facetField": "bbyonly_facet",
+     "maxValue": 10,
+     "values": [
+      {
+       "count": 71,
+       "value": "Best Buy",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": "parent_processormodelsv_facet",
+     "displayName": "Processor Model",
+     "facetDisplay": "Yes",
+     "facetField": "processormodelsv_facet",
+     "maxValue": 12,
+     "values": [
+      {
+       "count": 112,
+       "value": "AMD",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 2000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 5000 Series PRO"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 6000 Series PRO"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 7000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 8000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 5 Microsoft Surface Edition"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 1000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 2000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 3000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 6000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 7000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 7 8000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 9 7000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 9 8000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 9 9000 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 100 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen 200 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI 5 300 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI 9 300 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI 300 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI 400 Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI Max Series"
+        },
+        {
+         "categoryPath": null,
+         "value": "AMD Ryzen AI Max+ 300 Series"
+        }
+       ]
+      },
+      {
+       "count": 213,
+       "value": "Intel",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Intel 6th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 8th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 8th Generation Core i7"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 9th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 10th Generation Core i7"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 11th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 11th Generation Core i7"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 12th Generation Core i3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 12th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 12th Generation Core i7"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 12th Generation Core i9"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 13th Generation Core i5"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 13th Generation Core i7"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel 13th Generation Core i9"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 5 Series 1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 5 Series 2"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 7 Series 1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 7 Series 2"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core 9 Series 2"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core i3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core i7 14th Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core i9 14th Generation"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 5 Series 1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 7 Series 1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 7 Series 2"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 7 Series 3"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 9 Series 1"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 9 Series 2"
+        },
+        {
+         "categoryPath": null,
+         "value": "Intel Core Ultra 9 Series 3"
+        }
+       ]
+      },
+      {
+       "count": 8,
+       "value": "Snapdragon",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Snapdragon X"
+        },
+        {
+         "categoryPath": null,
+         "value": "Snapdragon X2 Elite"
+        },
+        {
+         "categoryPath": null,
+         "value": "Snapdragon X Elite"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Display Type",
+     "facetDisplay": "Yes",
+     "facetField": "displaytype_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 63,
+       "value": "OLED",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 133,
+       "value": "LCD",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 100,
+       "value": "LED",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Graphics Type",
+     "facetDisplay": "Yes",
+     "facetField": "graphicstype_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 397,
+       "value": "Dedicated",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 140,
+       "value": "Integrated",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Storage Type",
+     "facetDisplay": "Yes",
+     "facetField": "storagetype_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 537,
+       "value": "SSD",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Total Storage Capacity",
+     "facetDisplay": "Yes",
+     "facetField": "totalstoragecapacityrange_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 4,
+       "value": "Less than 120GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "120 GB - 149 GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 14,
+       "value": "250 GB - 499 GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 137,
+       "value": "500 GB - 999 GB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 243,
+       "value": "1 TB - 1.9 TB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 138,
+       "value": "2 TB and up",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Model Family",
+     "facetDisplay": "Yes",
+     "facetField": "modelfamily_facet",
+     "maxValue": 10,
+     "values": [
+      {
+       "count": 28,
+       "value": "HP Victus",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 22,
+       "value": "ASUS ROG Strix",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 13,
+       "value": "Lenovo Legion",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12,
+       "value": "ASUS ROG Flow",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 11,
+       "value": "ASUS ROG Zephyrus",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 9,
+       "value": "ASUS TUF Gaming",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 9,
+       "value": "ASUS Vivobook Flip",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 9,
+       "value": "MSI Stealth",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 8,
+       "value": "Lenovo Yoga 7i",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7,
+       "value": "Dell Latitude",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7,
+       "value": "MSI Cyborg",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7,
+       "value": "Microsoft Surface Laptop",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 6,
+       "value": "Acer Predator",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 4,
+       "value": "ASUS Vivobook",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 4,
+       "value": "ASUS Vivobook Go",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 4,
+       "value": "HP Elitebook",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "ASUS Vivobook S",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "HP G-Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "MSI Vector",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "Microsoft Surface Laptop Studio",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "ASUS ProArt Studiobook",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "ASUS Zenbook S",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "Dell Precision",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "Lenovo Yoga",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Acer Chromebook Plus",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Alienware x",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Dell G",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Lenovo Yoga 7",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Microsoft Surface Book",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Features",
+     "facetDisplay": "Yes",
+     "facetField": "features_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 537,
+       "value": "Front-Facing Camera",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 464,
+       "value": "Non-Touch Screen",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 309,
+       "value": "Headphone Jack",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 275,
+       "value": "Bluetooth",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 257,
+       "value": "ENERGY STAR Certified",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 242,
+       "value": "Microphone Input",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 228,
+       "value": "Built-In Microphone",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 125,
+       "value": "Numeric Keypad",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 73,
+       "value": "Touch Screen",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 68,
+       "value": "Media Card Reader",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 47,
+       "value": "Windows Copilot+ PC",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 36,
+       "value": "2-in-1 Design",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 11,
+       "value": "Built for Windows Ink",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 10,
+       "value": "4K UHD Display",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 8,
+       "value": "GPS Enabled",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 8,
+       "value": "Lightweight/Portable",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": "parent_operatingsystem_facet",
+     "displayName": "Operating System",
+     "facetDisplay": "Yes",
+     "facetField": "operatingsystem_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 332,
+       "value": "Windows",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Windows 10 Home"
+        },
+        {
+         "categoryPath": null,
+         "value": "Windows 10 Pro"
+        },
+        {
+         "categoryPath": null,
+         "value": "Windows 11 Home"
+        },
+        {
+         "categoryPath": null,
+         "value": "Windows 11 Home in S Mode"
+        },
+        {
+         "categoryPath": null,
+         "value": "Windows 11 Pro"
+        }
+       ]
+      },
+      {
+       "count": 1,
+       "value": "Chrome",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Chrome OS"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Inputs Outputs",
+     "facetDisplay": "Yes",
+     "facetField": "inputsoutputs_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 403,
+       "value": "USB Port(s)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 309,
+       "value": "Headphone Jack",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 176,
+       "value": "Ethernet Ports Input(s)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 126,
+       "value": "Thunderbolt Input(s)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 59,
+       "value": "DisplayPort Output(s)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "VGA Ports Output(s)",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Customer Rating",
+     "facetDisplay": "Yes",
+     "facetField": "customerreviews_facet",
+     "maxValue": 6,
+     "values": [
+      {
+       "count": 104,
+       "value": "Top-Rated",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 52,
+       "value": "5",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 221,
+       "value": "4 & Up",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 236,
+       "value": "3 & Up",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 245,
+       "value": "2 & Up",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 248,
+       "value": "1 & Up",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Screen Resolution",
+     "facetDisplay": "Yes",
+     "facetField": "screenresolutionsv_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 3,
+       "value": "3840 x 2560 (UHD)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7,
+       "value": "3840 x 2400",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "3240 x 2160",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "2944 x 1840",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "2880 x 1800 (Retina)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 14,
+       "value": "2880 x 1800",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "2880 x 1620 (HD)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 187,
+       "value": "2560 x 1600",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 27,
+       "value": "2560 x 1440 (QHD)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "2400 x 1600",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7,
+       "value": "2256 x 1504",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 66,
+       "value": "1920 x 1200 (WUXGA)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 49,
+       "value": "1920 x 1200 (Full HD+)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 141,
+       "value": "1920 x 1080 (Full HD)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12,
+       "value": "1900 x 1200 (WUXGA)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "1366 x 768 (HD)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 14,
+       "value": "1360 x 768 (HD)",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Wireless Networking Standard",
+     "facetDisplay": "Yes",
+     "facetField": "wirelessnetworkstandard_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 134,
+       "value": "Wi-Fi 7",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 68,
+       "value": "Wi-Fi 6E",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 64,
+       "value": "Wi-Fi 6",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 4,
+       "value": "Wi-Fi 5",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Video Memory Capacity",
+     "facetDisplay": "Yes",
+     "facetField": "videomemorycapacitysv_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 10,
+       "value": "24 gigabytes",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 30,
+       "value": "16 gigabytes",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 13,
+       "value": "12 gigabytes",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 120,
+       "value": "8 gigabytes",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 23,
+       "value": "6 gigabytes",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12,
+       "value": "4 gigabytes",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Collection",
+     "facetDisplay": "Yes",
+     "facetField": "collection_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 226,
+       "value": "Gaming Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "Business Series",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Screen Size",
+     "facetDisplay": "Yes",
+     "facetField": "laptopscreensizerange_facet",
+     "maxValue": 10,
+     "values": [
+      {
+       "count": 20,
+       "value": "13.9\" and Under",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 61,
+       "value": "14\" - 14.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 173,
+       "value": "15\"- 15.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 209,
+       "value": "16\"- 16.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 74,
+       "value": "17\" and Up",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Processor Brand",
+     "facetDisplay": "No",
+     "facetField": "processorbrand_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 334,
+       "value": "Intel",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 197,
+       "value": "AMD",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 6,
+       "value": "Snapdragon",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "GPU Brand",
+     "facetDisplay": "No",
+     "facetField": "gpubrand_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 393,
+       "value": "NVIDIA",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 76,
+       "value": "Intel",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 61,
+       "value": "AMD Radeon",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 6,
+       "value": "Snapdragon",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "ARM",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Screen Size",
+     "facetDisplay": "No",
+     "facetField": "laptopscreensizesv_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 20,
+       "value": "12\" - 13.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 234,
+       "value": "14\" - 15.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 283,
+       "value": "16\" or More",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Processor Model",
+     "facetDisplay": "No",
+     "facetField": "sqbprocessormodel_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 102,
+       "value": "Intel Core Ultra 9 Series 2",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 65,
+       "value": "Intel Core i5",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 51,
+       "value": "AMD Ryzen 7",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 47,
+       "value": "AMD Ryzen AI 300 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 39,
+       "value": "Intel Core i7",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 37,
+       "value": "AMD Ryzen 9",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 31,
+       "value": "AMD Ryzen 5",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 29,
+       "value": "Intel Core i7 14th Generation",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 23,
+       "value": "AMD Ryzen 200 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 19,
+       "value": "Intel Core i9 14th Generation",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12,
+       "value": "Intel Core 7 Series 1",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 12,
+       "value": "Intel Core Ultra 9 Series 3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 9,
+       "value": "Intel Core Ultra 7 Series 2",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 8,
+       "value": "Intel Core Ultra 7 Series 3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7,
+       "value": "Intel Core 9 Series 2",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 7,
+       "value": "Intel Core i3",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 6,
+       "value": "Intel Core Ultra 7 Series 1",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 5,
+       "value": "Intel Core 7 Series 2",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 5,
+       "value": "Snapdragon X",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 4,
+       "value": "Intel Core Ultra 9 Series 1",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "Intel Core 5 Series 2",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "AMD Ryzen AI 400 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "AMD Ryzen AI Max+ 300 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "Intel Core Ultra 5 Series 1",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "Intel Core i9",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "Snapdragon X Elite",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "AMD Ryzen 100 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "AMD Ryzen AI 5 300 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "AMD Ryzen AI 9 300 Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "AMD Ryzen AI Max Series",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Intel Core 5 Series 1",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Snapdragon X2 Elite",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Product Categories",
+     "facetDisplay": "No",
+     "facetField": "productcategories_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 537,
+       "value": "abcat0500000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 537,
+       "value": "abcat0502000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 537,
+       "value": "cat00000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 537,
+       "value": "pcmcat138500050001",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 537,
+       "value": "pcmcat247400050000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 339,
+       "value": "abcat0712000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 339,
+       "value": "pcmcat287600050003",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 92,
+       "value": "root",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 88,
+       "value": "pcmcat128500050004",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 80,
+       "value": "pcmcat1488480099525",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 80,
+       "value": "pcmcat1773431785476",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 8,
+       "value": "pcmcat135300050050",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 8,
+       "value": "pcmcat1492808199261",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 8,
+       "value": "pcmcat1492808872042",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 3,
+       "value": "pcmcat1792612228946",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "pcmcat1569442808449",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "SQB Total Storage Capacity",
+     "facetDisplay": "No",
+     "facetField": "sqbtotalstoragecapacity_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 384,
+       "value": "Large (More than 512GB)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 14,
+       "value": "Medium (256GB - 512GB)",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 5,
+       "value": "Small (Less than 256GB)",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Model Format",
+     "facetDisplay": "No",
+     "facetField": "armodelformat_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 100,
+       "value": "GLB",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 100,
+       "value": "USDZ",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    }
+   ],
+   "banners": [],
+   "quickFilters": null,
+   "showCarFitFacet": false,
+   "requestInfo": {
+    "appliedFacets": [
+     {
+      "values": [
+       "pcmcat247400050000"
+      ],
+      "id": "category_facet",
+      "autoFacet": "false"
+     }
+    ],
+    "categoryFacet": {
+     "categoryName": "Windows Laptops",
+     "categoryPath": "pcmcat247400050000"
+    },
+    "sort": {
+     "value": "Best-Match",
+     "displayName": "Best Match"
+    }
+   },
+   "sortOptions": [
+    {
+     "value": "Best-Match",
+     "displayName": "Best Match"
+    },
+    {
+     "value": "Best-Selling",
+     "displayName": "Best Selling"
+    },
+    {
+     "value": "Best-Discount",
+     "displayName": "Best Discount"
+    },
+    {
+     "value": "Price-Low-To-High",
+     "displayName": "Price Low to High"
+    },
+    {
+     "value": "Price-High-To-Low",
+     "displayName": "Price High to Low"
+    },
+    {
+     "value": "Customer-Rating",
+     "displayName": "Customer Rating"
+    },
+    {
+     "value": "New-Arrivals",
+     "displayName": "New Arrivals"
+    }
+   ],
+   "numFound": 333,
+   "showDeliveryFacet": false,
+   "customerFilterContext": [],
+   "track": {
+    "searchTag": "ba26f1fe-87fa-4575-a41a-9784f7768319",
+    "decisions": [
+     {
+      "experience": "QualityRankingRuleExists",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "searchMetricRulePresent",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "aws-east-1",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "autoFacetNotApplied",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "variationNotPresent",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "bestSellingSortNotApplied",
+      "name": "SearchSegment",
+      "type": "Segment"
+     }
+    ],
+    "release": "26.44.15",
+    "relevancyVersion": "1.0",
+    "analyticsData": {
+     "isAutoFilterApplied": false,
+     "isAutofacetApplied": false,
+     "isQueryTaggingApplied": false,
+     "isSpellCheck": false,
+     "recallStrategy": "textMatchOnly",
+     "requestHandler": "bbselect"
+    }
+   },
+   "suggestQueryInfo": {
+    "correctedQuery": null,
+    "correctlySpelled": true
+   },
+   "redirect": null,
+   "relatedSearchTerms": null,
+   "documents": [
+    {
+     "variationId": null,
+     "product": {
+      "badges": [
+       {
+        "detailsHref": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "displayName": "Gaming PC",
+        "endDate": "2028-09-17T04:45Z",
+        "imageHref": null,
+        "sortOrder": 1,
+        "startDate": "2026-09-18T23:00Z",
+        "typeCode": "NA"
+       }
+      ],
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://ws.cs.1worldsync.com/afe75039/page/e3af23b796?mf=HP&pn=BM4X8UA&lang=EN&market=US&host=www.bestbuy.com&nld=2"
+        ]
+       },
+       {
+        "values": [
+         "Gaming Series"
+        ]
+       },
+       {
+        "values": [
+         "Victus 15.6\" Gaming Laptop",
+         "120 W AC power adapter",
+         "Setup instructions"
+        ]
+       },
+       {
+        "values": [
+         "HP Victus"
+        ]
+       },
+       {
+        "values": [
+         "OEM/Standard"
+        ]
+       },
+       {
+        "values": [
+         "Gaming"
+        ]
+       }
+      ],
+      "badgesV2": [
+       {
+        "badgeId": "02_Top_Rated",
+        "badgeTier": null,
+        "categoryId": "pcmcat287600050003",
+        "categoryName": "Gaming Laptops",
+        "description": "Rated 4.5 stars and up by our customers.",
+        "experienceUrl": "/discover/top-rated/top-rated-gaming-laptops/pcmcat287600050003",
+        "label": "Top Rated",
+        "type": "topRated",
+        "rank": 2
+       },
+       {
+        "badgeId": "01_Best_Selling",
+        "badgeTier": null,
+        "categoryId": "pcmcat287600050003",
+        "categoryName": "Gaming Laptops",
+        "description": "One of the category's most frequently purchased items.",
+        "experienceUrl": "/discover/best-selling/best-selling-gaming-laptops/pcmcat287600050003",
+        "label": "Best Selling",
+        "type": "bestSelling",
+        "rank": 1
+       },
+       {
+        "badgeId": "Gaming_PC_FY27",
+        "badgeTier": "CampaignOffer",
+        "categoryId": null,
+        "categoryName": null,
+        "description": null,
+        "experienceUrl": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "label": "Gaming PC",
+        "type": "gandalf",
+        "rank": 0
+       }
+      ],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "6623881",
+      "bsin": "JJGH2L8JVV",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-amd-ryzen-7-7445hs-2023-16gb-memory-nvidia-geforce-rtx-4050-512gb-ssd-mica-silver/JJGH2L8JVV",
+       "relativePdp": "/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-amd-ryzen-7-7445hs-2023-16gb-memory-nvidia-geforce-rtx-4050-512gb-ssd-mica-silver/JJGH2L8JVV",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-amd-ryzen-7-7445hs-2023-16gb-memory-nvidia-geforce-rtx-4050-512gb-ssd-mica-silver/JJGH2L8JVV/sku/6623881"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-amd-ryzen-7-7445hs-2023-16gb-memory-nvidia-geforce-rtx-4050-512gb-ssd-mica-silver/JJGH2L8JVV",
+       "bsin": "JJGH2L8JVV",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6623881"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12660876"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13282883"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10551252"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11296871"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11989650"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10853720"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11487694"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11945863"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11392857"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10397679"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11950950"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13132797"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished good"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6690693"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11790113"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10331694"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10887982"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12903689"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10530617"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11719707"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12684668"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11932798"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10849710"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10763492"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10529551"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10903280"
+        }
+       ]
+      },
+      "arModels": [
+       {
+        "animated": false,
+        "createDate": "2025-06-16T18:36:03Z",
+        "creator": "Hexa",
+        "format": "USDZ",
+        "title": "199251266874.usdz",
+        "type": "small",
+        "uri": "https://pisces.bbystatic.com/ar-model/199251266874.usdz"
+       },
+       {
+        "animated": false,
+        "createDate": "2025-06-16T18:36:05Z",
+        "creator": "Hexa",
+        "format": "GLB",
+        "title": "199251266874_draco.glb",
+        "type": "small",
+        "uri": "https://pisces.bbystatic.com/ar-model/199251266874_draco.glb"
+       }
+      ],
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.7,
+       "reviewCount": 1492,
+       "syndicatedReviewSummary": [
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 4.448276,
+         "totalReviewCount": 29,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/6623881/syndicatedreviews.htm?sourcename=hp"
+        },
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 3.3333333,
+         "totalReviewCount": 6,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/6623881/syndicatedreviews.htm?sourcename=hp-en"
+        }
+       ],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "HP - Victus 15.6\" 144Hz Full HD Gaming Laptop - AMD Ryzen 7 7445HS (2023) - 16GB Memory - NVIDIA GeForce RTX 4050 - 512GB SSD - Mica Silver",
+       "title": "Victus 15.6\" 144Hz Full HD Gaming Laptop - AMD Ryzen 7 7445HS (2023) - 16GB Memory - NVIDIA GeForce RTX 4050 - 512GB SSD"
+      },
+      "notifyMeEligible": false,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "HP",
+      "brandId": "184",
+      "classification": {
+       "class": {
+        "id": "772"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "6623881",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/396dbadc-e2d7-48f9-8e9b-eff6e87a6b1f.jpg"
+         },
+         "name": {
+          "short": "HP - Victus 15.6\" 144Hz Full HD Gaming Laptop - AMD Ryzen 7 7445HS (2023) - 16GB Memory - NVIDIA GeForce RTX 4050 - 512GB SSD - Mica Silver"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-amd-ryzen-7-7445hs-2023-16gb-memory-nvidia-geforce-rtx-4050-512gb-ssd-mica-silver/JJGH2L8JVV/sku/6623881"
+       },
+       {
+        "type": "Excellent",
+        "skuId": "6623881",
+        "product": {
+         "openBoxCondition": 2,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 2
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/396dbadc-e2d7-48f9-8e9b-eff6e87a6b1f.jpg"
+         },
+         "name": {
+          "short": "HP - Victus 15.6\" 144Hz Full HD Gaming Laptop - AMD Ryzen 7 7445HS (2023) - 16GB Memory - NVIDIA GeForce RTX 4050 - 512GB SSD - Mica Silver"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-amd-ryzen-7-7445hs-2023-16gb-memory-nvidia-geforce-rtx-4050-512gb-ssd-mica-silver/JJGH2L8JVV/sku/6623881/openbox?condition=excellent"
+       },
+       {
+        "type": "Good",
+        "skuId": "6623881",
+        "product": {
+         "openBoxCondition": 1,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 1
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/396dbadc-e2d7-48f9-8e9b-eff6e87a6b1f.jpg"
+         },
+         "name": {
+          "short": "HP - Victus 15.6\" 144Hz Full HD Gaming Laptop - AMD Ryzen 7 7445HS (2023) - 16GB Memory - NVIDIA GeForce RTX 4050 - 512GB SSD - Mica Silver"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-amd-ryzen-7-7445hs-2023-16gb-memory-nvidia-geforce-rtx-4050-512gb-ssd-mica-silver/JJGH2L8JVV/sku/6623881/openbox?condition=good"
+       },
+       {
+        "type": "Fair",
+        "skuId": "6623881",
+        "product": {
+         "openBoxCondition": 0,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 0
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/396dbadc-e2d7-48f9-8e9b-eff6e87a6b1f.jpg"
+         },
+         "name": {
+          "short": "HP - Victus 15.6\" 144Hz Full HD Gaming Laptop - AMD Ryzen 7 7445HS (2023) - 16GB Memory - NVIDIA GeForce RTX 4050 - 512GB SSD - Mica Silver"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-amd-ryzen-7-7445hs-2023-16gb-memory-nvidia-geforce-rtx-4050-512gb-ssd-mica-silver/JJGH2L8JVV/sku/6623881/openbox?condition=fair"
+       }
+      ],
+      "price": {
+       "customerPrice": 949.99,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "6623881",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": [
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58107418",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6549159"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58496448",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6595292"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "636289",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6548823"
+        }
+       ],
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 24,
+        "monthlyPayment": 39.59,
+        "offerId": "887458",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 949.99,
+        "totalCostIncludingTax": 949.99
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 1474.99,
+       "showTotalSavings": true,
+       "totalSavings": 525,
+       "totalSavingsPercent": 35,
+       "openBoxSavings": null,
+       "preferredBadging": "BlackFriday",
+       "puckDisplayMessage": "Black Friday Deal",
+       "puckMessageURL": "https://www.bestbuy.com/black-friday",
+       "totalNonPaidMemberSavings": 525,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 949.99,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "1P",
+       "id": "bby"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cU9__KRp6u7enlDr::eUUbVFtax7"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/396dbadc-e2d7-48f9-8e9b-eff6e87a6b1f.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/396dbadc-e2d7-48f9-8e9b-eff6e87a6b1f.jpg",
+       "height": "2000",
+       "altText": "GEFORCE RTX 4050  \nAMD RYZEN 7 7000 SERIES  \n16 GB RAM  \n512 GB SSD"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "15-fb3093dx/BM4X8UA#ABA"
+      },
+      "publisher": null,
+      "dotComStreetDate": null,
+      "primaryArtists": null,
+      "isNew": false,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": true,
+         "offerId": "58125328",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58477962",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "885476",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "512227",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58126938",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58233716",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58239381",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "775653",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "795607",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "808318",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": [
+       {
+        "detailsHref": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "displayName": "Gaming PC",
+        "endDate": "2028-09-17T04:45Z",
+        "imageHref": null,
+        "sortOrder": 1,
+        "startDate": "2026-09-18T23:00Z",
+        "typeCode": "NA"
+       }
+      ],
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://ws.cs.1worldsync.com/afe75039/page/e3af23b796?mf=ASUS&pn=G614PR-G16.R95070TI&lang=EN&market=US&host=www.bestbuy.com&nld=2"
+        ]
+       },
+       {
+        "values": [
+         "Gaming Series"
+        ]
+       },
+       {
+        "values": [
+         "ROG Strix G16 16\" FHD 165Hz Gaming Laptop - AMD Ryzen 9 HX - 16GB RAM - NVIDIA GeForce RTX 5070 Ti - 1TB SSD"
+        ]
+       },
+       {
+        "values": [
+         "ASUS ROG Strix"
+        ]
+       },
+       {
+        "values": [
+         "Gaming"
+        ]
+       }
+      ],
+      "badgesV2": [
+       {
+        "badgeId": "03_Trending_Deals",
+        "badgeTier": null,
+        "categoryId": "pcmcat287600050003",
+        "categoryName": "Gaming Laptops",
+        "description": "This limited time offer has seen a recent spike in sales.",
+        "experienceUrl": "/discover/trending-deals/trending-deals-gaming-laptops/pcmcat287600050003",
+        "label": "Trending Deal",
+        "type": "trendingDeals",
+        "rank": 1
+       },
+       {
+        "badgeId": "Gaming_PC_FY27",
+        "badgeTier": "CampaignOffer",
+        "categoryId": null,
+        "categoryName": null,
+        "description": null,
+        "experienceUrl": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "label": "Gaming PC",
+        "type": "gandalf",
+        "rank": 0
+       }
+      ],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "6613956",
+      "bsin": "JJGGLHJLTS",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/asus-rog-strix-g16-16-fhd-165hz-gaming-laptop-amd-ryzen-9-8940hx-16gb-memory-geforce-rtx-5070-ti-1tb-storage-eclipse-gray/JJGGLHJLTS",
+       "relativePdp": "/product/asus-rog-strix-g16-16-fhd-165hz-gaming-laptop-amd-ryzen-9-8940hx-16gb-memory-geforce-rtx-5070-ti-1tb-storage-eclipse-gray/JJGGLHJLTS",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/asus-rog-strix-g16-16-fhd-165hz-gaming-laptop-amd-ryzen-9-8940hx-16gb-memory-geforce-rtx-5070-ti-1tb-storage-eclipse-gray/JJGGLHJLTS/sku/6613956"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/asus-rog-strix-g16-16-fhd-165hz-gaming-laptop-amd-ryzen-9-8940hx-16gb-memory-geforce-rtx-5070-ti-1tb-storage-eclipse-gray/JJGGLHJLTS",
+       "bsin": "JJGGLHJLTS",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6613956"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10936980"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12692508"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10902668"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11277541"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12542571"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12834617"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12717634"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12646218"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.6,
+       "reviewCount": 502,
+       "syndicatedReviewSummary": [
+        {
+         "clientDisplayName": "bestbuy-ca",
+         "overallRating": 5,
+         "totalReviewCount": 4,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/6613956/syndicatedreviews.htm?sourcename=bestbuy-ca"
+        }
+       ],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "ASUS - ROG Strix G16 16\" FHD 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 16GB Memory - GeForce RTX 5070 Ti - 1TB Storage - Eclipse Gray",
+       "title": "ROG Strix G16 16\" FHD 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 16GB Memory - GeForce RTX 5070 Ti - 1TB Storage"
+      },
+      "notifyMeEligible": true,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "ASUS",
+      "brandId": "30",
+      "classification": {
+       "class": {
+        "id": "772"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "6613956",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": [
+          {
+           "code": "2"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1e76c735-eea8-4fd5-9466-83dc5a1f8fa4.jpg"
+         },
+         "name": {
+          "short": "ASUS - ROG Strix G16 16\" FHD 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 16GB Memory - GeForce RTX 5070 Ti - 1TB Storage - Eclipse Gray"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/asus-rog-strix-g16-16-fhd-165hz-gaming-laptop-amd-ryzen-9-8940hx-16gb-memory-geforce-rtx-5070-ti-1tb-storage-eclipse-gray/JJGGLHJLTS/sku/6613956"
+       },
+       {
+        "type": "Excellent",
+        "skuId": "6613956",
+        "product": {
+         "openBoxCondition": 2,
+         "openBoxOptions": [
+          {
+           "code": "2"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 2
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1e76c735-eea8-4fd5-9466-83dc5a1f8fa4.jpg"
+         },
+         "name": {
+          "short": "ASUS - ROG Strix G16 16\" FHD 165Hz Gaming Laptop - AMD Ryzen 9 8940HX - 16GB Memory - GeForce RTX 5070 Ti - 1TB Storage - Eclipse Gray"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/asus-rog-strix-g16-16-fhd-165hz-gaming-laptop-amd-ryzen-9-8940hx-16gb-memory-geforce-rtx-5070-ti-1tb-storage-eclipse-gray/JJGGLHJLTS/sku/6613956/openbox?condition=excellent"
+       }
+      ],
+      "price": {
+       "customerPrice": 1749.99,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "6613956",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": [
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58107418",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6549159"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58496448",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6595292"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "636289",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6548823"
+        }
+       ],
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 24,
+        "monthlyPayment": 72.92,
+        "offerId": "887458",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 1749.99,
+        "totalCostIncludingTax": 1749.99
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 2299.99,
+       "showTotalSavings": true,
+       "totalSavings": 550,
+       "totalSavingsPercent": 23,
+       "openBoxSavings": null,
+       "preferredBadging": "BlackFriday",
+       "puckDisplayMessage": "Black Friday Deal",
+       "puckMessageURL": "https://www.bestbuy.com/black-friday",
+       "totalNonPaidMemberSavings": 550,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 1749.99,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "1P",
+       "id": "bby"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cTVMG09c4NbZemU3gsmNhDjWKNks"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1e76c735-eea8-4fd5-9466-83dc5a1f8fa4.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1e76c735-eea8-4fd5-9466-83dc5a1f8fa4.jpg",
+       "height": "2500",
+       "altText": "PC GAME PASS DOOM: THE DARK AGES!"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "G614PR-G16.R95070TI"
+      },
+      "publisher": null,
+      "dotComStreetDate": null,
+      "primaryArtists": null,
+      "isNew": false,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": true,
+         "offerId": "864094",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58125328",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "512227",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58018103",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58126938",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58233716",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58477962",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "775653",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "795607",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "808318",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": [
+       {
+        "detailsHref": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "displayName": "Gaming PC",
+        "endDate": "2028-09-17T04:45Z",
+        "imageHref": null,
+        "sortOrder": 1,
+        "startDate": "2026-09-18T23:00Z",
+        "typeCode": "NA"
+       }
+      ],
+      "operationalAttributes": [
+       {
+        "values": [
+         "Gaming Series"
+        ]
+       },
+       {
+        "values": [
+         "GAMING A16 - 16\" 165Hz 1920x1200 WUXGA Intel Core i7-13620H - 1TB SSD- 32GB DDR5 RAM - GeForce RTX 5060"
+        ]
+       },
+       {
+        "values": [
+         "Gaming"
+        ]
+       }
+      ],
+      "badgesV2": [
+       {
+        "badgeId": "Gaming_PC_FY27",
+        "badgeTier": "CampaignOffer",
+        "categoryId": null,
+        "categoryName": null,
+        "description": null,
+        "experienceUrl": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "label": "Gaming PC",
+        "type": "gandalf",
+        "rank": 0
+       }
+      ],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "6632143",
+      "bsin": "J3GWPQC2TJ",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/gigabyte-gaming-a16-16-165hz-1920x1200-wuxga-intel-core-i7-13620h-1tb-ssd-32gb-ddr5-ram-geforce-rtx-5060-black-steel/J3GWPQC2TJ",
+       "relativePdp": "/product/gigabyte-gaming-a16-16-165hz-1920x1200-wuxga-intel-core-i7-13620h-1tb-ssd-32gb-ddr5-ram-geforce-rtx-5060-black-steel/J3GWPQC2TJ",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-16-165hz-1920x1200-wuxga-intel-core-i7-13620h-1tb-ssd-32gb-ddr5-ram-geforce-rtx-5060-black-steel/J3GWPQC2TJ/sku/6632143"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-16-165hz-1920x1200-wuxga-intel-core-i7-13620h-1tb-ssd-32gb-ddr5-ram-geforce-rtx-5060-black-steel/J3GWPQC2TJ",
+       "bsin": "J3GWPQC2TJ",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6632143"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12927940"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13091600"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13055166"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.5,
+       "reviewCount": 139,
+       "syndicatedReviewSummary": [],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "GIGABYTE - GAMING A16 - 16\" 165Hz 1920x1200 WUXGA Intel Core i7-13620H - 1TB SSD - 32GB DDR5 RAM - GeForce RTX 5060 - Black Steel",
+       "title": "GAMING A16 - 16\" 165Hz 1920x1200 WUXGA Intel Core i7-13620H - 1TB SSD - 32GB DDR5 RAM - GeForce RTX 5060"
+      },
+      "notifyMeEligible": true,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "GIGABYTE",
+      "brandId": "41786",
+      "classification": {
+       "class": {
+        "id": "772"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "6632143",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": [
+          {
+           "code": "0"
+          },
+          {
+           "code": "2"
+          },
+          {
+           "code": "1"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/c008152c-994a-438b-852b-53250bda33b1.jpg"
+         },
+         "name": {
+          "short": "GIGABYTE - GAMING A16 - 16\" 165Hz 1920x1200 WUXGA Intel Core i7-13620H - 1TB SSD - 32GB DDR5 RAM - GeForce RTX 5060 - Black Steel"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-16-165hz-1920x1200-wuxga-intel-core-i7-13620h-1tb-ssd-32gb-ddr5-ram-geforce-rtx-5060-black-steel/J3GWPQC2TJ/sku/6632143"
+       },
+       {
+        "type": "Excellent",
+        "skuId": "6632143",
+        "product": {
+         "openBoxCondition": 2,
+         "openBoxOptions": [
+          {
+           "code": "0"
+          },
+          {
+           "code": "2"
+          },
+          {
+           "code": "1"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 2
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/c008152c-994a-438b-852b-53250bda33b1.jpg"
+         },
+         "name": {
+          "short": "GIGABYTE - GAMING A16 - 16\" 165Hz 1920x1200 WUXGA Intel Core i7-13620H - 1TB SSD - 32GB DDR5 RAM - GeForce RTX 5060 - Black Steel"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-16-165hz-1920x1200-wuxga-intel-core-i7-13620h-1tb-ssd-32gb-ddr5-ram-geforce-rtx-5060-black-steel/J3GWPQC2TJ/sku/6632143/openbox?condition=excellent"
+       },
+       {
+        "type": "Good",
+        "skuId": "6632143",
+        "product": {
+         "openBoxCondition": 1,
+         "openBoxOptions": [
+          {
+           "code": "0"
+          },
+          {
+           "code": "2"
+          },
+          {
+           "code": "1"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 1
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/c008152c-994a-438b-852b-53250bda33b1.jpg"
+         },
+         "name": {
+          "short": "GIGABYTE - GAMING A16 - 16\" 165Hz 1920x1200 WUXGA Intel Core i7-13620H - 1TB SSD - 32GB DDR5 RAM - GeForce RTX 5060 - Black Steel"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-16-165hz-1920x1200-wuxga-intel-core-i7-13620h-1tb-ssd-32gb-ddr5-ram-geforce-rtx-5060-black-steel/J3GWPQC2TJ/sku/6632143/openbox?condition=good"
+       },
+       {
+        "type": "Fair",
+        "skuId": "6632143",
+        "product": {
+         "openBoxCondition": 0,
+         "openBoxOptions": [
+          {
+           "code": "0"
+          },
+          {
+           "code": "2"
+          },
+          {
+           "code": "1"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 0
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/c008152c-994a-438b-852b-53250bda33b1.jpg"
+         },
+         "name": {
+          "short": "GIGABYTE - GAMING A16 - 16\" 165Hz 1920x1200 WUXGA Intel Core i7-13620H - 1TB SSD - 32GB DDR5 RAM - GeForce RTX 5060 - Black Steel"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-16-165hz-1920x1200-wuxga-intel-core-i7-13620h-1tb-ssd-32gb-ddr5-ram-geforce-rtx-5060-black-steel/J3GWPQC2TJ/sku/6632143/openbox?condition=fair"
+       }
+      ],
+      "price": {
+       "customerPrice": 1299.99,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "6632143",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": [
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58107418",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6549159"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58496448",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6595292"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "636289",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6548823"
+        }
+       ],
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 24,
+        "monthlyPayment": 54.17,
+        "offerId": "887458",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 1299.99,
+        "totalCostIncludingTax": 1299.99
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 1299.99,
+       "showTotalSavings": true,
+       "totalSavings": 0,
+       "totalSavingsPercent": 0,
+       "openBoxSavings": null,
+       "preferredBadging": null,
+       "puckDisplayMessage": null,
+       "puckMessageURL": null,
+       "totalNonPaidMemberSavings": 0,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 1299.99,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "1P",
+       "id": "bby"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cU9dEremCz8H3aHuKmEubcsKAo_q"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/c008152c-994a-438b-852b-53250bda33b1.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/c008152c-994a-438b-852b-53250bda33b1.jpg",
+       "height": "2000",
+       "altText": "32GB RAM, 1TB STORAGE, 165Hz, Windows 11, Core i7, GeForce RTX, Powering Advanced AI, GIGABYTE"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "GAMING A16 CVHI3US864SH"
+      },
+      "publisher": null,
+      "dotComStreetDate": null,
+      "primaryArtists": null,
+      "isNew": false,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": true,
+         "offerId": "58125328",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "512227",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58126938",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58233716",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58477962",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "775653",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "795607",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "808318",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "821378",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "860068",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": null,
+      "operationalAttributes": [
+       {
+        "values": [
+         "Gaming Series"
+        ]
+       },
+       {
+        "values": [
+         "Victus 15.6\" Gaming Laptop",
+         "120 W AC power adapter",
+         "Setup instructions"
+        ]
+       },
+       {
+        "values": [
+         "HP Victus"
+        ]
+       },
+       {
+        "values": [
+         "OEM/Standard"
+        ]
+       },
+       {
+        "values": [
+         "Gaming"
+        ]
+       }
+      ],
+      "badgesV2": [],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "10894968",
+      "bsin": "JJGQJH2LFP",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-intel-core-i5-13420h-2023-8gb-ram-nvidia-geforce-rtx-3050-512gb-ssd-mica-silver/JJGQJH2LFP",
+       "relativePdp": "/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-intel-core-i5-13420h-2023-8gb-ram-nvidia-geforce-rtx-3050-512gb-ssd-mica-silver/JJGQJH2LFP",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-intel-core-i5-13420h-2023-8gb-ram-nvidia-geforce-rtx-3050-512gb-ssd-mica-silver/JJGQJH2LFP/sku/10894968"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-intel-core-i5-13420h-2023-8gb-ram-nvidia-geforce-rtx-3050-512gb-ssd-mica-silver/JJGQJH2LFP",
+       "bsin": "JJGQJH2LFP",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10894968"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12657353"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11916748"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11033298"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13247750"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12889361"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6618924"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13274560"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10553978"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12629848"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12946050"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13214016"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12032096"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished good"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6690692"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11871431"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12246206"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12903676"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12684665"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10929314"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10551251"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12053587"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10938073"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13282673"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10408334"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10406527"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11445659"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10331695"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12524473"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "10552496"
+        }
+       ]
+      },
+      "arModels": [
+       {
+        "animated": false,
+        "createDate": "2025-06-16T18:35:55Z",
+        "creator": "Hexa",
+        "format": "USDZ",
+        "title": "198990677460.usdz",
+        "type": "small",
+        "uri": "https://pisces.bbystatic.com/ar-model/198990677460.usdz"
+       },
+       {
+        "animated": false,
+        "createDate": "2025-06-16T18:35:57Z",
+        "creator": "Hexa",
+        "format": "GLB",
+        "title": "198990677460_draco.glb",
+        "type": "small",
+        "uri": "https://pisces.bbystatic.com/ar-model/198990677460_draco.glb"
+       }
+      ],
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.5,
+       "reviewCount": 616,
+       "syndicatedReviewSummary": [
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 3.9782608,
+         "totalReviewCount": 46,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/10894968/syndicatedreviews.htm?sourcename=hp"
+        },
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 3.3333333,
+         "totalReviewCount": 3,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/10894968/syndicatedreviews.htm?sourcename=hp-en_ca"
+        }
+       ],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "HP - Victus 15.6\" 144Hz Full HD Gaming Laptop - Intel Core i5 13420H (2023) - 8GB RAM - NVIDIA GeForce RTX 3050 - 512GB SSD - Mica Silver",
+       "title": "Victus 15.6\" 144Hz Full HD Gaming Laptop - Intel Core i5 13420H (2023) - 8GB RAM - NVIDIA GeForce RTX 3050 - 512GB SSD"
+      },
+      "notifyMeEligible": null,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "HP",
+      "brandId": "184",
+      "classification": {
+       "class": {
+        "id": "772"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "10894968",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": null,
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/e70112c8-476c-40fc-ac3c-17aabb2befd1.jpg"
+         },
+         "name": {
+          "short": "HP - Victus 15.6\" 144Hz Full HD Gaming Laptop - Intel Core i5 13420H (2023) - 8GB RAM - NVIDIA GeForce RTX 3050 - 512GB SSD - Mica Silver"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/hp-victus-15-6-144hz-full-hd-gaming-laptop-intel-core-i5-13420h-2023-8gb-ram-nvidia-geforce-rtx-3050-512gb-ssd-mica-silver/JJGQJH2LFP/sku/10894968"
+       }
+      ],
+      "price": {
+       "customerPrice": 775,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "10894968",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": null,
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 24,
+        "monthlyPayment": 32.3,
+        "offerId": "887458",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 775,
+        "totalCostIncludingTax": 775
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 1124.99,
+       "showTotalSavings": true,
+       "totalSavings": 349.99,
+       "totalSavingsPercent": 31,
+       "openBoxSavings": null,
+       "preferredBadging": null,
+       "puckDisplayMessage": null,
+       "puckMessageURL": null,
+       "totalNonPaidMemberSavings": 349.99,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 775,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "3P",
+       "id": "2228"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cTbqSHujfnxPTDQH_IKrV8xTCcEh"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/e70112c8-476c-40fc-ac3c-17aabb2befd1.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/e70112c8-476c-40fc-ac3c-17aabb2befd1.jpg",
+       "height": "2000",
+       "altText": "GEFORCE RTX™ 3050  \nINTEL® CORE™ i5  \n8 GB RAM  \n512 GB SSD"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "15-fa2013dx"
+      },
+      "publisher": null,
+      "dotComStreetDate": "2025-09-30T05:00Z",
+      "primaryArtists": null,
+      "isNew": null,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "887456",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "384913",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": null,
+      "operationalAttributes": [
+       {
+        "values": [
+         "See The Description"
+        ]
+       },
+       {
+        "values": [
+         "Gaming"
+        ]
+       }
+      ],
+      "badgesV2": [],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "11011019",
+      "bsin": "JJGQJRH4W7",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/victus-by-hp-laptop-computer-15-6-fhd-amd-ryzen-7-16-gb-memory-1-tb-ssd-mica-silver/JJGQJRH4W7",
+       "relativePdp": "/product/victus-by-hp-laptop-computer-15-6-fhd-amd-ryzen-7-16-gb-memory-1-tb-ssd-mica-silver/JJGQJRH4W7",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/victus-by-hp-laptop-computer-15-6-fhd-amd-ryzen-7-16-gb-memory-1-tb-ssd-mica-silver/JJGQJRH4W7/sku/11011019"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/victus-by-hp-laptop-computer-15-6-fhd-amd-ryzen-7-16-gb-memory-1-tb-ssd-mica-silver/JJGQJRH4W7",
+       "bsin": "JJGQJRH4W7",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11011019"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13127527"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12356582"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 5,
+       "reviewCount": 1,
+       "syndicatedReviewSummary": [
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 4.448276,
+         "totalReviewCount": 29,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/11011019/syndicatedreviews.htm?sourcename=hp"
+        },
+        {
+         "clientDisplayName": "hp.com",
+         "overallRating": 3.3333333,
+         "totalReviewCount": 6,
+         "displayLink": "https://bestbuy.ugc.bazaarvoice.com/3545syn/11011019/syndicatedreviews.htm?sourcename=hp-en"
+        }
+       ],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "Victus by HP Laptop Computer 15.6\" FHD AMD Ryzen 7 16 GB memory; 1 TB SSD - Mica Silver",
+       "title": "Victus by HP Laptop Computer 15.6\" FHD AMD Ryzen 7 16 GB memory; 1 TB SSD"
+      },
+      "notifyMeEligible": false,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "HP",
+      "brandId": "184",
+      "classification": {
+       "class": {
+        "id": "772"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "11011019",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": null,
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/8e28374c-8d59-4603-89bf-0ac6d63acffe.jpg"
+         },
+         "name": {
+          "short": "Victus by HP Laptop Computer 15.6\" FHD AMD Ryzen 7 16 GB memory; 1 TB SSD - Mica Silver"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/victus-by-hp-laptop-computer-15-6-fhd-amd-ryzen-7-16-gb-memory-1-tb-ssd-mica-silver/JJGQJRH4W7/sku/11011019"
+       }
+      ],
+      "price": {
+       "customerPrice": 1499.99,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "11011019",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": null,
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 24,
+        "monthlyPayment": 62.5,
+        "offerId": "887458",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 1499.99,
+        "totalCostIncludingTax": 1499.99
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 1499.99,
+       "showTotalSavings": true,
+       "totalSavings": 0,
+       "totalSavingsPercent": 0,
+       "openBoxSavings": null,
+       "preferredBadging": null,
+       "puckDisplayMessage": null,
+       "puckMessageURL": null,
+       "totalNonPaidMemberSavings": 0,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 1499.99,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "3P",
+       "id": "2142"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cNnNWGIAJNkAPxiqJdWwaEv57YG9"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/8e28374c-8d59-4603-89bf-0ac6d63acffe.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/8e28374c-8d59-4603-89bf-0ac6d63acffe.jpg",
+       "height": "1275",
+       "altText": "06 APEA Weltome RRAE  \nm HI-FL KSH  \n3G7 A PTIONY PANDELAY VA GAME PASS  \n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "Victus by HP 15.6 inch Gaming"
+      },
+      "publisher": null,
+      "dotComStreetDate": "2025-10-15T05:00Z",
+      "primaryArtists": null,
+      "isNew": null,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "887456",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "384913",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": [
+       {
+        "detailsHref": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "displayName": "Gaming PC",
+        "endDate": "2028-09-17T04:45Z",
+        "imageHref": null,
+        "sortOrder": 1,
+        "startDate": "2026-09-18T23:00Z",
+        "typeCode": "NA"
+       }
+      ],
+      "operationalAttributes": [
+       {
+        "values": [
+         "Gaming Series"
+        ]
+       },
+       {
+        "values": [
+         "GAMING A16 3WHK3US894SH"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [
+       {
+        "badgeId": "Gaming_PC_FY27",
+        "badgeTier": "CampaignOffer",
+        "categoryId": null,
+        "categoryName": null,
+        "description": null,
+        "experienceUrl": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "label": "Gaming PC",
+        "type": "gandalf",
+        "rank": 0
+       }
+      ],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "6675472",
+      "bsin": "J3GWPQC8QP",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/gigabyte-gaming-a16-gaming-laptop-165hz-1920x1200-wuxga-rtx-5070-amd-ryzen-7-260-1tb-ssd-16gb-ddr5-ram-black-steel/J3GWPQC8QP",
+       "relativePdp": "/product/gigabyte-gaming-a16-gaming-laptop-165hz-1920x1200-wuxga-rtx-5070-amd-ryzen-7-260-1tb-ssd-16gb-ddr5-ram-black-steel/J3GWPQC8QP",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-gaming-laptop-165hz-1920x1200-wuxga-rtx-5070-amd-ryzen-7-260-1tb-ssd-16gb-ddr5-ram-black-steel/J3GWPQC8QP/sku/6675472"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-gaming-laptop-165hz-1920x1200-wuxga-rtx-5070-amd-ryzen-7-260-1tb-ssd-16gb-ddr5-ram-black-steel/J3GWPQC8QP",
+       "bsin": "J3GWPQC8QP",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6675472"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.6,
+       "reviewCount": 34,
+       "syndicatedReviewSummary": [],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "GIGABYTE - GAMING A16 Gaming Laptop - 165Hz 1920x1200 WUXGA - RTX 5070 - AMD Ryzen 7 260 - 1TB SSD - 16GB DDR5 RAM - Black Steel",
+       "title": "GAMING A16 Gaming Laptop - 165Hz 1920x1200 WUXGA - RTX 5070 - AMD Ryzen 7 260 - 1TB SSD - 16GB DDR5 RAM"
+      },
+      "notifyMeEligible": true,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "GIGABYTE",
+      "brandId": "41786",
+      "classification": {
+       "class": {
+        "id": "772"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "6675472",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          },
+          {
+           "code": "0"
+          },
+          {
+           "code": "2"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4ce344c4-0c0f-41ea-8520-e8040fef670c.jpg"
+         },
+         "name": {
+          "short": "GIGABYTE - GAMING A16 Gaming Laptop - 165Hz 1920x1200 WUXGA - RTX 5070 - AMD Ryzen 7 260 - 1TB SSD - 16GB DDR5 RAM - Black Steel"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-gaming-laptop-165hz-1920x1200-wuxga-rtx-5070-amd-ryzen-7-260-1tb-ssd-16gb-ddr5-ram-black-steel/J3GWPQC8QP/sku/6675472"
+       },
+       {
+        "type": "Excellent",
+        "skuId": "6675472",
+        "product": {
+         "openBoxCondition": 2,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          },
+          {
+           "code": "0"
+          },
+          {
+           "code": "2"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 2
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4ce344c4-0c0f-41ea-8520-e8040fef670c.jpg"
+         },
+         "name": {
+          "short": "GIGABYTE - GAMING A16 Gaming Laptop - 165Hz 1920x1200 WUXGA - RTX 5070 - AMD Ryzen 7 260 - 1TB SSD - 16GB DDR5 RAM - Black Steel"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-gaming-laptop-165hz-1920x1200-wuxga-rtx-5070-amd-ryzen-7-260-1tb-ssd-16gb-ddr5-ram-black-steel/J3GWPQC8QP/sku/6675472/openbox?condition=excellent"
+       },
+       {
+        "type": "Good",
+        "skuId": "6675472",
+        "product": {
+         "openBoxCondition": 1,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          },
+          {
+           "code": "0"
+          },
+          {
+           "code": "2"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 1
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4ce344c4-0c0f-41ea-8520-e8040fef670c.jpg"
+         },
+         "name": {
+          "short": "GIGABYTE - GAMING A16 Gaming Laptop - 165Hz 1920x1200 WUXGA - RTX 5070 - AMD Ryzen 7 260 - 1TB SSD - 16GB DDR5 RAM - Black Steel"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-gaming-laptop-165hz-1920x1200-wuxga-rtx-5070-amd-ryzen-7-260-1tb-ssd-16gb-ddr5-ram-black-steel/J3GWPQC8QP/sku/6675472/openbox?condition=good"
+       },
+       {
+        "type": "Fair",
+        "skuId": "6675472",
+        "product": {
+         "openBoxCondition": 0,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          },
+          {
+           "code": "0"
+          },
+          {
+           "code": "2"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 0
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4ce344c4-0c0f-41ea-8520-e8040fef670c.jpg"
+         },
+         "name": {
+          "short": "GIGABYTE - GAMING A16 Gaming Laptop - 165Hz 1920x1200 WUXGA - RTX 5070 - AMD Ryzen 7 260 - 1TB SSD - 16GB DDR5 RAM - Black Steel"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-gaming-laptop-165hz-1920x1200-wuxga-rtx-5070-amd-ryzen-7-260-1tb-ssd-16gb-ddr5-ram-black-steel/J3GWPQC8QP/sku/6675472/openbox?condition=fair"
+       }
+      ],
+      "price": {
+       "customerPrice": 1499.99,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "6675472",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": [
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58107418",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6549159"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58496448",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6595292"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "636289",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6548823"
+        }
+       ],
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 24,
+        "monthlyPayment": 62.5,
+        "offerId": "887458",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 1499.99,
+        "totalCostIncludingTax": 1499.99
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 1599.99,
+       "showTotalSavings": true,
+       "totalSavings": 100,
+       "totalSavingsPercent": 6,
+       "openBoxSavings": null,
+       "preferredBadging": "BlackFriday",
+       "puckDisplayMessage": "Black Friday Deal",
+       "puckMessageURL": "https://www.bestbuy.com/black-friday",
+       "totalNonPaidMemberSavings": 100,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 1499.99,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "1P",
+       "id": "bby"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001bKEj86AGGbpEtOahxs4fctU5xXaT"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4ce344c4-0c0f-41ea-8520-e8040fef670c.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4ce344c4-0c0f-41ea-8520-e8040fef670c.jpg",
+       "height": "2000",
+       "altText": "GIGABYTE  \n16GB RAM  \n165Hz  \n1TB STORAGE  \nGAMING  \nAMD Ryzen 7  \nWindows 11  \nNVIDIA GEFORCE RTX"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "GAMING A16 3WHK3US894SH"
+      },
+      "publisher": null,
+      "dotComStreetDate": null,
+      "primaryArtists": null,
+      "isNew": false,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": true,
+         "offerId": "58125328",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "512227",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58126938",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58233716",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58477962",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "775653",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "795607",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "808318",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "821378",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "860068",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": [
+       {
+        "detailsHref": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "displayName": "Gaming PC",
+        "endDate": "2028-09-17T04:45Z",
+        "imageHref": null,
+        "sortOrder": 1,
+        "startDate": "2026-09-18T23:00Z",
+        "typeCode": "NA"
+       }
+      ],
+      "operationalAttributes": [
+       {
+        "values": [
+         "Gaming Series"
+        ]
+       },
+       {
+        "values": [
+         "GAMING A16 5THP3US893SH"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [
+       {
+        "badgeId": "Gaming_PC_FY27",
+        "badgeTier": "CampaignOffer",
+        "categoryId": null,
+        "categoryName": null,
+        "description": null,
+        "experienceUrl": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "label": "Gaming PC",
+        "type": "gandalf",
+        "rank": 0
+       }
+      ],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "6675473",
+      "bsin": "J3GWPQCG5K",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/gigabyte-gaming-a16-gaming-laptop-165hz-1920x1200-wuxga-rtx-5050-amd-ryzen-7-170-512gb-ssd-16gb-ddr5-ram-black-steel/J3GWPQCG5K",
+       "relativePdp": "/product/gigabyte-gaming-a16-gaming-laptop-165hz-1920x1200-wuxga-rtx-5050-amd-ryzen-7-170-512gb-ssd-16gb-ddr5-ram-black-steel/J3GWPQCG5K",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-gaming-laptop-165hz-1920x1200-wuxga-rtx-5050-amd-ryzen-7-170-512gb-ssd-16gb-ddr5-ram-black-steel/J3GWPQCG5K/sku/6675473"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-gaming-laptop-165hz-1920x1200-wuxga-rtx-5050-amd-ryzen-7-170-512gb-ssd-16gb-ddr5-ram-black-steel/J3GWPQCG5K",
+       "bsin": "J3GWPQCG5K",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6675473"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.4,
+       "reviewCount": 34,
+       "syndicatedReviewSummary": [],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "GIGABYTE - GAMING A16 Gaming Laptop - 165Hz 1920x1200 WUXGA - RTX 5050 - AMD Ryzen 7 170- 512GB SSD - 16GB DDR5 RAM - Black Steel",
+       "title": "GAMING A16 Gaming Laptop - 165Hz 1920x1200 WUXGA - RTX 5050 - AMD Ryzen 7 170- 512GB SSD - 16GB DDR5 RAM"
+      },
+      "notifyMeEligible": true,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "GIGABYTE",
+      "brandId": "41786",
+      "classification": {
+       "class": {
+        "id": "772"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "6675473",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/e5bcfc6d-7565-47ec-9ae2-f8f310679944.jpg"
+         },
+         "name": {
+          "short": "GIGABYTE - GAMING A16 Gaming Laptop - 165Hz 1920x1200 WUXGA - RTX 5050 - AMD Ryzen 7 170- 512GB SSD - 16GB DDR5 RAM - Black Steel"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-gaming-laptop-165hz-1920x1200-wuxga-rtx-5050-amd-ryzen-7-170-512gb-ssd-16gb-ddr5-ram-black-steel/J3GWPQCG5K/sku/6675473"
+       },
+       {
+        "type": "Good",
+        "skuId": "6675473",
+        "product": {
+         "openBoxCondition": 1,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 1
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/e5bcfc6d-7565-47ec-9ae2-f8f310679944.jpg"
+         },
+         "name": {
+          "short": "GIGABYTE - GAMING A16 Gaming Laptop - 165Hz 1920x1200 WUXGA - RTX 5050 - AMD Ryzen 7 170- 512GB SSD - 16GB DDR5 RAM - Black Steel"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-gaming-laptop-165hz-1920x1200-wuxga-rtx-5050-amd-ryzen-7-170-512gb-ssd-16gb-ddr5-ram-black-steel/J3GWPQCG5K/sku/6675473/openbox?condition=good"
+       }
+      ],
+      "price": {
+       "customerPrice": 1024.99,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "6675473",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": [
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58107418",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6549159"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58496448",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6595292"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "636289",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6548823"
+        }
+       ],
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 24,
+        "monthlyPayment": 42.71,
+        "offerId": "887458",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 1024.99,
+        "totalCostIncludingTax": 1024.99
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 1099.99,
+       "showTotalSavings": true,
+       "totalSavings": 75,
+       "totalSavingsPercent": 6,
+       "openBoxSavings": null,
+       "preferredBadging": "BlackFriday",
+       "puckDisplayMessage": "Black Friday Deal",
+       "puckMessageURL": "https://www.bestbuy.com/black-friday",
+       "totalNonPaidMemberSavings": 75,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 1024.99,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "1P",
+       "id": "bby"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001bKEj87mFK67iUyfMCPHFxNhIYwKA"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/e5bcfc6d-7565-47ec-9ae2-f8f310679944.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/e5bcfc6d-7565-47ec-9ae2-f8f310679944.jpg",
+       "height": "2000",
+       "altText": "GIGABYTE  \n16GB RAM  \n165Hz  \n512GB STORAGE  \nWindows 11  \nAMD Ryzen 7  \nNVIDIA GeForce RTX  \nGIGABYTE"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "GAMING A16 5THP3US893SH"
+      },
+      "publisher": null,
+      "dotComStreetDate": null,
+      "primaryArtists": null,
+      "isNew": false,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": true,
+         "offerId": "58125328",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "512227",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58126938",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58233716",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58477962",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "775653",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "795607",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "808318",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "821378",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "860068",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": [
+       {
+        "detailsHref": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "displayName": "Gaming PC",
+        "endDate": "2028-09-17T04:45Z",
+        "imageHref": null,
+        "sortOrder": 1,
+        "startDate": "2026-09-18T23:00Z",
+        "typeCode": "NA"
+       }
+      ],
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/6632144?force_cache=20250507000000&pn=https://api.bestbuy.com/click/-/6632144/pdp"
+        ]
+       },
+       {
+        "values": [
+         "Gaming Series"
+        ]
+       },
+       {
+        "values": [
+         "GAMING A16 - 16\" 165Hz 1920x1200 WUXGA Intel Core i7-13620H - 512 GB SSD - 16GB DDR5 RAM - GeForce RTX 4050"
+        ]
+       },
+       {
+        "values": [
+         "Gaming"
+        ]
+       }
+      ],
+      "badgesV2": [
+       {
+        "badgeId": "Gaming_PC_FY27",
+        "badgeTier": "CampaignOffer",
+        "categoryId": null,
+        "categoryName": null,
+        "description": null,
+        "experienceUrl": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "label": "Gaming PC",
+        "type": "gandalf",
+        "rank": 0
+       }
+      ],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "6632144",
+      "bsin": "J3GWPQCCVJ",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/gigabyte-gaming-a16-16-165hz-1920x1200-wuxga-intel-core-i7-13620h-512gb-ssd-16gb-ddr5-ram-geforce-rtx-4050-black-steel/J3GWPQCCVJ",
+       "relativePdp": "/product/gigabyte-gaming-a16-16-165hz-1920x1200-wuxga-intel-core-i7-13620h-512gb-ssd-16gb-ddr5-ram-geforce-rtx-4050-black-steel/J3GWPQCCVJ",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-16-165hz-1920x1200-wuxga-intel-core-i7-13620h-512gb-ssd-16gb-ddr5-ram-geforce-rtx-4050-black-steel/J3GWPQCCVJ/sku/6632144"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-16-165hz-1920x1200-wuxga-intel-core-i7-13620h-512gb-ssd-16gb-ddr5-ram-geforce-rtx-4050-black-steel/J3GWPQCCVJ",
+       "bsin": "J3GWPQCCVJ",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6632144"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11682237"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.5,
+       "reviewCount": 125,
+       "syndicatedReviewSummary": [],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "GIGABYTE - GAMING A16 - 16\" 165Hz 1920x1200 WUXGA Intel Core i7-13620H - 512GB SSD - 16GB DDR5 RAM - GeForce RTX 4050 - Black Steel",
+       "title": "GAMING A16 - 16\" 165Hz 1920x1200 WUXGA Intel Core i7-13620H - 512GB SSD - 16GB DDR5 RAM - GeForce RTX 4050"
+      },
+      "notifyMeEligible": true,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "GIGABYTE",
+      "brandId": "41786",
+      "classification": {
+       "class": {
+        "id": "772"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "6632144",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2f4a7922-b190-4608-b5d0-55d13efe1ef8.jpg"
+         },
+         "name": {
+          "short": "GIGABYTE - GAMING A16 - 16\" 165Hz 1920x1200 WUXGA Intel Core i7-13620H - 512GB SSD - 16GB DDR5 RAM - GeForce RTX 4050 - Black Steel"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-16-165hz-1920x1200-wuxga-intel-core-i7-13620h-512gb-ssd-16gb-ddr5-ram-geforce-rtx-4050-black-steel/J3GWPQCCVJ/sku/6632144"
+       },
+       {
+        "type": "Excellent",
+        "skuId": "6632144",
+        "product": {
+         "openBoxCondition": 2,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 2
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2f4a7922-b190-4608-b5d0-55d13efe1ef8.jpg"
+         },
+         "name": {
+          "short": "GIGABYTE - GAMING A16 - 16\" 165Hz 1920x1200 WUXGA Intel Core i7-13620H - 512GB SSD - 16GB DDR5 RAM - GeForce RTX 4050 - Black Steel"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-16-165hz-1920x1200-wuxga-intel-core-i7-13620h-512gb-ssd-16gb-ddr5-ram-geforce-rtx-4050-black-steel/J3GWPQCCVJ/sku/6632144/openbox?condition=excellent"
+       },
+       {
+        "type": "Good",
+        "skuId": "6632144",
+        "product": {
+         "openBoxCondition": 1,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 1
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2f4a7922-b190-4608-b5d0-55d13efe1ef8.jpg"
+         },
+         "name": {
+          "short": "GIGABYTE - GAMING A16 - 16\" 165Hz 1920x1200 WUXGA Intel Core i7-13620H - 512GB SSD - 16GB DDR5 RAM - GeForce RTX 4050 - Black Steel"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-16-165hz-1920x1200-wuxga-intel-core-i7-13620h-512gb-ssd-16gb-ddr5-ram-geforce-rtx-4050-black-steel/J3GWPQCCVJ/sku/6632144/openbox?condition=good"
+       },
+       {
+        "type": "Fair",
+        "skuId": "6632144",
+        "product": {
+         "openBoxCondition": 0,
+         "openBoxOptions": [
+          {
+           "code": "1"
+          },
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 0
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2f4a7922-b190-4608-b5d0-55d13efe1ef8.jpg"
+         },
+         "name": {
+          "short": "GIGABYTE - GAMING A16 - 16\" 165Hz 1920x1200 WUXGA Intel Core i7-13620H - 512GB SSD - 16GB DDR5 RAM - GeForce RTX 4050 - Black Steel"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-16-165hz-1920x1200-wuxga-intel-core-i7-13620h-512gb-ssd-16gb-ddr5-ram-geforce-rtx-4050-black-steel/J3GWPQCCVJ/sku/6632144/openbox?condition=fair"
+       }
+      ],
+      "price": {
+       "customerPrice": 999.99,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "6632144",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": [
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58107418",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6549159"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58496448",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6595292"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "636289",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6548823"
+        }
+       ],
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 24,
+        "monthlyPayment": 41.67,
+        "offerId": "887458",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 999.99,
+        "totalCostIncludingTax": 999.99
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 1089.99,
+       "showTotalSavings": true,
+       "totalSavings": 90,
+       "totalSavingsPercent": 8,
+       "openBoxSavings": null,
+       "preferredBadging": "BlackFriday",
+       "puckDisplayMessage": "Black Friday Deal",
+       "puckMessageURL": "https://www.bestbuy.com/black-friday",
+       "totalNonPaidMemberSavings": 90,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 999.99,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "1P",
+       "id": "bby"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cBVvY_7ZWelWd9xaK5cfOy_CIXwz"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2f4a7922-b190-4608-b5d0-55d13efe1ef8.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2f4a7922-b190-4608-b5d0-55d13efe1ef8.jpg",
+       "height": "2000",
+       "altText": "16GB RAM, 165Hz, 512GB STORAGE, GIGABYTE, Windows 11, CORE i7, GEFORCE RTX 3050, Powering Advanced AI"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "GAMING A16 CMHI2US893SH"
+      },
+      "publisher": null,
+      "dotComStreetDate": null,
+      "primaryArtists": null,
+      "isNew": false,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "512227",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58125328",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58126938",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58233716",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58477962",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "775653",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "795607",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "808318",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "821378",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "860068",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": null,
+      "operationalAttributes": [
+       {
+        "values": [
+         "Gaming Series"
+        ]
+       },
+       {
+        "values": [
+         "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/12974136?force_cache=22694&pn=https://www.bestbuy.com/product/gigabyte-gaming-a16-pro-gaming-laptop-16-165hz-2560x1600-ips-intel-core-7-240h-1tb-ssd-32gb-lpddr5x-ram-geforce-rtx-5080-titanium-black/J3GWPQCXKC/sku/12974136"
+        ]
+       },
+       {
+        "values": [
+         "GAMING A16 PRO DYHG5USCC4SH"
+        ]
+       },
+       {
+        "values": [
+         "Gaming"
+        ]
+       }
+      ],
+      "badgesV2": [],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "13129187",
+      "bsin": "J3GWPQCXKC",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/gigabyte-gaming-a16-pro-gaming-laptop-16-165hz-2560x1600-ips-intel-core-7-240h-1tb-ssd-32gb-lpddr5x-ram-geforce-rtx-5080-titanium-black/J3GWPQCXKC",
+       "relativePdp": "/product/gigabyte-gaming-a16-pro-gaming-laptop-16-165hz-2560x1600-ips-intel-core-7-240h-1tb-ssd-32gb-lpddr5x-ram-geforce-rtx-5080-titanium-black/J3GWPQCXKC",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-pro-gaming-laptop-16-165hz-2560x1600-ips-intel-core-7-240h-1tb-ssd-32gb-lpddr5x-ram-geforce-rtx-5080-titanium-black/J3GWPQCXKC/sku/13129187"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-pro-gaming-laptop-16-165hz-2560x1600-ips-intel-core-7-240h-1tb-ssd-32gb-lpddr5x-ram-geforce-rtx-5080-titanium-black/J3GWPQCXKC",
+       "bsin": "J3GWPQCXKC",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13129187"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13165112"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13296482"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11300608"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11296916"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11614721"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12646195"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12974136"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 0,
+       "reviewCount": 0,
+       "syndicatedReviewSummary": [],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "GIGABYTE - GAMING A16 PRO Gaming Laptop - 16\" 165Hz 2560x1600 IPS Intel Core 7 240H - 1TB SSD - 32GB LPDDR5X RAM GeForce RTX 5080 - Titanium Black",
+       "title": "GAMING A16 PRO Gaming Laptop - 16\" 165Hz 2560x1600 IPS Intel Core 7 240H - 1TB SSD - 32GB LPDDR5X RAM GeForce RTX 5080"
+      },
+      "notifyMeEligible": false,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "GIGABYTE",
+      "brandId": "41786",
+      "classification": {
+       "class": {
+        "id": "772"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "13129187",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": null,
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5c1ade81-9872-4e29-bf15-f6aa65358f5d.jpg"
+         },
+         "name": {
+          "short": "GIGABYTE - GAMING A16 PRO Gaming Laptop - 16\" 165Hz 2560x1600 IPS Intel Core 7 240H - 1TB SSD - 32GB LPDDR5X RAM GeForce RTX 5080 - Titanium Black"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-pro-gaming-laptop-16-165hz-2560x1600-ips-intel-core-7-240h-1tb-ssd-32gb-lpddr5x-ram-geforce-rtx-5080-titanium-black/J3GWPQCXKC/sku/13129187"
+       }
+      ],
+      "price": {
+       "customerPrice": 2152,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "13129187",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": null,
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 24,
+        "monthlyPayment": 89.67,
+        "offerId": "887458",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 2152,
+        "totalCostIncludingTax": 2152
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 2249,
+       "showTotalSavings": true,
+       "totalSavings": 97,
+       "totalSavingsPercent": 4,
+       "openBoxSavings": null,
+       "preferredBadging": null,
+       "puckDisplayMessage": null,
+       "puckMessageURL": null,
+       "totalNonPaidMemberSavings": 97,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 2152,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "3P",
+       "id": "2228"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cU15z3rIeVJhJc4p6YuuZMoitV59"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5c1ade81-9872-4e29-bf15-f6aa65358f5d.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5c1ade81-9872-4e29-bf15-f6aa65358f5d.jpg",
+       "height": "2000",
+       "altText": "GIGABYTE  \n32GB RAM  \n165Hz  \n1TB STORAGE  \nGAMING  \nWindows 11  \nIntel Core i7  \nGEFORCE RTX  \nPowering Advanced AI"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "GAMING A16 PRO DYHG5USCC4SH"
+      },
+      "publisher": null,
+      "dotComStreetDate": "2026-09-28T05:00Z",
+      "primaryArtists": null,
+      "isNew": null,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "887456",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "384913",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "product": {
+      "badges": null,
+      "operationalAttributes": [
+       {
+        "values": [
+         "Gaming Series"
+        ]
+       },
+       {
+        "values": [
+         "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/12974118?force_cache=22694&pn=https://www.bestbuy.com/product/gigabyte-gaming-a16-pro-gaming-laptop-16-165hz-2560x1600-ips-intel-core-7-240h-1tb-ssd-32gb-lpddr5x-ram-geforce-rtx-5070ti-titanium-black/J3GWPQCXW4"
+        ]
+       },
+       {
+        "values": [
+         "GAMING A16 PRO DXHG4USCC4SH"
+        ]
+       },
+       {
+        "values": [
+         "Gaming"
+        ]
+       }
+      ],
+      "badgesV2": [],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "13142753",
+      "bsin": "J3GWPQCXW4",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/gigabyte-gaming-a16-pro-gaming-laptop-16-165hz-2560x1600-ips-intel-core-7-240h-1tb-ssd-32gb-lpddr5x-ram-geforce-rtx-5070ti-titanium-black/J3GWPQCXW4",
+       "relativePdp": "/product/gigabyte-gaming-a16-pro-gaming-laptop-16-165hz-2560x1600-ips-intel-core-7-240h-1tb-ssd-32gb-lpddr5x-ram-geforce-rtx-5070ti-titanium-black/J3GWPQCXW4",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-pro-gaming-laptop-16-165hz-2560x1600-ips-intel-core-7-240h-1tb-ssd-32gb-lpddr5x-ram-geforce-rtx-5070ti-titanium-black/J3GWPQCXW4/sku/13142753"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-pro-gaming-laptop-16-165hz-2560x1600-ips-intel-core-7-240h-1tb-ssd-32gb-lpddr5x-ram-geforce-rtx-5070ti-titanium-black/J3GWPQCXW4",
+       "bsin": "J3GWPQCXW4",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13142753"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13136629"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11296892"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11615024"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "11300612"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13278726"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12974118"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 0,
+       "reviewCount": 0,
+       "syndicatedReviewSummary": [],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "GIGABYTE - GAMING A16 PRO Gaming Laptop - 16\" 165Hz 2560x1600 IPS Intel Core 7 240H - 1TB SSD - 32GB LPDDR5X RAM GeForce RTX 5070Ti - Titanium Black",
+       "title": "GAMING A16 PRO Gaming Laptop - 16\" 165Hz 2560x1600 IPS Intel Core 7 240H - 1TB SSD - 32GB LPDDR5X RAM GeForce RTX 5070Ti"
+      },
+      "notifyMeEligible": false,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "GIGABYTE",
+      "brandId": "41786",
+      "classification": {
+       "class": {
+        "id": "772"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "13142753",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": null,
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3a3a8aca-6568-4eef-8ee8-b335e5008081.jpg"
+         },
+         "name": {
+          "short": "GIGABYTE - GAMING A16 PRO Gaming Laptop - 16\" 165Hz 2560x1600 IPS Intel Core 7 240H - 1TB SSD - 32GB LPDDR5X RAM GeForce RTX 5070Ti - Titanium Black"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/gigabyte-gaming-a16-pro-gaming-laptop-16-165hz-2560x1600-ips-intel-core-7-240h-1tb-ssd-32gb-lpddr5x-ram-geforce-rtx-5070ti-titanium-black/J3GWPQCXW4/sku/13142753"
+       }
+      ],
+      "price": {
+       "customerPrice": 1869,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "13142753",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": null,
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 24,
+        "monthlyPayment": 77.88,
+        "offerId": "887458",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 1869,
+        "totalCostIncludingTax": 1869
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 1947.69,
+       "showTotalSavings": true,
+       "totalSavings": 78.69,
+       "totalSavingsPercent": 4,
+       "openBoxSavings": null,
+       "preferredBadging": null,
+       "puckDisplayMessage": null,
+       "puckMessageURL": null,
+       "totalNonPaidMemberSavings": 78.69,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 1869,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "3P",
+       "id": "2228"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cU5lLoVuEjQay_1kc:hgh62Q:aTo"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3a3a8aca-6568-4eef-8ee8-b335e5008081.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3a3a8aca-6568-4eef-8ee8-b335e5008081.jpg",
+       "height": "2000",
+       "altText": "GIGABYTE  \n32GB RAM  \n165Hz  \n1TB STORAGE  \nWindows 11  \nIntel Core i7  \nGEFORCE RTX  \nPowering Advanced AI"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "GAMING A16 PRO DXHG4USCC4SH"
+      },
+      "publisher": null,
+      "dotComStreetDate": "2026-10-01T05:00Z",
+      "primaryArtists": null,
+      "isNew": null,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "887456",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "384913",
+         "offerType": "Financing",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    }
+   ]
+  },
+  "productCategory": {
+   "broaderTerms": {
+    "primaryLineage": [
+     {
+      "id": "pcmcat138500050001",
+      "name": "All Laptops",
+      "seoUrl": "https://www.bestbuy.com/site/laptop-computers/all-laptops/pcmcat138500050001.c?id=pcmcat138500050001"
+     },
+     {
+      "id": "abcat0502000",
+      "name": "Laptops",
+      "seoUrl": "https://www.bestbuy.com/site/computers-pcs/laptop-computers/abcat0502000.c?id=abcat0502000"
+     },
+     {
+      "id": "abcat0500000",
+      "name": "Computers & Tablets",
+      "seoUrl": "https://www.bestbuy.com/site/electronics/computers-pcs/abcat0500000.c?id=abcat0500000"
+     },
+     {
+      "id": "cat00000",
+      "name": "Best Buy",
+      "seoUrl": "https://www.bestbuy.com/"
+     }
+    ]
+   },
+   "id": "pcmcat247400050000",
+   "name": "Windows Laptops",
+   "seoUrl": "https://www.bestbuy.com/site/all-laptops/pc-laptops/pcmcat247400050000.c?id=pcmcat247400050000",
+   "narrowerTerms": [
+    {
+     "endDate": null,
+     "id": "pcmcat1715801616808",
+     "name": "Windows Copilot+ PCs Laptops",
+     "seoUrl": "https://www.bestbuy.com/site/laptop-computers/windows-copilot-pc-laptops/pcmcat1715801616808.c?id=pcmcat1715801616808",
+     "startDate": "2024-05-20T05:00Z"
+    },
+    {
+     "endDate": null,
+     "id": "pcmcat1706892316602",
+     "name": "Touchscreen Windows Laptops",
+     "seoUrl": "https://www.bestbuy.com/site/pc-laptops/touch-screen-windows-laptops/pcmcat1706892316602.c?id=pcmcat1706892316602",
+     "startDate": "2024-02-28T06:00Z"
+    },
+    {
+     "endDate": null,
+     "id": "pcmcat1706891108519",
+     "name": "2-in-1 Windows Laptops",
+     "seoUrl": "https://www.bestbuy.com/site/pc-laptops/2-in-1-windows-laptops/pcmcat1706891108519.c?id=pcmcat1706891108519",
+     "startDate": "2024-02-28T06:00Z"
+    },
+    {
+     "endDate": null,
+     "id": "pcmcat1706891939379",
+     "name": "Refurbished Windows Laptops",
+     "seoUrl": "https://www.bestbuy.com/site/refurbished-laptops/refurbished-windows-laptops/pcmcat1706891939379.c?id=pcmcat1706891939379",
+     "startDate": "2024-02-28T06:00Z"
+    }
+   ]
+  }
+ },
+ "errors": [
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "siteControlBrowse",
+    "pageHeadline"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "siteControlBrowse",
+    "timelineID"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "siteControlBrowse",
+    "nodeData"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    2,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    5,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    0,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    6,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    1,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    7,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    8,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    9,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    3,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    4,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    7,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    9,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    1,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    6,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    8,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    4,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    5,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    2,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  }
+ ]
+}

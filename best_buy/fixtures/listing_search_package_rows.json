@@ -1,0 +1,1415 @@
+{
+ "data": {
+  "search": {
+   "findMoreCarouselType": null,
+   "positionToSlotFindMoreCarousel": null,
+   "facets": [
+    {
+     "parentFacetField": null,
+     "displayName": "GIF-Same Day Shipping",
+     "facetDisplay": "true",
+     "facetField": "samedayshippingallcondition_facet",
+     "maxValue": 10,
+     "values": [
+      {
+       "count": 1,
+       "value": "55423",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Current Deals",
+     "facetDisplay": "Yes",
+     "facetField": "currentoffers_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1,
+       "value": "Black Friday Deal",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "On Sale",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Package Deals",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Price",
+     "facetDisplay": "Yes",
+     "facetField": "currentprice_facet",
+     "maxValue": 15,
+     "values": [
+      {
+       "count": 2,
+       "value": "$500 - $749.99",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Brand",
+     "facetDisplay": "Yes",
+     "facetField": "brand_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 2,
+       "value": "Dell",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Microsoft",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Features",
+     "facetDisplay": "Yes",
+     "facetField": "features_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1,
+       "value": "Bluetooth",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Built-In Microphone",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "ENERGY STAR Certified",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Front-Facing Camera",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Headphone Jack",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Media Card Reader",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Microphone Input",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Numeric Keypad",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Touch Screen",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": "parent_operatingsystem_facet",
+     "displayName": "Operating System",
+     "facetDisplay": "Yes",
+     "facetField": "operatingsystem_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1,
+       "value": "Windows",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Windows 11 Home"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Inputs Outputs",
+     "facetDisplay": "Yes",
+     "facetField": "inputsoutputs_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 2,
+       "value": "Headphone Jack",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "USB Port(s)",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": "parent_gpusv_facet",
+     "displayName": "Graphics Processing Unit (GPU)",
+     "facetDisplay": "Yes",
+     "facetField": "gpusv_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1,
+       "value": "Intel",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Intel UHD Graphics"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Display Type",
+     "facetDisplay": "Yes",
+     "facetField": "displaytype_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1,
+       "value": "LED",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Customer Rating",
+     "facetDisplay": "Yes",
+     "facetField": "customerreviews_facet",
+     "maxValue": 6,
+     "values": [
+      {
+       "count": 2,
+       "value": "Top-Rated",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "4 & Up",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "3 & Up",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "2 & Up",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "1 & Up",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Wireless Networking Standard",
+     "facetDisplay": "Yes",
+     "facetField": "wirelessnetworkstandard_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1,
+       "value": "Wi-Fi 6",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Graphics Type",
+     "facetDisplay": "Yes",
+     "facetField": "graphicstype_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1,
+       "value": "Integrated",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Condition",
+     "facetDisplay": "Yes",
+     "facetField": "condition_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 2,
+       "value": "New",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "Open-Box",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Screen Resolution",
+     "facetDisplay": "Yes",
+     "facetField": "screenresolutionsv_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 2,
+       "value": "1920 x 1080 (Full HD)",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Storage Type",
+     "facetDisplay": "Yes",
+     "facetField": "storagetype_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1,
+       "value": "SSD",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": "parent_processormodelsv_facet",
+     "displayName": "Processor Model",
+     "facetDisplay": "Yes",
+     "facetField": "processormodelsv_facet",
+     "maxValue": 12,
+     "values": [
+      {
+       "count": 2,
+       "value": "Intel",
+       "categoryPath": null,
+       "nestedValues": [
+        {
+         "categoryPath": null,
+         "value": "Intel 13th Generation Core i7"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Sold & shipped by",
+     "facetDisplay": "Yes",
+     "facetField": "bbyonly_facet",
+     "maxValue": 10,
+     "values": [
+      {
+       "count": 2,
+       "value": "Best Buy",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "System Memory (RAM)",
+     "facetDisplay": "Yes",
+     "facetField": "systemmemoryrange_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1,
+       "value": "16GB - 24GB",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Screen Size",
+     "facetDisplay": "Yes",
+     "facetField": "laptopscreensizerange_facet",
+     "maxValue": 10,
+     "values": [
+      {
+       "count": 2,
+       "value": "15\"- 15.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Total Storage Capacity",
+     "facetDisplay": "Yes",
+     "facetField": "totalstoragecapacityrange_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1,
+       "value": "500 GB - 999 GB",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Processor Brand",
+     "facetDisplay": "No",
+     "facetField": "processorbrand_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1,
+       "value": "Intel",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "GPU Brand",
+     "facetDisplay": "No",
+     "facetField": "gpubrand_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1,
+       "value": "Intel",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Processor Model",
+     "facetDisplay": "No",
+     "facetField": "sqbprocessormodel_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1,
+       "value": "Intel Core i7",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Product Categories",
+     "facetDisplay": "No",
+     "facetField": "productcategories_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 2,
+       "value": "abcat0500000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "abcat0502000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "cat00000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "pcmcat138500050001",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 2,
+       "value": "pcmcat247400050000",
+       "categoryPath": null,
+       "nestedValues": null
+      },
+      {
+       "count": 1,
+       "value": "root",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    },
+    {
+     "parentFacetField": null,
+     "displayName": "Screen Size",
+     "facetDisplay": "No",
+     "facetField": "laptopscreensizesv_facet",
+     "maxValue": 8,
+     "values": [
+      {
+       "count": 1,
+       "value": "14\" - 15.9\"",
+       "categoryPath": null,
+       "nestedValues": null
+      }
+     ]
+    }
+   ],
+   "banners": [],
+   "quickFilters": null,
+   "showCarFitFacet": false,
+   "requestInfo": {
+    "appliedFacets": [],
+    "categoryFacet": null,
+    "sort": {
+     "value": "Best-Match",
+     "displayName": "Best Match"
+    }
+   },
+   "sortOptions": [
+    {
+     "value": "Best-Match",
+     "displayName": "Best Match"
+    },
+    {
+     "value": "Best-Selling",
+     "displayName": "Best Selling"
+    },
+    {
+     "value": "Best-Discount",
+     "displayName": "Best Discount"
+    },
+    {
+     "value": "Price-Low-To-High",
+     "displayName": "Price Low to High"
+    },
+    {
+     "value": "Price-High-To-Low",
+     "displayName": "Price High to Low"
+    },
+    {
+     "value": "Customer-Rating",
+     "displayName": "Customer Rating"
+    },
+    {
+     "value": "New-Arrivals",
+     "displayName": "New Arrivals"
+    }
+   ],
+   "numFound": 2,
+   "showDeliveryFacet": false,
+   "customerFilterContext": [],
+   "track": {
+    "searchTag": "c2fccfb4-db6b-4c05-9f75-fe22f98331fb",
+    "decisions": [
+     {
+      "experience": "NoGoodQualityRankingRule",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "searchMetricRuleAbsent",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "aws-east-1",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "autoFacetNotApplied",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "variationNotPresent",
+      "name": "SearchSegment",
+      "type": "Segment"
+     },
+     {
+      "experience": "bestSellingSortNotApplied",
+      "name": "SearchSegment",
+      "type": "Segment"
+     }
+    ],
+    "release": "26.44.15",
+    "relevancyVersion": "1.0",
+    "analyticsData": {
+     "isAutoFilterApplied": false,
+     "isAutofacetApplied": false,
+     "isQueryTaggingApplied": false,
+     "isSpellCheck": false,
+     "recallStrategy": "textMatchOnly",
+     "requestHandler": "bbselect"
+    }
+   },
+   "suggestQueryInfo": {
+    "correctedQuery": null,
+    "correctlySpelled": true
+   },
+   "redirect": null,
+   "relatedSearchTerms": null,
+   "primaryDocument": {
+    "isTermMatch": false,
+    "isBrMatch": false,
+    "skuId": "6668952",
+    "product": {
+     "skuId": "6668952",
+     "hierarchy": {
+      "bbypres": [
+       {
+        "id": "pcmcat247400050000",
+        "primary": true,
+        "href": "https://data.bestbuy.com/v2/hierarchy/bbypres/id/pcmcat247400050000",
+        "categoryDetail": {
+         "name": "Windows Laptops",
+         "id": "pcmcat247400050000",
+         "hierarchyId": "bbypres",
+         "seoUrl": "https://www.bestbuy.com/site/all-laptops/pc-laptops/pcmcat247400050000.c?id=pcmcat247400050000",
+         "broaderTerms": {
+          "primaryLineage": [
+           {
+            "name": "All Laptops",
+            "seoUrl": "https://www.bestbuy.com/site/laptop-computers/all-laptops/pcmcat138500050001.c?id=pcmcat138500050001",
+            "id": "pcmcat138500050001",
+            "sequence": 0
+           },
+           {
+            "name": "Laptops",
+            "seoUrl": "https://www.bestbuy.com/site/computers-pcs/laptop-computers/abcat0502000.c?id=abcat0502000",
+            "id": "abcat0502000",
+            "sequence": 1
+           },
+           {
+            "name": "Computers & Tablets",
+            "seoUrl": "https://www.bestbuy.com/site/electronics/computers-pcs/abcat0500000.c?id=abcat0500000",
+            "id": "abcat0500000",
+            "sequence": 2
+           },
+           {
+            "name": "Best Buy",
+            "seoUrl": "https://www.bestbuy.com/",
+            "id": "cat00000",
+            "sequence": 3
+           }
+          ]
+         }
+        }
+       },
+       {
+        "id": "pcmcat138500050001",
+        "primary": false,
+        "href": "https://data.bestbuy.com/v2/hierarchy/bbypres/id/pcmcat138500050001",
+        "categoryDetail": {
+         "name": "All Laptops",
+         "id": "pcmcat138500050001",
+         "hierarchyId": "bbypres",
+         "seoUrl": "https://www.bestbuy.com/site/laptop-computers/all-laptops/pcmcat138500050001.c?id=pcmcat138500050001",
+         "broaderTerms": {
+          "primaryLineage": [
+           {
+            "name": "Laptops",
+            "seoUrl": "https://www.bestbuy.com/site/computers-pcs/laptop-computers/abcat0502000.c?id=abcat0502000",
+            "id": "abcat0502000",
+            "sequence": 0
+           },
+           {
+            "name": "Computers & Tablets",
+            "seoUrl": "https://www.bestbuy.com/site/electronics/computers-pcs/abcat0500000.c?id=abcat0500000",
+            "id": "abcat0500000",
+            "sequence": 1
+           },
+           {
+            "name": "Best Buy",
+            "seoUrl": "https://www.bestbuy.com/",
+            "id": "cat00000",
+            "sequence": 2
+           }
+          ]
+         }
+        }
+       }
+      ]
+     },
+     "price": {
+      "currentPrice": 599.99
+     },
+     "openBoxCondition": null
+    }
+   },
+   "documents": [
+    {
+     "variationId": null,
+     "product": {
+      "badges": [
+       {
+        "detailsHref": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "displayName": "Core essentials PC",
+        "endDate": "2028-09-17T04:45Z",
+        "imageHref": null,
+        "sortOrder": 1,
+        "startDate": "2026-09-18T22:30Z",
+        "typeCode": "NA"
+       }
+      ],
+      "operationalAttributes": [
+       {
+        "values": [
+         "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/6668952?force_cache=20260318000000&pn=https://api.bestbuy.com/click/-/6668952/pdp"
+        ]
+       },
+       {
+        "values": [
+         "https://ws.cs.1worldsync.com/afe75039/page/e3af23b796?mf=DELL&pn=LDC15250-7427BLK-PUS&lang=EN&market=US&host=www.bestbuy.com&nld=3"
+        ]
+       },
+       {
+        "values": [
+         "Dell DC15250"
+        ]
+       },
+       {
+        "values": [
+         "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/13th_Gen_Intel_Core_i7_Consumer_Mobile?force_cache=14940&pn=https://api.bestbuy.com/click/-/6668952/pdp"
+        ]
+       },
+       {
+        "values": [
+         "Dell 15 DC15250",
+         "65 Watt AC Adapter",
+         "US Power Cord",
+         "Documents"
+        ]
+       },
+       {
+        "values": [
+         "General purpose"
+        ]
+       }
+      ],
+      "badgesV2": [
+       {
+        "badgeId": "Core_Essentials_PCs_FY27",
+        "badgeTier": "CampaignOffer",
+        "categoryId": null,
+        "categoryName": null,
+        "description": null,
+        "experienceUrl": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+        "label": "Core essentials PC",
+        "type": "gandalf",
+        "rank": 0
+       }
+      ],
+      "whatItIs": [
+       "Laptop Computer"
+      ],
+      "skuId": "6668952",
+      "bsin": "J3K4L6QW5C",
+      "openBoxCondition": null,
+      "condition": {
+       "type": "new"
+      },
+      "url": {
+       "pdp": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "relativePdp": "/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "skuSpecificUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952"
+      },
+      "parentalAdvisory": null,
+      "bsinProduct": {
+       "seoPdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+       "bsin": "J3K4L6QW5C",
+       "products": [
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "1P"
+         },
+         "skuId": "6668952"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12575317"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12750857"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12723428"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12605032"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13025298"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12601023"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12693339"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13276613"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12860179"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12706180"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12618853"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "13168165"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "new"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12581926"
+        },
+        {
+         "openBoxCondition": null,
+         "condition": {
+          "type": "refurbished excellent"
+         },
+         "seller": {
+          "classification": "3P"
+         },
+         "skuId": "12618856"
+        }
+       ]
+      },
+      "arModels": null,
+      "orderCode": "4",
+      "reviewInfo": {
+       "averageRating": 4.7,
+       "reviewCount": 434,
+       "syndicatedReviewSummary": [],
+       "isReviewable": true
+      },
+      "name": {
+       "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black",
+       "title": "15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage"
+      },
+      "notifyMeEligible": true,
+      "dotComDisplayStatus": "active",
+      "fulfillmentOptions": null,
+      "brand": "Dell",
+      "brandId": "2091",
+      "classification": {
+       "class": {
+        "id": "768"
+       }
+      },
+      "isSmallMediumBusiness": null,
+      "releaseDateDisplayValue": null,
+      "streetDateDisplay": "show",
+      "eligibleGatedEventCustomerSegments": null,
+      "isConstrainedHighVelocity": false,
+      "inStoreServiceType": null,
+      "buyingOptions": [
+       {
+        "type": "New",
+        "skuId": "6668952",
+        "product": {
+         "openBoxCondition": null,
+         "openBoxOptions": [
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          },
+          {
+           "code": "1"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": null
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7f4ab98f-7332-4e52-a474-70cb1c990d27.jpg"
+         },
+         "name": {
+          "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952"
+       },
+       {
+        "type": "Excellent",
+        "skuId": "6668952",
+        "product": {
+         "openBoxCondition": 2,
+         "openBoxOptions": [
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          },
+          {
+           "code": "1"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 2
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7f4ab98f-7332-4e52-a474-70cb1c990d27.jpg"
+         },
+         "name": {
+          "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952/openbox?condition=excellent"
+       },
+       {
+        "type": "Good",
+        "skuId": "6668952",
+        "product": {
+         "openBoxCondition": 1,
+         "openBoxOptions": [
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          },
+          {
+           "code": "1"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 1
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7f4ab98f-7332-4e52-a474-70cb1c990d27.jpg"
+         },
+         "name": {
+          "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952/openbox?condition=good"
+       },
+       {
+        "type": "Fair",
+        "skuId": "6668952",
+        "product": {
+         "openBoxCondition": 0,
+         "openBoxOptions": [
+          {
+           "code": "2"
+          },
+          {
+           "code": "0"
+          },
+          {
+           "code": "1"
+          }
+         ],
+         "inStoreServiceType": null,
+         "price": {
+          "openBoxCondition": 0
+         },
+         "primaryImage": {
+          "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7f4ab98f-7332-4e52-a474-70cb1c990d27.jpg"
+         },
+         "name": {
+          "short": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+         }
+        },
+        "pdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C/sku/6668952/openbox?condition=fair"
+       }
+      ],
+      "price": {
+       "customerPrice": 599.99,
+       "mobileContracts": null,
+       "isEcoRebateEligible": false,
+       "showPlusOffers": true,
+       "skuId": "6668952",
+       "customerSelectedDiscountsAvailable": null,
+       "giftSkus": [
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "58108448",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0.01,
+         "skuId": "6549173"
+        },
+        {
+         "__typename": "ItemPriceGiftSku",
+         "brand": null,
+         "isGiftCard": null,
+         "isRequiredWithOffer": false,
+         "offerId": "636289",
+         "parentSkus": null,
+         "quantity": 1,
+         "savings": 0,
+         "skuId": "6548823"
+        }
+       ],
+       "priceWithCart": null,
+       "experiments": {
+        "membershipCarouselPlacement": null
+       },
+       "whatIfPrice": null,
+       "heroRenderPriceOptions": "NONE",
+       "financeOption": {
+        "financeTerm": 18,
+        "monthlyPayment": 33.34,
+        "offerId": "887456",
+        "planType": "Deferred",
+        "rate": 0,
+        "totalCost": 599.99,
+        "totalCostIncludingTax": 599.99
+       },
+       "dealExpirationTimeStamp": null,
+       "displayableRegularPrice": 999.99,
+       "showTotalSavings": true,
+       "totalSavings": 400,
+       "totalSavingsPercent": 40,
+       "openBoxSavings": null,
+       "preferredBadging": "BlackFriday",
+       "puckDisplayMessage": "Black Friday Deal",
+       "puckMessageURL": "https://www.bestbuy.com/black-friday",
+       "totalNonPaidMemberSavings": 400,
+       "totalPaidMemberSavings": 0,
+       "displayableCustomerPrice": 599.99,
+       "icrCode": null,
+       "restrictedPriceDisplayMessage": null,
+       "openBoxCondition": null,
+       "tieredOffersTracking": null,
+       "connectionType": "3",
+       "__typename": "ItemPrice",
+       "rewardCabosAvailable": null,
+       "spendAndGetCabosAvailable": null
+      },
+      "waitlists": null,
+      "seller": {
+       "classification": "1P",
+       "id": "bby"
+      },
+      "plpFeaturedSku": {
+       "rank": 1,
+       "rankingId": "0001cUDflXPxAqOwb3g7f28iqawDsjvq"
+      },
+      "primaryImage": {
+       "piscesHref": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7f4ab98f-7332-4e52-a474-70cb1c990d27.jpg",
+       "mediaType": "image/jpeg",
+       "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7f4ab98f-7332-4e52-a474-70cb1c990d27.jpg",
+       "height": "1299",
+       "altText": "Dell - 15.6\" 2K Touchscreen Laptop - Intel 13th Generation Core i7 1355U 2023 - 16GB Memory - 512 GB Storage - Carbon Black"
+      },
+      "productVariationListDisplay": null,
+      "esrbRating": null,
+      "manufacturer": {
+       "modelNumber": "LDC15250-7427BLK-PUS"
+      },
+      "publisher": null,
+      "dotComStreetDate": null,
+      "primaryArtists": null,
+      "isNew": false,
+      "offers": {
+       "__typename": "SkuOffersConnection",
+       "offers": [
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": true,
+         "offerId": "57053687",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58125328",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "57496936",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "799781",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "57911718",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58126938",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "808318",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "58124809",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "795607",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        },
+        {
+         "__typename": "SkuOffer",
+         "hotOffer": false,
+         "offerId": "57496210",
+         "offerType": "PWP Global",
+         "complexMemberOffer": false
+        }
+       ]
+      },
+      "productRecalled": false
+     }
+    },
+    {
+     "variationId": null,
+     "clusterGroup": null,
+     "combo": {
+      "id": "bdc6ff8f-58aa-494a-a866-c6be3ed29381",
+      "pdpUrl": "https://www.bestbuy.com/site/combo/pc-laptops/bdc6ff8f-58aa-494a-a866-c6be3ed29381",
+      "driverSku": {
+       "skuId": "6668952",
+       "openBoxCondition": null,
+       "whatItIs": [
+        "Laptop Computer"
+       ]
+      },
+      "comboProducts": [
+       {
+        "quantity": 1,
+        "sequence": 0,
+        "product": {
+         "skuId": "6668952",
+         "badges": [
+          {
+           "detailsHref": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+           "displayName": "Core essentials PC",
+           "endDate": "2028-09-17T04:45Z",
+           "imageHref": null,
+           "sortOrder": 1,
+           "startDate": "2026-09-18T22:30Z",
+           "typeCode": "NA"
+          }
+         ],
+         "operationalAttributes": [
+          {
+           "values": [
+            "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/6668952?force_cache=20260318000000&pn=https://api.bestbuy.com/click/-/6668952/pdp"
+           ]
+          },
+          {
+           "values": [
+            "https://ws.cs.1worldsync.com/afe75039/page/e3af23b796?mf=DELL&pn=LDC15250-7427BLK-PUS&lang=EN&market=US&host=www.bestbuy.com&nld=3"
+           ]
+          },
+          {
+           "values": [
+            "Dell DC15250"
+           ]
+          },
+          {
+           "values": [
+            "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/13th_Gen_Intel_Core_i7_Consumer_Mobile?force_cache=14940&pn=https://api.bestbuy.com/click/-/6668952/pdp"
+           ]
+          },
+          {
+           "values": [
+            "Dell 15 DC15250",
+            "65 Watt AC Adapter",
+            "US Power Cord",
+            "Documents"
+           ]
+          },
+          {
+           "values": [
+            "General purpose"
+           ]
+          }
+         ],
+         "badgesV2": [
+          {
+           "badgeId": "Core_Essentials_PCs_FY27",
+           "badgeTier": "CampaignOffer",
+           "categoryId": null,
+           "categoryName": null,
+           "description": null,
+           "experienceUrl": "https://www.bestbuy.com/site/microsoft/learn-about-microsoft-collections/pcmcat1779383274226.c?id=pcmcat1779383274226",
+           "label": "Core essentials PC",
+           "type": "gandalf",
+           "rank": 0
+          }
+         ]
+        }
+       },
+       {
+        "quantity": 1,
+        "sequence": 1,
+        "product": {
+         "skuId": "6258027",
+         "badges": null,
+         "operationalAttributes": [
+          {
+           "values": [
+            "https://media.flixcar.com/delivery/webcall/content/160/us/mpn/Intel_Core_Ultra7_processor_series2?force_cache=6915&pn=https://api.bestbuy.com/click/-/6258027/pdp"
+           ]
+          },
+          {
+           "values": [
+            "https://ws.cs.1worldsync.com/afe75039/page/e3af23b796?mf=Microsoft&pn=M365PersonalBBYUS&lang=EN&market=US&host=www.bestbuy.com&nld=2"
+           ]
+          }
+         ],
+         "badgesV2": [
+          {
+           "badgeId": "01_Best_Selling",
+           "badgeTier": null,
+           "categoryId": "abcat0508003",
+           "categoryName": "Business & Office Software",
+           "description": "One of the category's most frequently purchased items.",
+           "experienceUrl": "/discover/best-selling/best-selling-business-office-software/abcat0508003",
+           "label": "Best Selling",
+           "type": "bestSelling",
+           "rank": 2
+          }
+         ]
+        }
+       }
+      ],
+      "consolidatedButtonState": {
+       "displayText": "Add to Cart"
+      }
+     }
+    }
+   ]
+  }
+ },
+ "errors": [
+  {
+   "message": "Error - Internal Server Error",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    0,
+    "product",
+    "fulfillmentOptions"
+   ],
+   "extensions": {
+    "code": "401"
+   }
+  },
+  {
+   "message": "Error - Not Found",
+   "locations": [],
+   "path": [
+    "search",
+    "documents",
+    0,
+    "product",
+    "arModels"
+   ],
+   "extensions": {
+    "code": "NOT_FOUND"
+   }
+  }
+ ]
+}

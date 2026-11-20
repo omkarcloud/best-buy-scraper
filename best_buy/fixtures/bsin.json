@@ -1,0 +1,177 @@
+{
+ "data": {
+  "bsinProduct": {
+   "bsin": "J3K4L6QW5C",
+   "brand": "Dell",
+   "seoPdpUrl": "https://www.bestbuy.com/product/dell-15-6-2k-touchscreen-laptop-intel-13th-generation-core-i7-1355u-2023-16gb-memory-512-gb-storage-carbon-black/J3K4L6QW5C",
+   "products": [
+    {
+     "skuId": "6668952",
+     "openBoxCondition": null,
+     "condition": {
+      "type": "new"
+     },
+     "seller": {
+      "classification": "1P",
+      "id": "bby"
+     }
+    },
+    {
+     "skuId": "12575317",
+     "openBoxCondition": null,
+     "condition": {
+      "type": "new"
+     },
+     "seller": {
+      "classification": "3P",
+      "id": "2695"
+     }
+    },
+    {
+     "skuId": "12750857",
+     "openBoxCondition": null,
+     "condition": {
+      "type": "new"
+     },
+     "seller": {
+      "classification": "3P",
+      "id": "2228"
+     }
+    },
+    {
+     "skuId": "12723428",
+     "openBoxCondition": null,
+     "condition": {
+      "type": "new"
+     },
+     "seller": {
+      "classification": "3P",
+      "id": "7090"
+     }
+    },
+    {
+     "skuId": "12605032",
+     "openBoxCondition": null,
+     "condition": {
+      "type": "new"
+     },
+     "seller": {
+      "classification": "3P",
+      "id": "2837"
+     }
+    },
+    {
+     "skuId": "13025298",
+     "openBoxCondition": null,
+     "condition": {
+      "type": "new"
+     },
+     "seller": {
+      "classification": "3P",
+      "id": "2163"
+     }
+    },
+    {
+     "skuId": "12601023",
+     "openBoxCondition": null,
+     "condition": {
+      "type": "new"
+     },
+     "seller": {
+      "classification": "3P",
+      "id": "2465"
+     }
+    },
+    {
+     "skuId": "12693339",
+     "openBoxCondition": null,
+     "condition": {
+      "type": "new"
+     },
+     "seller": {
+      "classification": "3P",
+      "id": "2157"
+     }
+    },
+    {
+     "skuId": "13276613",
+     "openBoxCondition": null,
+     "condition": {
+      "type": "refurbished excellent"
+     },
+     "seller": {
+      "classification": "3P",
+      "id": "6562"
+     }
+    },
+    {
+     "skuId": "12860179",
+     "openBoxCondition": null,
+     "condition": {
+      "type": "refurbished excellent"
+     },
+     "seller": {
+      "classification": "3P",
+      "id": "7616"
+     }
+    },
+    {
+     "skuId": "12706180",
+     "openBoxCondition": null,
+     "condition": {
+      "type": "new"
+     },
+     "seller": {
+      "classification": "3P",
+      "id": "2124"
+     }
+    },
+    {
+     "skuId": "12618853",
+     "openBoxCondition": null,
+     "condition": {
+      "type": "new"
+     },
+     "seller": {
+      "classification": "3P",
+      "id": "7032"
+     }
+    },
+    {
+     "skuId": "13168165",
+     "openBoxCondition": null,
+     "condition": {
+      "type": "refurbished excellent"
+     },
+     "seller": {
+      "classification": "3P",
+      "id": "2465"
+     }
+    },
+    {
+     "skuId": "12581926",
+     "openBoxCondition": null,
+     "condition": {
+      "type": "new"
+     },
+     "seller": {
+      "classification": "3P",
+      "id": "2934"
+     }
+    },
+    {
+     "skuId": "12618856",
+     "openBoxCondition": null,
+     "condition": {
+      "type": "refurbished excellent"
+     },
+     "seller": {
+      "classification": "3P",
+      "id": "7032"
+     }
+    }
+   ]
+  }
+ },
+ "errors": []
+}
